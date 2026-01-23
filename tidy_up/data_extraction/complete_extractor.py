@@ -52,5 +52,12 @@ if __name__ == '__main__':
     res = [r for r in res if r.verify()]
     res = combine_all_tuples(res)
     filter_combined_results(res)
+
+    # count locations
+    loc_count = 0
+    for r in res:
+        loc_count += len(r.get_locations())
+    print(f"Location count: {loc_count}")
+
     write_results_to_file(sorted(res, key=lambda r: r.get_object()))
     create_and_write_reverse_dataset(res)
