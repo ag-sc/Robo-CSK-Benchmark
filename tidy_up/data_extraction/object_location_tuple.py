@@ -39,6 +39,13 @@ class ObjectLocationTuple:
 
         self._locations.append(location)
 
+    def remove_location(self, locations: [RankedLocation]):
+        len_bef = len(self._locations)
+        self._locations = [l for l in self._locations if l not in locations]
+        if len(self._locations) == 0:
+            self._is_correct = False
+        assert len_bef == len(self._locations) + len(locations)
+
     def combine_tuples(self, tup: 'ObjectLocationTuple'):
         if not tup.verify():
             return

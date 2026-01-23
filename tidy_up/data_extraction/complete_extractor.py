@@ -18,8 +18,17 @@ def extract_from_all_sources() -> [ObjectLocationTuple]:
     return res_coco + res_ascent + res_ai2thor + res_cskg + res_housekeep
 
 
+def filter_combined_results(results: [ObjectLocationTuple]):
+    thresh = 0.5
+    for r in results:
+        to_rem = []
+        for l in r.get_locations():
+            if l.get_trust() <= thresh:
+                to_rem.append(l)
+        r.remove_location(to_rem)
+
 def write_results_to_file(results: [ObjectLocationTuple]):
-    dict_list = [re.to_dict() for re in results]
+    dict_list = [re.to_dict() for re in results if len(re.get_locations()) > 0]
     df = pd.DataFrame(dict_list)
     df.to_csv('../tidy_up_data.csv', index=False)
 
@@ -42,5 +51,6 @@ if __name__ == '__main__':
     res = extract_from_all_sources()
     res = [r for r in res if r.verify()]
     res = combine_all_tuples(res)
+    filter_combined_results(res)
     write_results_to_file(sorted(res, key=lambda r: r.get_object()))
     create_and_write_reverse_dataset(res)
