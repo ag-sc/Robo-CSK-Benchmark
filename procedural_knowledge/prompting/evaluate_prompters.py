@@ -1,5 +1,6 @@
 from procedural_knowledge.json_utils import extract_results_json
 import pandas as pd
+import json
 
 
 def evaluate_classification(data):
@@ -60,7 +61,7 @@ def evaluate_binary(prompters):
         for correct_answer in ["Yes", "No"]:
             for temporal_relation in ["after", "before"]:
                 for recipe_number in range(1, 5):
-                    evaluation_file = f'procedural_knowledge/results/{correct_answer}/{prompter.model_name}/{temporal_relation}_{recipe_number}.json'
+                    evaluation_file = f'procedural_knowledge/results_binary/{correct_answer}/{prompter.model_name}/{temporal_relation}_{recipe_number}.json'
 
                     try:
                         results = extract_results_json(evaluation_file)
