@@ -1,0 +1,1202 @@
+[
+    {
+        "title": "Gingersnap Gravy",
+        "question": "In the recipe 'Gingersnap Gravy', which step occurs before 'Add stock, bring to boil'?\n\nOptions:\n- Strain into martini glass\n- Crumble gingersnaps, whisk\n- Saute onions, celery, garlic\n- Bake at 375 degrees\n- Grill chops, brush with glaze",
+        "response": "Saute onions, celery, garlic",
+        "correct_response": "Saute onions, celery, garlic"
+    },
+    {
+        "title": "Mom's Pumpkin Pie Squares Recipe",
+        "question": "In the recipe 'Mom's Pumpkin Pie Squares Recipe', which step occurs before 'Pour into pan, sprinkle mix'?\n\nOptions:\n- Add cabbage, simmer until tender\n- Top with pine nuts\n- Bake until done\n- Boil marinade with spinach\n- Combine milk, eggs, spices",
+        "response": "Combine milk, eggs, spices",
+        "correct_response": "Combine milk, eggs, spices"
+    },
+    {
+        "title": "Shrimp and Pasta in a Basil Cream Sauce",
+        "question": "In the recipe 'Shrimp and Pasta in a Basil Cream Sauce', which step occurs before 'Saute shallots and garlic'?\n\nOptions:\n- Pour dressing, toss well\n- Cook chicken until browned\n- Cook pasta until al dente\n- Add shrimp and tomatoes\n- Add velveeta, melt cheese",
+        "response": "Cook pasta until al dente",
+        "correct_response": "Cook pasta until al dente"
+    },
+    {
+        "title": "Smoked Fish & Broccoli Flan",
+        "question": "In the recipe 'Smoked Fish & Broccoli Flan', which step occurs before 'Arrange broccoli, onion, fish'?\n\nOptions:\n- Stir in cheese, crab meat\n- Roll out dough, line dish\n- Pour mixture, sprinkle cheese\n- Puree soup, season, serve\n- Simmer, strain, refrigerate soup",
+        "response": "Roll out dough, line dish",
+        "correct_response": "Roll out dough, line dish"
+    },
+    {
+        "title": "Turkey Roast Supreme (Crock Pot)",
+        "question": "In the recipe 'Turkey Roast Supreme (Crock Pot)', which step occurs before 'Rub spice mixture on turkey'?\n\nOptions:\n- Use crock pot\n- Mix ingredients and chill\n- Boil marinade with spinach\n- Layer vegetables in crock pot\n- Cook on low or high",
+        "response": "Mix ingredients and chill",
+        "correct_response": "Layer vegetables in crock pot"
+    },
+    {
+        "title": "Eggless Chocolate Chipit Snackin' Muffins",
+        "question": "In the recipe 'Eggless Chocolate Chipit Snackin' Muffins', which step occurs before 'Combine dry ingredients in bowl'?\n\nOptions:\n- Chill before serving\n- Bake with cheese and chips\n- Stir in chocolate chips\n- Preheat oven to 400 degrees\n- Top with mashed potatoes",
+        "response": "Preheat oven to 400 degrees",
+        "correct_response": "Preheat oven to 400 degrees"
+    },
+    {
+        "title": "Sideways Sour",
+        "question": "In the recipe 'Sideways Sour', which step occurs before 'Add ice and shake'?\n\nOptions:\n- Stir in pasta, refrigerate\n- Combine ingredients in shaker\n- Pour cream over layers\n- Strain into martini glass\n- Top with pine nuts",
+        "response": "Combine ingredients in shaker",
+        "correct_response": "Combine ingredients in shaker"
+    },
+    {
+        "title": "Chicken Soup",
+        "question": "In the recipe 'Chicken Soup', which step occurs before 'Add bouillon, vegetables, water'?\n\nOptions:\n- Bake until cheese melts\n- Rinse chicken, place in pot\n- Simmer, strain, refrigerate soup\n- Cook rice with broth\n- Crack eggs into indentations",
+        "response": "Rinse chicken, place in pot",
+        "correct_response": "Rinse chicken, place in pot"
+    },
+    {
+        "title": "Coriander Potatoes",
+        "question": "In the recipe 'Coriander Potatoes', which step occurs before 'Bake until tender and brown'?\n\nOptions:\n- Bake until crispy\n- Mix potatoes and oil\n- Mix in coriander and cilantro\n- Cook rabbit casserole in oven\n- Simmer until thoroughly heated",
+        "response": "Mix potatoes and oil",
+        "correct_response": "Mix potatoes and oil"
+    },
+    {
+        "title": "Salmon Stir-Fry",
+        "question": "In the recipe 'Salmon Stir-Fry', which step occurs before 'Add salmon and beans'?\n\nOptions:\n- Heat oil in wok\n- Ice cake with Boiled Icing\n- Cook until golden brown\n- Bake until stuffing browned\n- Pour over orange dressing",
+        "response": "Heat oil in wok",
+        "correct_response": "Heat oil in wok"
+    },
+    {
+        "title": "Indian Peanut Stew",
+        "question": "In the recipe 'Indian Peanut Stew', which step occurs before 'Cook onion until golden'?\n\nOptions:\n- Cook rice until tender\n- Pour into greased pan\n- Stir in peanut butter\n- Scramble eggs with vegetables\n- Pour water slowly",
+        "response": "Pour water slowly",
+        "correct_response": "Cook rice until tender"
+    },
+    {
+        "title": "Brunch Cornbread",
+        "question": "In the recipe 'Brunch Cornbread', which step occurs before 'Mix wet and dry ingredients'?\n\nOptions:\n- Pour into dish, bake\n- Preheat oven, grease dish\n- Crumble gingersnaps, whisk\n- Bake until cheese melts\n- Invert flans onto plates",
+        "response": "Preheat oven, grease dish",
+        "correct_response": "Preheat oven, grease dish"
+    },
+    {
+        "title": "Cheesy Potato and Ham Squares",
+        "question": "In the recipe 'Cheesy Potato and Ham Squares', which step occurs before 'Spread potatoes in dish'?\n\nOptions:\n- Bake until golden brown\n- Use as needed\n- Boil and mash potatoes\n- Use crock pot\n- Serve immediately",
+        "response": "Boil and mash potatoes",
+        "correct_response": "Boil and mash potatoes"
+    },
+    {
+        "title": "Asian-Style Baked Onions, Potatoes & Sweet Potatoes",
+        "question": "In the recipe 'Asian-Style Baked Onions, Potatoes & Sweet Potatoes', which step occurs before 'Toss vegetables with oil'?\n\nOptions:\n- Bake vegetables until tender\n- Bake, add cilantro, serve\n- Preheat oven to 220C\n- Broil chicken until skin browned\n- Stir in pasta, refrigerate",
+        "response": "Preheat oven to 220C",
+        "correct_response": "Preheat oven to 220C"
+    },
+    {
+        "title": "Lynns Perfect Brownies",
+        "question": "In the recipe 'Lynns Perfect Brownies', which step occurs before 'Add flour, oats, cocoa'?\n\nOptions:\n- Top with mashed potatoes\n- Pour into greased pan\n- Gradually add flour mixture\n- Pour broth over stuffing\n- Cream butter, sugar, eggs",
+        "response": "Cream butter, sugar, eggs",
+        "correct_response": "Cream butter, sugar, eggs"
+    },
+    {
+        "title": "Date Loaves (21 Day Wonder Diet: Day 7)",
+        "question": "In the recipe 'Date Loaves (21 Day Wonder Diet: Day 7)', which step occurs before 'Whisk egg white, add ingredients'?\n\nOptions:\n- Stir in cheese, crab meat\n- Divide mixture, bake loaves\n- Preheat oven and spray pan\n- Top tuna with pesto\n- Serve with fennel oil",
+        "response": "Preheat oven and spray pan",
+        "correct_response": "Preheat oven and spray pan"
+    },
+    {
+        "title": "Eggplant a La Tammy Wynette",
+        "question": "In the recipe 'Eggplant a La Tammy Wynette', which step occurs before 'Saute onions in same pan'?\n\nOptions:\n- Boil marinade with spinach\n- Serve with fennel oil\n- Saute eggplant in butter\n- Pour mixture into pie shell\n- Bake until hot & bubbly",
+        "response": "Saute eggplant in butter",
+        "correct_response": "Saute eggplant in butter"
+    },
+    {
+        "title": "Stuffed Mushroom Caps Deluxe",
+        "question": "In the recipe 'Stuffed Mushroom Caps Deluxe', which step occurs before 'Stuff mushrooms with mixture'?\n\nOptions:\n- Enjoy\n- Mix ingredients and chill\n- Bake samosas until browned\n- Preheat oven\n- Bake until stuffing browned",
+        "response": "Preheat oven",
+        "correct_response": "Preheat oven"
+    },
+    {
+        "title": "Pressure Cooker Pot Roast",
+        "question": "In the recipe 'Pressure Cooker Pot Roast', which step occurs before 'Layer ingredients over roast'?\n\nOptions:\n- Fill skins with mixture\n- Pour broth and cook\n- Brown roast in oil\n- Stir in pasta, refrigerate\n- Cook until cheese melts",
+        "response": "Brown roast in oil",
+        "correct_response": "Brown roast in oil"
+    },
+    {
+        "title": "Spinach Dip in a Bread Bowl",
+        "question": "In the recipe 'Spinach Dip in a Bread Bowl', which step occurs before 'Add spinach and blend'?\n\nOptions:\n- Beat sour cream mixture\n- Put dip in bread bowl\n- Chill until serving\n- Broil chicken until skin browned\n- Fry mixture until golden brown",
+        "response": "Beat sour cream mixture",
+        "correct_response": "Beat sour cream mixture"
+    },
+    {
+        "title": "Banana Smoothie",
+        "question": "In the recipe 'Banana Smoothie', which step occurs before 'Add banana; blend again'?\n\nOptions:\n- Add ice, honey; blend\n- Spoon mixture into watermelon\n- Blend cereal and water\n- Top with pine nuts\n- Bake, add cilantro, serve",
+        "response": "Blend cereal and water",
+        "correct_response": "Blend cereal and water"
+    },
+    {
+        "title": "Classic Fish and Chips",
+        "question": "In the recipe 'Classic Fish and Chips', which step occurs before 'Fry potatoes until golden'?\n\nOptions:\n- Grill until golden brown\n- Fry fish until brown\n- Bake bread until brown\n- Garnish with apple slice\n- Cut potatoes into strips",
+        "response": "Cut potatoes into strips",
+        "correct_response": "Cut potatoes into strips"
+    },
+    {
+        "title": "BANGKOK BEEF & BASIL Recipe",
+        "question": "In the recipe 'BANGKOK BEEF & BASIL Recipe', which step occurs before 'Stir-fry beef and pepper'?\n\nOptions:\n- Dip candies in chocolate\n- Combine ingredients in wok\n- Pour into crust\n- Add corn, milk, VELVEETA\n- Marinate beef in teriyaki",
+        "response": "Marinate beef in teriyaki",
+        "correct_response": "Marinate beef in teriyaki"
+    },
+    {
+        "title": "Weight Watchers Mushroom in Cream Sauce!!!",
+        "question": "In the recipe 'Weight Watchers Mushroom in Cream Sauce!!!', which step occurs before 'Add remaining ingredients'?\n\nOptions:\n- Heat until cheese melts\n- Stir in half-and-half\n- Simmer on low, covered\n- Bake casserole until bubbly\n- Saute mushrooms till soft",
+        "response": "Saute mushrooms till soft",
+        "correct_response": "Saute mushrooms till soft"
+    },
+    {
+        "title": "Marty's Creamy Pineapple Sorbet",
+        "question": "In the recipe 'Marty's Creamy Pineapple Sorbet', which step occurs before 'Add yogurt and lemon juice'?\n\nOptions:\n- Assemble trifle with layers\n- Chop pineapple in processor\n- Bake, add cilantro, serve\n- Cook rabbit casserole in oven\n- Stir in sugar substitute",
+        "response": "Chop pineapple in processor",
+        "correct_response": "Chop pineapple in processor"
+    },
+    {
+        "title": "Angel Food Cake with a Fresh Lemon Curd",
+        "question": "In the recipe 'Angel Food Cake with a Fresh Lemon Curd', which step occurs before 'Bake until golden brown'?\n\nOptions:\n- Beat egg whites to peaks\n- Cook on low or high\n- Stir-fry until vegetables tender\n- Refrigerate on wax-lined trays\n- Ice cake with Boiled Icing",
+        "response": "Beat egg whites to peaks",
+        "correct_response": "Beat egg whites to peaks"
+    },
+    {
+        "title": "Life of the Party Hummus",
+        "question": "In the recipe 'Life of the Party Hummus', which step occurs before 'Process ingredients until smooth'?\n\nOptions:\n- Boil marinade with spinach\n- Top with pine nuts\n- Toast pine nuts\n- Grill steak to desired doneness\n- Simmer on low, covered",
+        "response": "Toast pine nuts",
+        "correct_response": "Toast pine nuts"
+    },
+    {
+        "title": "Pork Porterhouse With Kumquat Chutney",
+        "question": "In the recipe 'Pork Porterhouse With Kumquat Chutney', which step occurs before 'Simmer until syrupy'?\n\nOptions:\n- Garnish with garlic\n- Serve as desired\n- Combine ingredients in processor\n- Combine vinegar, sugar, salt\n- Add kumquats, simmer until thick",
+        "response": "- Combine vinegar, sugar, salt",
+        "correct_response": "Combine vinegar, sugar, salt"
+    },
+    {
+        "title": "Cal's Nutri-Bomb Green Smoothie",
+        "question": "In the recipe 'Cal's Nutri-Bomb Green Smoothie', which step occurs before 'Process until smooth'?\n\nOptions:\n- Cut out biscuits, place on sheet\n- Combine ingredients in blender\n- Let sit, then slice\n- Serve immediately\n- Crumble gingersnaps, whisk",
+        "response": "Combine ingredients in blender",
+        "correct_response": "Combine ingredients in blender"
+    },
+    {
+        "title": "Pearl Couscous Salad",
+        "question": "In the recipe 'Pearl Couscous Salad', which step occurs before 'Cook lentils until tender'?\n\nOptions:\n- Cook on low or high\n- Mix vegetables into couscous\n- Bake, then drain fat\n- Toast couscous in oil\n- Cook rabbit casserole in oven",
+        "response": "Toast couscous in oil",
+        "correct_response": "Toast couscous in oil"
+    },
+    {
+        "title": "Tennessee-Whiskey Glazed Pork Chops",
+        "question": "In the recipe 'Tennessee-Whiskey Glazed Pork Chops', which step occurs before 'Heat whiskey mixture, reduce'?\n\nOptions:\n- Stir vinegar into potatoes\n- Fry doughnuts until golden\n- Whisk whiskey mixture ingredients\n- Grill chops, brush with glaze\n- Combine quinoa, carrots, parsley",
+        "response": "Whisk whiskey mixture ingredients",
+        "correct_response": "Whisk whiskey mixture ingredients"
+    },
+    {
+        "title": "Peanut Butter TreatsTM",
+        "question": "In the recipe 'Peanut Butter TreatsTM', which step occurs before 'Stir in peanut butter'?\n\nOptions:\n- Add tomatoes, beans, spices\n- Melt butter and marshmallows\n- Mix oats with liquid\n- Add cereal and stir\n- Crumble gingersnaps, whisk",
+        "response": "Melt butter and marshmallows",
+        "correct_response": "Melt butter and marshmallows"
+    },
+    {
+        "title": "Fig, Prosciutto and Brie Panini",
+        "question": "In the recipe 'Fig, Prosciutto and Brie Panini', which step occurs before 'Layer prosciutto, arugula, cheese'?\n\nOptions:\n- Top with reserved ingredients\n- Pour broth over stuffing\n- Spread fig butter on rolls\n- Cook until cheese melts\n- Freeze until ready",
+        "response": "Spread fig butter on rolls",
+        "correct_response": "Spread fig butter on rolls"
+    },
+    {
+        "title": "Creamy Shrimp and Corn Bowl",
+        "question": "In the recipe 'Creamy Shrimp and Corn Bowl', which step occurs before 'Add onions, water, seasoning'?\n\nOptions:\n- Stir in half-and-half\n- Saute shrimp in pan\n- Mix all ingredients well\n- Mix in coriander and cilantro\n- Stir in pasta, refrigerate",
+        "response": "Saute shrimp in pan",
+        "correct_response": "Saute shrimp in pan"
+    },
+    {
+        "title": "Melanie's Tangy Chicken Casserole",
+        "question": "In the recipe 'Melanie's Tangy Chicken Casserole', which step occurs before 'Combine ingredients in dish'?\n\nOptions:\n- Cook pasta until tender\n- Fill skins with mixture\n- Bake at 375 degrees\n- Pour mixture into pie shell\n- Toss with vinaigrette, refrigerate",
+        "response": "Cook pasta until tender",
+        "correct_response": "Cook pasta until tender"
+    },
+    {
+        "title": "Southwestern Pasta Salad",
+        "question": "In the recipe 'Southwestern Pasta Salad', which step occurs before 'Mix salsa, oil, lime'?\n\nOptions:\n- Pour over mixture, cover\n- Stir in pasta, refrigerate\n- Mix ingredients and chill\n- Cook pasta, add corn\n- Add pumpkin, oil, and eggs",
+        "response": "Cook pasta, add corn",
+        "correct_response": "Cook pasta, add corn"
+    },
+    {
+        "title": "Alison's Hummus",
+        "question": "In the recipe 'Alison's Hummus', which step occurs before 'Drizzle oil while blending'?\n\nOptions:\n- Top with fresh parsley\n- Top with reserved ingredients\n- Blend all ingredients\n- Chill before serving\n- Roll up vine leaves",
+        "response": "Blend all ingredients",
+        "correct_response": "Blend all ingredients"
+    },
+    {
+        "title": "Miss Jane's Mesquite Mustard Pork Tenderloin",
+        "question": "In the recipe 'Miss Jane's Mesquite Mustard Pork Tenderloin', which step occurs before 'Roast in 375F oven'?\n\nOptions:\n- Add corn, milk, VELVEETA\n- Bake until cheese melts\n- Coat tenderloin with mustard\n- Let sit, then slice\n- Roll dough, cut, twist strips",
+        "response": "Coat tenderloin with mustard",
+        "correct_response": "Coat tenderloin with mustard"
+    },
+    {
+        "title": "Avocado Daiquiri",
+        "question": "In the recipe 'Avocado Daiquiri', which step occurs before 'Blend on high until smooth'?\n\nOptions:\n- Combine ingredients in blender\n- Pour broth and cook\n- Divide mixture between glasses\n- Pour pudding over cake\n- Mix vegetables into couscous",
+        "response": "Combine ingredients in blender",
+        "correct_response": "Combine ingredients in blender"
+    },
+    {
+        "title": "My Chili",
+        "question": "In the recipe 'My Chili', which step occurs before 'Add onions and garlic'?\n\nOptions:\n- Bake to heat through\n- Rinse with tepid water\n- Brown meat in batches\n- Add tomatoes, beans, spices\n- Add potatoes and broth",
+        "response": "Brown meat in batches",
+        "correct_response": "Brown meat in batches"
+    },
+    {
+        "title": "Boerenkool Met Rookworst (Curly Kale with Smoked Sausages)",
+        "question": "In the recipe 'Boerenkool Met Rookworst (Curly Kale with Smoked Sausages)', which step occurs before 'Add potatoes and oats'?\n\nOptions:\n- Cook kale and bacon\n- Strain, top, garnish\n- Mash potatoes and kale\n- Bake, then drain fat\n- Add cabbage, simmer until tender",
+        "response": "Cook kale and bacon",
+        "correct_response": "Cook kale and bacon"
+    },
+    {
+        "title": "Fillet of Halibut Baked in Parchment with Stewed Leeks, Golden Potatoes and Truffle Butter",
+        "question": "In the recipe 'Fillet of Halibut Baked in Parchment with Stewed Leeks, Golden Potatoes and Truffle Butter', which step occurs before 'Simmer leeks with orange zest'?\n\nOptions:\n- Cook until golden brown\n- Stir ingredients, bake, garnish\n- Roast potatoes until tender\n- Preheat oven to 450 degrees\n- Boil all ingredients in saucepan",
+        "response": "Preheat oven to 450 degrees",
+        "correct_response": "Preheat oven to 450 degrees"
+    },
+    {
+        "title": "Angel Hair Pasta With Walnut-Carrot Sauce",
+        "question": "In the recipe 'Angel Hair Pasta With Walnut-Carrot Sauce', which step occurs before 'Pulse carrots, walnuts, garlic'?\n\nOptions:\n- Top with mashed potatoes\n- Add chicken and sausage\n- Cook pasta, reserve water\n- Simmer sauce, toss pasta\n- Cook pasta, serve with beef",
+        "response": "Cook pasta, reserve water",
+        "correct_response": "Cook pasta, reserve water"
+    },
+    {
+        "title": "Laotian Five Vegetable Stir-Fry",
+        "question": "In the recipe 'Laotian Five Vegetable Stir-Fry', which step occurs before 'Add carrots, onion, pepper'?\n\nOptions:\n- Pour batter into tin\n- Cook chicken in oil\n- Heat oil in skillet\n- Stir-fry until vegetables tender\n- Mix cornstarch, sugar, vinegar",
+        "response": "Heat oil in skillet",
+        "correct_response": "Heat oil in skillet"
+    },
+    {
+        "title": "Sacher Torte",
+        "question": "In the recipe 'Sacher Torte', which step occurs before 'Beat egg whites with sugar'?\n\nOptions:\n- Preheat oven and grease pans\n- Fry doughnuts until golden\n- Cook rabbit casserole in oven\n- Pour batter into pans\n- Pour in white wine",
+        "response": "Preheat oven and grease pans",
+        "correct_response": "Preheat oven and grease pans"
+    },
+    {
+        "title": "Grilled Ham, Caramelized Onion, Apple, and Cheese Sandwiches",
+        "question": "In the recipe 'Grilled Ham, Caramelized Onion, Apple, and Cheese Sandwiches', which step occurs before 'Layer onion, ham, apple, cheese'?\n\nOptions:\n- Add cream, season to taste\n- Add velveeta, melt cheese\n- Brush bread with Dijon Glaze\n- Bake with cheese and almonds\n- Grill until golden brown",
+        "response": "Brush bread with Dijon Glaze",
+        "correct_response": "Brush bread with Dijon Glaze"
+    },
+    {
+        "title": "Roasted Root Vegetable Pasta Salad",
+        "question": "In the recipe 'Roasted Root Vegetable Pasta Salad', which step occurs before 'Add pasta, vegetables to bowl'?\n\nOptions:\n- Roll dough, cut, twist strips\n- Sprinkle with cheese\n- Toss with vinaigrette, refrigerate\n- Whisk oil, vinegar, mustard\n- Divide batter, sprinkle topping",
+        "response": "Whisk oil, vinegar, mustard",
+        "correct_response": "Whisk oil, vinegar, mustard"
+    },
+    {
+        "title": "Amish Biscuits",
+        "question": "In the recipe 'Amish Biscuits', which step occurs before 'Mix starter with dry ingredients'?\n\nOptions:\n- Combine dry ingredients\n- Cut out biscuits, place on sheet\n- Bake at 375 degrees\n- Bake with cheese and almonds\n- Swirl lemon butter into batter",
+        "response": "Combine dry ingredients",
+        "correct_response": "Combine dry ingredients"
+    },
+    {
+        "title": "Vanilla Lime Creamsicle",
+        "question": "In the recipe 'Vanilla Lime Creamsicle', which step occurs before 'Garnish with lime wedge'?\n\nOptions:\n- Add sugar and salt\n- Enjoy\n- Mix ingredients in glass\n- Bake vegetables until tender\n- Bake salmon and steam vegetables",
+        "response": "Mix ingredients in glass",
+        "correct_response": "Mix ingredients in glass"
+    },
+    {
+        "title": "Tex Mex Chimichurri",
+        "question": "In the recipe 'Tex Mex Chimichurri', which step occurs before 'Blend all chimichurri ingredients'?\n\nOptions:\n- Pour batter into pans\n- Drizzle oil for consistency\n- Add velveeta, melt cheese\n- Squeeze and zest lime\n- Season tilapia, nestle in sauce",
+        "response": "Squeeze and zest lime",
+        "correct_response": "Squeeze and zest lime"
+    },
+    {
+        "title": "Asian Rice Salad",
+        "question": "In the recipe 'Asian Rice Salad', which step occurs before 'Drain edamame well'?\n\nOptions:\n- Rinse edamame under water\n- Cook on low heat\n- Toss ingredients until combined\n- Dip candies in chocolate\n- Dress vegetables with lime mixture",
+        "response": "Rinse edamame under water",
+        "correct_response": "Rinse edamame under water"
+    },
+    {
+        "title": "Summer Rye",
+        "question": "In the recipe 'Summer Rye', which step occurs before 'Add rye, liqueur, juices'?\n\nOptions:\n- Mix cornstarch, sugar, vinegar\n- Serve as desired\n- Cut out biscuits, place on sheet\n- Fill shaker with ice\n- Strain, top, garnish",
+        "response": "Fill shaker with ice",
+        "correct_response": "Fill shaker with ice"
+    },
+    {
+        "title": "Sauteed Turkey Cutlets With Cranberry Orange Glaze Recipe",
+        "question": "In the recipe 'Sauteed Turkey Cutlets With Cranberry Orange Glaze Recipe', which step occurs before 'Coat with bread crumbs'?\n\nOptions:\n- Drizzle with cranberry glaze\n- Invert flans onto plates\n- Crack eggs into indentations\n- Dip cutlets in egg\n- Cook until golden brown",
+        "response": "Dip cutlets in egg",
+        "correct_response": "Dip cutlets in egg"
+    },
+    {
+        "title": "Grilled Severn Salmon",
+        "question": "In the recipe 'Grilled Severn Salmon', which step occurs before 'Grill salmon, turn, brush oil'?\n\nOptions:\n- Serve salmon with butter\n- Dry salmon, brush with oil\n- Stir-fry until vegetables tender\n- Cook rabbit casserole in oven\n- Garnish with garlic",
+        "response": "Dry salmon, brush with oil",
+        "correct_response": "Dry salmon, brush with oil"
+    },
+    {
+        "title": "Custard Pumpkin Pie Recipe",
+        "question": "In the recipe 'Custard Pumpkin Pie Recipe', which step occurs before 'Bake at 450 degrees'?\n\nOptions:\n- Add ice, honey; blend\n- Combine ingredients, pour shell\n- Cook on low or high\n- Cut out biscuits, place on sheet\n- Reduce to 325 degrees",
+        "response": "Combine ingredients, pour shell",
+        "correct_response": "Combine ingredients, pour shell"
+    },
+    {
+        "title": "Soft Chewy Raisin Cookies",
+        "question": "In the recipe 'Soft Chewy Raisin Cookies', which step occurs before 'Add eggs and vanilla'?\n\nOptions:\n- Combine ingredients in wok\n- Stir in nuts and raisins\n- Serve salmon with butter\n- Cream shortening, add sugar\n- Drizzle with remaining dressing",
+        "response": "Cream shortening, add sugar",
+        "correct_response": "Cream shortening, add sugar"
+    },
+    {
+        "title": "Stuffed Sweet Potato Skins",
+        "question": "In the recipe 'Stuffed Sweet Potato Skins', which step occurs before 'Saute shallots, garlic, spinach'?\n\nOptions:\n- Enjoy\n- Fill skins with mixture\n- Bake sweet potatoes until tender\n- Add cereal and stir\n- Mix vegetables into couscous",
+        "response": "- Bake sweet potatoes until tender",
+        "correct_response": "Bake sweet potatoes until tender"
+    },
+    {
+        "title": "Asian Marinated Cucumbers",
+        "question": "In the recipe 'Asian Marinated Cucumbers', which step occurs before 'Combine ingredients and pour'?\n\nOptions:\n- Peel and slice cucumbers\n- Stir, cover, and refrigerate\n- Fry mixture until golden brown\n- Bake until golden brown\n- Stir in nuts and raisins",
+        "response": "Peel and slice cucumbers",
+        "correct_response": "Peel and slice cucumbers"
+    },
+    {
+        "title": "Puerto Rican Arroz Con Pollo (Rice and Chicken)",
+        "question": "In the recipe 'Puerto Rican Arroz Con Pollo (Rice and Chicken)', which step occurs before 'Add Sofrito mixture'?\n\nOptions:\n- Bake until knife comes out clean\n- Cook rice with broth\n- Brown chicken in pot\n- Stir, cover, and refrigerate\n- Bake until crispy",
+        "response": "Brown chicken in pot",
+        "correct_response": "Brown chicken in pot"
+    },
+    {
+        "title": "Slow Cooker Lentil Minestrone",
+        "question": "In the recipe 'Slow Cooker Lentil Minestrone', which step occurs before 'Cover the crock pot'?\n\nOptions:\n- Fill skins with mixture\n- Add ingredients to crock pot\n- Roast potatoes until tender\n- Cook on low heat\n- Scramble eggs with vegetables",
+        "response": "Add ingredients to crock pot",
+        "correct_response": "Add ingredients to crock pot"
+    },
+    {
+        "title": "Pumpkin Cake",
+        "question": "In the recipe 'Pumpkin Cake', which step occurs before 'Mix dry ingredients'?\n\nOptions:\n- Preheat oven and prepare pans\n- Add pumpkin, oil, and eggs\n- Add cream, season to taste\n- Bake until stuffing browned\n- Bake samosas until browned",
+        "response": "Preheat oven and prepare pans",
+        "correct_response": "Preheat oven and prepare pans"
+    },
+    {
+        "title": "Calzone Rolls with Salami, Tomato and Basil",
+        "question": "In the recipe 'Calzone Rolls with Salami, Tomato and Basil', which step occurs before 'Cover with mozzarella, tomato'?\n\nOptions:\n- Cook rabbit casserole in oven\n- Add pumpkin, oil, and eggs\n- Rinse with tepid water\n- Bake to heat through\n- Fill rolls with ricotta",
+        "response": "Fill rolls with ricotta",
+        "correct_response": "Fill rolls with ricotta"
+    },
+    {
+        "title": "Baked Potato Soup With Cauliflower (Rachael Ray)",
+        "question": "In the recipe 'Baked Potato Soup With Cauliflower (Rachael Ray)', which step occurs before 'Add cauliflower, scallion whites'?\n\nOptions:\n- Drizzle with cranberry glaze\n- Puree soup, season, serve\n- Add ice, honey; blend\n- Pour water slowly\n- Combine potatoes, milk, salt",
+        "response": "Combine potatoes, milk, salt",
+        "correct_response": "Combine potatoes, milk, salt"
+    },
+    {
+        "title": "World's Best Crock Pot Beans",
+        "question": "In the recipe 'World's Best Crock Pot Beans', which step occurs before 'Cook on low'?\n\nOptions:\n- Serve with fennel oil\n- Garnish with garlic\n- Add remaining ingredients, toss\n- Combine all ingredients\n- Use crock pot",
+        "response": "Combine all ingredients",
+        "correct_response": "Combine all ingredients"
+    },
+    {
+        "title": "Sauteed Potatoes and Leeks",
+        "question": "In the recipe 'Sauteed Potatoes and Leeks', which step occurs before 'Add leeks, cover pan'?\n\nOptions:\n- Heat butter in pan\n- Mix all ingredients well\n- Add potatoes, season, cook\n- Add rice, water, salsa\n- Pour broth over stuffing",
+        "response": "Heat butter in pan",
+        "correct_response": "Heat butter in pan"
+    },
+    {
+        "title": "Alfredo Sauce With Crab Meat",
+        "question": "In the recipe 'Alfredo Sauce With Crab Meat', which step occurs before 'Whisk in half-and-half'?\n\nOptions:\n- Stir in cheese, crab meat\n- Pour into greased pan\n- Simmer until thoroughly heated\n- Melt butter in saucepan\n- Chill before serving",
+        "response": "Melt butter in saucepan",
+        "correct_response": "Melt butter in saucepan"
+    },
+    {
+        "title": "Afghan Ambrosia - Haf-Miwah",
+        "question": "In the recipe 'Afghan Ambrosia - Haf-Miwah', which step occurs before 'Rub off skins in towel'?\n\nOptions:\n- Reduce to 325 degrees\n- Pour batter into pans\n- Pour cream over layers\n- Pour boiling water over nuts\n- Boil all ingredients in saucepan",
+        "response": "Pour boiling water over nuts",
+        "correct_response": "Pour boiling water over nuts"
+    },
+    {
+        "title": "Guacamole Refined",
+        "question": "In the recipe 'Guacamole Refined', which step occurs before 'Add onion, garlic, cilantro'?\n\nOptions:\n- Scoop avocados into processor\n- Use as needed\n- Cook chicken until browned\n- Bake until golden brown\n- Combine ingredients in processor",
+        "response": "Scoop avocados into processor",
+        "correct_response": "Scoop avocados into processor"
+    },
+    {
+        "title": "Hungarian Cabbage Noodles (Kaposztas Taszta)",
+        "question": "In the recipe 'Hungarian Cabbage Noodles (Kaposztas Taszta)', which step occurs before 'Cook cabbage until golden'?\n\nOptions:\n- Cook rice with broth\n- Serve salmon with butter\n- Combine noodles, cabbage, butter\n- Ladle soup over noodles\n- Boil water for noodles",
+        "response": "Boil water for noodles",
+        "correct_response": "Boil water for noodles"
+    },
+    {
+        "title": "Salmon With Red-Pepper Saute",
+        "question": "In the recipe 'Salmon With Red-Pepper Saute', which step occurs before 'Bake salmon in oven'?\n\nOptions:\n- Cook onion and bell pepper\n- Scramble eggs with vegetables\n- Preheat oven to 450\n- Bake until done\n- Simmer fish in sauce",
+        "response": "Preheat oven to 450",
+        "correct_response": "Preheat oven to 450"
+    },
+    {
+        "title": "Apricot-Honey Milk Mask",
+        "question": "In the recipe 'Apricot-Honey Milk Mask', which step occurs before 'Spread over face and neck'?\n\nOptions:\n- Return chicken to skillet\n- Blend ingredients until smooth\n- Rinse with tepid water\n- Drizzle with cranberry glaze\n- Swirl lemon butter into batter",
+        "response": "Blend ingredients until smooth",
+        "correct_response": "Blend ingredients until smooth"
+    },
+    {
+        "title": "Almond Joy Candies",
+        "question": "In the recipe 'Almond Joy Candies', which step occurs before 'Form coconut balls or ovals'?\n\nOptions:\n- Serve immediately\n- Bake casserole until bubbly\n- Dip candies in chocolate\n- Bake samosas until browned\n- Toast almonds in oven",
+        "response": "Toast almonds in oven",
+        "correct_response": "Toast almonds in oven"
+    },
+    {
+        "title": "Orange Blueberry Flan With Peaches",
+        "question": "In the recipe 'Orange Blueberry Flan With Peaches', which step occurs before 'Pour cream mixture into cups'?\n\nOptions:\n- Spoon mixture into watermelon\n- Invert flans onto plates\n- Add avocado pieces\n- Simmer on low, covered\n- Cook syrup until golden brown",
+        "response": "Simmer on low, covered",
+        "correct_response": "Cook syrup until golden brown"
+    },
+    {
+        "title": "Cwningen & Chorbys (Rabbit With Lentils)",
+        "question": "In the recipe 'Cwningen & Chorbys (Rabbit With Lentils)', which step occurs before 'Pour sauce over meat'?\n\nOptions:\n- Dress vegetables with lime mixture\n- Ice cake with Boiled Icing\n- Cook rabbit casserole in oven\n- Cook until cheese melts\n- Brown meat in fry pan",
+        "response": "Brown meat in fry pan",
+        "correct_response": "Brown meat in fry pan"
+    },
+    {
+        "title": "Lime-Cilantro Dressing",
+        "question": "In the recipe 'Lime-Cilantro Dressing', which step occurs before 'Process until smooth'?\n\nOptions:\n- Add potatoes and broth\n- Add sugar and salt\n- Bake until golden brown\n- Dip candies in chocolate\n- Combine ingredients in processor",
+        "response": "Combine ingredients in processor",
+        "correct_response": "Combine ingredients in processor"
+    },
+    {
+        "title": "Betty Crocker's Southwestern Guacamole Dip",
+        "question": "In the recipe 'Betty Crocker's Southwestern Guacamole Dip', which step occurs before 'Add remaining ingredients'?\n\nOptions:\n- Add flour, knead, let rise\n- Toss ingredients, refrigerate before serving\n- Chill before serving\n- Peel and mash avocados\n- Bake until cheese melts",
+        "response": "Peel and mash avocados",
+        "correct_response": "Peel and mash avocados"
+    },
+    {
+        "title": "G Bomb",
+        "question": "In the recipe 'G Bomb', which step occurs before 'Pour into shot glass'?\n\nOptions:\n- Drink immediately\n- Freeze bottles\n- Cut out biscuits, place on sheet\n- Combine noodles, cabbage, butter\n- Refrigerate on wax-lined trays",
+        "response": "Freeze bottles",
+        "correct_response": "Freeze bottles"
+    },
+    {
+        "title": "Easiest Au Gratin Potatoes",
+        "question": "In the recipe 'Easiest Au Gratin Potatoes', which step occurs before 'Layer potatoes and cheese'?\n\nOptions:\n- Spray pan with oil\n- Strain into martini glass\n- Drizzle with cranberry glaze\n- Pour cream over layers\n- Use crock pot",
+        "response": "Spray pan with oil",
+        "correct_response": "Spray pan with oil"
+    },
+    {
+        "title": "Emeril's Strawberries Romanoff with Chocolate Sauce",
+        "question": "In the recipe 'Emeril's Strawberries Romanoff with Chocolate Sauce', which step occurs before 'Add brandy and liqueur'?\n\nOptions:\n- Drizzle with chocolate\n- Spoon onto tortillas, roll\n- Add vanilla, lemon peel, juice\n- Dress vegetables with lime mixture\n- Combine ice cream and sour cream",
+        "response": "Combine ice cream and sour cream",
+        "correct_response": "Combine ice cream and sour cream"
+    },
+    {
+        "title": "Applesauce Cinnamon Ornaments Recipe",
+        "question": "In the recipe 'Applesauce Cinnamon Ornaments Recipe', which step occurs before 'Roll, cut shapes, bake'?\n\nOptions:\n- Pour batter into pans\n- Air dry overnight\n- Drain applesauce, add cinnamon\n- Stir in half-and-half\n- Garnish with apple slice",
+        "response": "Drain applesauce, add cinnamon",
+        "correct_response": "Drain applesauce, add cinnamon"
+    },
+    {
+        "title": "Multi-Grain Bread (Gluten-Free Recipe)",
+        "question": "In the recipe 'Multi-Grain Bread (Gluten-Free Recipe)', which step occurs before 'Add flour to milk mixture'?\n\nOptions:\n- Drizzle with remaining dressing\n- Return chicken to skillet\n- Chill dough in fridge\n- Combine flour and dry ingredients\n- Bake bread until brown",
+        "response": "Combine flour and dry ingredients",
+        "correct_response": "Combine flour and dry ingredients"
+    },
+    {
+        "title": "Grilled Eggplant with Sherry Vinegar Drizzle",
+        "question": "In the recipe 'Grilled Eggplant with Sherry Vinegar Drizzle', which step occurs before 'Drizzle with vinegar syrup'?\n\nOptions:\n- Cook scallops until browned\n- Grill eggplant slices\n- Bake brownies with marshmallows\n- Pour broth over stuffing\n- Garnish with garlic",
+        "response": "Grill eggplant slices",
+        "correct_response": "Grill eggplant slices"
+    },
+    {
+        "title": "Cream Cheese Grapes With Nuts",
+        "question": "In the recipe 'Cream Cheese Grapes With Nuts', which step occurs before 'Stir in grapes gently'?\n\nOptions:\n- Roll grapes in nuts\n- Chill until serving\n- Beat cream cheese and mayo\n- Bake until cheese melts\n- Cook scallops until browned",
+        "response": "Beat cream cheese and mayo",
+        "correct_response": "Beat cream cheese and mayo"
+    },
+    {
+        "title": "Brown Stewed Tilefish",
+        "question": "In the recipe 'Brown Stewed Tilefish', which step occurs before 'Saute onions, add ingredients'?\n\nOptions:\n- Pour in white wine\n- Simmer fish in sauce\n- Bake bread until brown\n- Bake casserole until bubbly\n- Brown fish in oil",
+        "response": "Brown fish in oil",
+        "correct_response": "Brown fish in oil"
+    },
+    {
+        "title": "Tater Tot Hot Dish",
+        "question": "In the recipe 'Tater Tot Hot Dish', which step occurs before 'Pour meat over tater tots'?\n\nOptions:\n- Brown ground beef\n- Serve salmon with butter\n- Use crock pot\n- Enjoy\n- Bake covered in foil",
+        "response": "Brown ground beef",
+        "correct_response": "Brown ground beef"
+    },
+    {
+        "title": "Dinner Rolls Cinnamon Rolls Recipe",
+        "question": "In the recipe 'Dinner Rolls Cinnamon Rolls Recipe', which step occurs before 'Mix eggs, shortening, sugar, salt'?\n\nOptions:\n- Cook scallops until browned\n- Mix cornstarch, sugar, vinegar\n- Add flour, knead, let rise\n- Stir in pasta, refrigerate\n- Dissolve yeast in water",
+        "response": "Dissolve yeast in water",
+        "correct_response": "Dissolve yeast in water"
+    },
+    {
+        "title": "Swanson Citrus Chicken and Rice",
+        "question": "In the recipe 'Swanson Citrus Chicken and Rice', which step occurs before 'Add broth, juice, onion, rice'?\n\nOptions:\n- Garnish with apple slice\n- Bake until knife comes out clean\n- Cook chicken until brown\n- Return chicken to skillet\n- Cook pasta, serve with beef",
+        "response": "Cook chicken until brown",
+        "correct_response": "Cook chicken until brown"
+    },
+    {
+        "title": "Southwestern Chicken Wontons",
+        "question": "In the recipe 'Southwestern Chicken Wontons', which step occurs before 'Place mixture in wonton wrapper'?\n\nOptions:\n- Bake until stuffing browned\n- Fry wontons until golden\n- Puree soup, season, serve\n- Serve immediately\n- Combine first 7 ingredients",
+        "response": "Combine first 7 ingredients",
+        "correct_response": "Combine first 7 ingredients"
+    },
+    {
+        "title": "Grilled Pineapple with Vanilla Ice Cream and Rum Sauce",
+        "question": "In the recipe 'Grilled Pineapple with Vanilla Ice Cream and Rum Sauce', which step occurs before 'Heat butter, sugar, rum'?\n\nOptions:\n- Combine ingredients in wok\n- Grill pineapple until browned\n- Broil chicken until skin browned\n- Freeze until ready\n- Drizzle sauce over ice cream",
+        "response": "Grill pineapple until browned",
+        "correct_response": "Grill pineapple until browned"
+    },
+    {
+        "title": "Scrambled Morning Wrap",
+        "question": "In the recipe 'Scrambled Morning Wrap', which step occurs before 'Add egg product, mix well'?\n\nOptions:\n- Spoon onto tortillas, roll\n- Bake until done\n- Add pumpkin, oil, and eggs\n- Cook vegetables in hot oil\n- Assemble trifle with layers",
+        "response": "Cook vegetables in hot oil",
+        "correct_response": "Cook vegetables in hot oil"
+    },
+    {
+        "title": "Spicy Pumpkin Pie",
+        "question": "In the recipe 'Spicy Pumpkin Pie', which step occurs before 'Stir in cookies, COOL WHIP'?\n\nOptions:\n- Beat pudding and milk\n- Stir in nuts and raisins\n- Pour into crust\n- Crack eggs into indentations\n- Pour cream over layers",
+        "response": "Beat pudding and milk",
+        "correct_response": "Beat pudding and milk"
+    },
+    {
+        "title": "Chef Flower's Simple Avocado Dip",
+        "question": "In the recipe 'Chef Flower's Simple Avocado Dip', which step occurs before 'Mash avocado in processor'?\n\nOptions:\n- Process onion in processor\n- Drizzle with remaining dressing\n- Add potatoes, season, cook\n- Mix all ingredients well\n- Add potatoes and broth",
+        "response": "Process onion in processor",
+        "correct_response": "Process onion in processor"
+    },
+    {
+        "title": "Cocoa and Marmalade French Toast",
+        "question": "In the recipe 'Cocoa and Marmalade French Toast', which step occurs before 'Soak bread in batter'?\n\nOptions:\n- Ladle soup over noodles\n- Dissolve cocoa in water\n- Cook pasta until al dente\n- Pour batter into pans\n- Fry bread in butter",
+        "response": "Dissolve cocoa in water",
+        "correct_response": "Dissolve cocoa in water"
+    },
+    {
+        "title": "Chicken Chowder in a Rush!",
+        "question": "In the recipe 'Chicken Chowder in a Rush!', which step occurs before 'Shred chicken in pot'?\n\nOptions:\n- Add potatoes and broth\n- Bake brownies with marshmallows\n- Chill before serving\n- Cook onion until soft\n- Frost cooled cake",
+        "response": "Cook onion until soft",
+        "correct_response": "Cook onion until soft"
+    },
+    {
+        "title": "Fork -Tender Corned Beef and Cabbage",
+        "question": "In the recipe 'Fork -Tender Corned Beef and Cabbage', which step occurs before 'Add onions, carrots, potatoes'?\n\nOptions:\n- Simmer brisket in water\n- Add vanilla, lemon peel, juice\n- Mix all ingredients well\n- Pour batter into pans\n- Add cabbage, simmer until tender",
+        "response": "Simmer brisket in water",
+        "correct_response": "Simmer brisket in water"
+    },
+    {
+        "title": "Chocolate Rice Bubble Bars",
+        "question": "In the recipe 'Chocolate Rice Bubble Bars', which step occurs before 'Mix ingredients'?\n\nOptions:\n- Preheat oven\n- Let sit, then slice\n- Bake casserole\n- Stir in pasta, refrigerate\n- Bake until crispy",
+        "response": "Preheat oven",
+        "correct_response": "Preheat oven"
+    },
+    {
+        "title": "Renees Sour Cream Twists",
+        "question": "In the recipe 'Renees Sour Cream Twists', which step occurs before 'Add eggs, vanilla, sour cream'?\n\nOptions:\n- Roll dough, cut, twist strips\n- Divide mixture, bake loaves\n- Add rice, water, salsa\n- Fry doughnuts until golden\n- Mix flour and butter",
+        "response": "Mix flour and butter",
+        "correct_response": "Mix flour and butter"
+    },
+    {
+        "title": "Beet, Orange and Apple Salad",
+        "question": "In the recipe 'Beet, Orange and Apple Salad', which step occurs before 'Combine orange, beets, apples'?\n\nOptions:\n- Pour dressing, toss well\n- Stir, cover, and refrigerate\n- Boil and peel beets\n- Toss wings in glaze\n- Fry wontons until golden",
+        "response": "Boil and peel beets",
+        "correct_response": "Boil and peel beets"
+    },
+    {
+        "title": "Turkey Tetrazzini",
+        "question": "In the recipe 'Turkey Tetrazzini', which step occurs before 'Cook mushrooms in butter'?\n\nOptions:\n- Cook pasta until al dente\n- Bake with cheese and almonds\n- Strain into martini glass\n- Bake casserole until bubbly\n- Mix in coriander and cilantro",
+        "response": "Cook pasta until al dente",
+        "correct_response": "Cook pasta until al dente"
+    },
+    {
+        "title": "Malt Chocolate Chip Cookies",
+        "question": "In the recipe 'Malt Chocolate Chip Cookies', which step occurs before 'Beat butter and sugars'?\n\nOptions:\n- Cook pasta until al dente\n- Stir in pasta, refrigerate\n- Chill dough in fridge\n- Simmer fish in sauce\n- Mix dry ingredients together",
+        "response": "Mix dry ingredients together",
+        "correct_response": "Mix dry ingredients together"
+    },
+    {
+        "title": "Jambalaya Grits",
+        "question": "In the recipe 'Jambalaya Grits', which step occurs before 'Add seasoning and grits'?\n\nOptions:\n- Stir fry pepper and onion\n- Add chicken and sausage\n- Add avocado pieces\n- Use as needed\n- Garnish with garlic",
+        "response": "Stir fry pepper and onion",
+        "correct_response": "Stir fry pepper and onion"
+    },
+    {
+        "title": "Provencal Potatoes with Tomatoes",
+        "question": "In the recipe 'Provencal Potatoes with Tomatoes', which step occurs before 'Slide tomato slices between'?\n\nOptions:\n- Layer potatoes in skillet\n- Fry potatoes with spices\n- Grill until golden brown\n- Bake until potatoes tender\n- Frost cooled cake",
+        "response": "- Layer potatoes in skillet",
+        "correct_response": "Layer potatoes in skillet"
+    },
+    {
+        "title": "Almond Toffee",
+        "question": "In the recipe 'Almond Toffee', which step occurs before 'Pour mixture over almonds'?\n\nOptions:\n- Mix vegetables into couscous\n- Refrigerate container\n- Place Hershey bars on top\n- Serve salmon with butter\n- Spread almonds onto sheet",
+        "response": "Spread almonds onto sheet",
+        "correct_response": "Spread almonds onto sheet"
+    },
+    {
+        "title": "Apple Glow",
+        "question": "In the recipe 'Apple Glow', which step occurs before 'Blend until smooth'?\n\nOptions:\n- Bake until done\n- Garnish with apple slice\n- Combine juices and honeydew\n- Bake salmon and steam vegetables\n- Fry mixture until golden brown",
+        "response": "Combine juices and honeydew",
+        "correct_response": "Combine juices and honeydew"
+    },
+    {
+        "title": "Uncle Ben's Fiesta Chicken",
+        "question": "In the recipe 'Uncle Ben's Fiesta Chicken', which step occurs before 'Add onion, pepper, chili'?\n\nOptions:\n- Enjoy\n- Season tilapia, nestle in sauce\n- Add rice, water, salsa\n- Cook chicken in sprayed pan\n- Cook chicken in oil",
+        "response": "Cook chicken in oil",
+        "correct_response": "Cook chicken in sprayed pan"
+    },
+    {
+        "title": "Baked Crab Cakes",
+        "question": "In the recipe 'Baked Crab Cakes', which step occurs before 'Mix ingredients and form patties'?\n\nOptions:\n- Stir in cashews\n- Bake and flip crab cakes\n- Enjoy\n- Preheat oven and prepare sheet\n- Scramble eggs with vegetables",
+        "response": "Preheat oven and prepare sheet",
+        "correct_response": "Preheat oven and prepare sheet"
+    },
+    {
+        "title": "Pork Lettuce Cups",
+        "question": "In the recipe 'Pork Lettuce Cups', which step occurs before 'Cook onion, mince, and chilli'?\n\nOptions:\n- Pour over orange dressing\n- Cook onion and bell pepper\n- Core and separate lettuce\n- Add remaining ingredients, toss\n- Pour over mixture, cover",
+        "response": "Core and separate lettuce",
+        "correct_response": "Core and separate lettuce"
+    },
+    {
+        "title": "The Good Girl Ceviche Martini",
+        "question": "In the recipe 'The Good Girl Ceviche Martini', which step occurs before 'Shake ingredients in container'?\n\nOptions:\n- Add potatoes and broth\n- Dice fish into pieces\n- Refrigerate container\n- Pour into crust\n- Bake until done",
+        "response": "Dice fish into pieces",
+        "correct_response": "Dice fish into pieces"
+    },
+    {
+        "title": "Crab Rangoon",
+        "question": "In the recipe 'Crab Rangoon', which step occurs before 'Mix ingredients in bowl'?\n\nOptions:\n- Add chicken and sausage\n- Cook until golden brown\n- Top with pine nuts\n- Saute garlic and onion\n- Fry potatoes with spices",
+        "response": "Saute garlic and onion",
+        "correct_response": "Saute garlic and onion"
+    },
+    {
+        "title": "Zucchini \"Hash Browns\" and Eggs with Berry-Nana Smoothie",
+        "question": "In the recipe 'Zucchini \"Hash Browns\" and Eggs with Berry-Nana Smoothie', which step occurs before 'Cook onions until soft'?\n\nOptions:\n- Pour water slowly\n- Crack eggs into indentations\n- Puree smoothie ingredients\n- Toss ingredients, refrigerate before serving\n- Cook on low heat",
+        "response": "Cook on low heat",
+        "correct_response": "Puree smoothie ingredients"
+    },
+    {
+        "title": "Grilled Flank Steak with Tomato Ginger Vinagrette",
+        "question": "In the recipe 'Grilled Flank Steak with Tomato Ginger Vinagrette', which step occurs before 'Blend vinaigrette ingredients'?\n\nOptions:\n- Grill steak to desired doneness\n- Marinate steak overnight\n- Simmer till chicken tender\n- Cook on low heat\n- Sprinkle with cheese",
+        "response": "Marinate steak overnight",
+        "correct_response": "Marinate steak overnight"
+    },
+    {
+        "title": "Texas Beans",
+        "question": "In the recipe 'Texas Beans', which step occurs before 'Add remaining ingredients'?\n\nOptions:\n- Refrigerate on wax-lined trays\n- Simmer until thoroughly heated\n- Saute peppers, garlic, onion\n- Top with reserved ingredients\n- Garnish with garlic",
+        "response": "Saute peppers, garlic, onion",
+        "correct_response": "Saute peppers, garlic, onion"
+    },
+    {
+        "title": "Sweet & Sour Grilled Chicken Thighs",
+        "question": "In the recipe 'Sweet & Sour Grilled Chicken Thighs', which step occurs before 'Grill thighs until firm'?\n\nOptions:\n- Whisk first five ingredients\n- Stir-fry until vegetables tender\n- Bake with cheese and almonds\n- Boil marinade with spinach\n- Bake with cheese and chips",
+        "response": "Whisk first five ingredients",
+        "correct_response": "Whisk first five ingredients"
+    },
+    {
+        "title": "Bubble Bread",
+        "question": "In the recipe 'Bubble Bread', which step occurs before 'Coat with pizza sauce'?\n\nOptions:\n- Mix ingredients and chill\n- Cut biscuits into fourths\n- Sprinkle with mozzarella\n- Mix all ingredients well\n- Combine ingredients in wok",
+        "response": "Cut biscuits into fourths",
+        "correct_response": "Cut biscuits into fourths"
+    },
+    {
+        "title": "Carrot Fennel Soup",
+        "question": "In the recipe 'Carrot Fennel Soup', which step occurs before 'Blend vegetables with broth'?\n\nOptions:\n- Bake until hot & bubbly\n- Serve with fennel oil\n- Pour water slowly\n- Toss ingredients, refrigerate before serving\n- Roast vegetables until tender",
+        "response": "Roast vegetables until tender",
+        "correct_response": "Roast vegetables until tender"
+    },
+    {
+        "title": "Medallions of Tuna With Papaya Chutney and Cilantro Pesto",
+        "question": "In the recipe 'Medallions of Tuna With Papaya Chutney and Cilantro Pesto', which step occurs before 'Season and saute tuna'?\n\nOptions:\n- Cook scallops until browned\n- Combine pesto ingredients\n- Use as needed\n- Bake bread until brown\n- Top tuna with pesto",
+        "response": "Combine pesto ingredients",
+        "correct_response": "Combine pesto ingredients"
+    },
+    {
+        "title": "Pecan-Stuffed Waffles",
+        "question": "In the recipe 'Pecan-Stuffed Waffles', which step occurs before 'Spread mixture on waffles'?\n\nOptions:\n- Bake until golden brown\n- Beat cream cheese mixture\n- Drizzle with syrup\n- Toss with vinaigrette, refrigerate\n- Bake to heat through",
+        "response": "Beat cream cheese mixture",
+        "correct_response": "Beat cream cheese mixture"
+    },
+    {
+        "title": "Roasted Zucchini Salad",
+        "question": "In the recipe 'Roasted Zucchini Salad', which step occurs before 'Bake vegetables on sheet'?\n\nOptions:\n- Add cheese and mint\n- Divide mixture between glasses\n- Top with Parmesan cheese\n- Cook on low heat\n- Toss vegetables with dressing",
+        "response": "Toss vegetables with dressing",
+        "correct_response": "Toss vegetables with dressing"
+    },
+    {
+        "title": "Hot and Sour Shredded Salad",
+        "question": "In the recipe 'Hot and Sour Shredded Salad', which step occurs before 'Julienne chillies, chop cilantro'?\n\nOptions:\n- Dress vegetables with lime mixture\n- Julienne carrots and scallions\n- Drizzle sauce over ice cream\n- Broil chicken until skin browned\n- Bake uncovered at 350F",
+        "response": "Julienne carrots and scallions",
+        "correct_response": "Julienne carrots and scallions"
+    },
+    {
+        "title": "Macaroni and Dried Beef Casserole",
+        "question": "In the recipe 'Macaroni and Dried Beef Casserole', which step occurs before 'Cover and refrigerate overnight'?\n\nOptions:\n- Stir ingredients in dish\n- Serve immediately\n- Pour egg mixture, bake\n- Bake casserole\n- Bake uncovered at 350F",
+        "response": "Stir ingredients in dish",
+        "correct_response": "Stir ingredients in dish"
+    },
+    {
+        "title": "Shepherds Pie",
+        "question": "In the recipe 'Shepherds Pie', which step occurs before 'Cover meat with corn'?\n\nOptions:\n- Add broth, simmer until tender\n- Top with mashed potatoes\n- Shake and strain into glass\n- Brown ground beef\n- Pour water slowly",
+        "response": "Brown ground beef",
+        "correct_response": "Brown ground beef"
+    },
+    {
+        "title": "Ecuadorean Corn and Purple Potato Salad",
+        "question": "In the recipe 'Ecuadorean Corn and Purple Potato Salad', which step occurs before 'Mix corn, peas, carrots'?\n\nOptions:\n- Drizzle with remaining dressing\n- Microwave potatoes until tender\n- Bake until potatoes tender\n- Stir in pasta, refrigerate\n- Grill chops, brush with glaze",
+        "response": "Microwave potatoes until tender",
+        "correct_response": "Microwave potatoes until tender"
+    },
+    {
+        "title": "Mozzarella and Roma Tomato Stuffed Vine Leaves",
+        "question": "In the recipe 'Mozzarella and Roma Tomato Stuffed Vine Leaves', which step occurs before 'Place filling on vine leaves'?\n\nOptions:\n- Add flour, knead, let rise\n- Scramble eggs with vegetables\n- Combine filling ingredients\n- Brown meatballs in skillet\n- Roll up vine leaves",
+        "response": "Combine filling ingredients",
+        "correct_response": "Combine filling ingredients"
+    },
+    {
+        "title": "Creamy Asparagus Soup With Seared Scallops",
+        "question": "In the recipe 'Creamy Asparagus Soup With Seared Scallops', which step occurs before 'Puree soup until smooth'?\n\nOptions:\n- Boil asparagus until tender\n- Cook scallops until browned\n- Toss ingredients, refrigerate before serving\n- Add shrimp and tomatoes\n- Stir in nuts and raisins",
+        "response": "Boil asparagus until tender",
+        "correct_response": "Boil asparagus until tender"
+    },
+    {
+        "title": "Potato Soup",
+        "question": "In the recipe 'Potato Soup', which step occurs before 'Mix soup and cream cheese'?\n\nOptions:\n- Pour in white wine\n- Add velveeta, melt cheese\n- Top with Parmesan cheese\n- Cook potatoes, carrots, onion\n- Grill until golden brown",
+        "response": "Cook potatoes, carrots, onion",
+        "correct_response": "Cook potatoes, carrots, onion"
+    },
+    {
+        "title": "Boneless Chicken With Potato Pepper Hash Recipe",
+        "question": "In the recipe 'Boneless Chicken With Potato Pepper Hash Recipe', which step occurs before 'Cook peppers and potatoes'?\n\nOptions:\n- Drizzle with syrup\n- Cook chicken until browned\n- Boil potatoes until tender\n- Divide mixture between glasses\n- Spoon mixture into watermelon",
+        "response": "Boil potatoes until tender",
+        "correct_response": "Boil potatoes until tender"
+    },
+    {
+        "title": "Pumpkin Gingerbread Bars",
+        "question": "In the recipe 'Pumpkin Gingerbread Bars', which step occurs before 'Beat eggs and add sugar'?\n\nOptions:\n- Preheat oven and spray pan\n- Bake until potatoes tender\n- Bake, then drain fat\n- Pour batter into pan\n- Cook rabbit casserole in oven",
+        "response": "Preheat oven and spray pan",
+        "correct_response": "Preheat oven and spray pan"
+    },
+    {
+        "title": "Creole Smokey Breakfast Potatoes",
+        "question": "In the recipe 'Creole Smokey Breakfast Potatoes', which step occurs before 'Slice potatoes into cubes'?\n\nOptions:\n- Fry potatoes with spices\n- Microwave potatoes, wrapped in towel\n- Drizzle with cranberry glaze\n- Use crock pot\n- Drink immediately",
+        "response": "Microwave potatoes, wrapped in towel",
+        "correct_response": "Microwave potatoes, wrapped in towel"
+    },
+    {
+        "title": "Avocado Dip",
+        "question": "In the recipe 'Avocado Dip', which step occurs before 'Add cardamom, color, raisins'?\n\nOptions:\n- Add avocado pieces\n- Add facial features with nori\n- Heat sugar cubes with water\n- Roll grapes in nuts\n- Mix cornstarch, sugar, vinegar",
+        "response": "- Heat sugar cubes with water",
+        "correct_response": "Heat sugar cubes with water"
+    },
+    {
+        "title": "Spaghetti Squash Casserole",
+        "question": "In the recipe 'Spaghetti Squash Casserole', which step occurs before 'Cook onion, garlic, basil'?\n\nOptions:\n- Cook rice with broth\n- Bake casserole until bubbly\n- Combine noodles, cabbage, butter\n- Bake squash until tender\n- Bake and flip crab cakes",
+        "response": "Bake squash until tender",
+        "correct_response": "Bake squash until tender"
+    },
+    {
+        "title": "Mozzarella Herbed Chicken",
+        "question": "In the recipe 'Mozzarella Herbed Chicken', which step occurs before 'Place chicken in pan'?\n\nOptions:\n- Coat chicken with herb mix\n- Bake until cheese melts\n- Combine ingredients in wok\n- Roll up vine leaves\n- Stir in cheese, crab meat",
+        "response": "Coat chicken with herb mix",
+        "correct_response": "Coat chicken with herb mix"
+    },
+    {
+        "title": "Chelle's Oreo Cheesecake",
+        "question": "In the recipe 'Chelle's Oreo Cheesecake', which step occurs before 'Blend cream cheese, sugar'?\n\nOptions:\n- Stir in cheese, crab meat\n- Crush Oreos, mix with butter\n- Pour filling over crust\n- Bake, add cilantro, serve\n- Stir in cashews",
+        "response": "Crush Oreos, mix with butter",
+        "correct_response": "Crush Oreos, mix with butter"
+    },
+    {
+        "title": "Lemon Butter Cake",
+        "question": "In the recipe 'Lemon Butter Cake', which step occurs before 'Cream butter, sugar, vanilla'?\n\nOptions:\n- Add tomatoes, beans, spices\n- Grill steak to desired doneness\n- Swirl lemon butter into batter\n- Chill before serving\n- Preheat oven to 180",
+        "response": "Preheat oven to 180",
+        "correct_response": "Preheat oven to 180"
+    },
+    {
+        "title": "Pumpkin Muffins",
+        "question": "In the recipe 'Pumpkin Muffins', which step occurs before 'Whisk wet ingredients until smooth'?\n\nOptions:\n- Divide batter, sprinkle topping\n- Stir ingredients, bake, garnish\n- Preheat oven and prepare tin\n- Cook scallops until browned\n- Roll balls in sugar",
+        "response": "Preheat oven and prepare tin",
+        "correct_response": "Preheat oven and prepare tin"
+    },
+    {
+        "title": "Apricot Almond Coffee Cake Recipe",
+        "question": "In the recipe 'Apricot Almond Coffee Cake Recipe', which step occurs before 'Roll dough, spread jam'?\n\nOptions:\n- Mix in coriander and cilantro\n- Bake until golden brown\n- Top with pine nuts\n- Bake until done\n- Combine dry ingredients",
+        "response": "Combine dry ingredients",
+        "correct_response": "Combine dry ingredients"
+    },
+    {
+        "title": "Quick and Easy English Trifle",
+        "question": "In the recipe 'Quick and Easy English Trifle', which step occurs before 'Spoon gelatin into bowl'?\n\nOptions:\n- Ice cake with Boiled Icing\n- Grill until golden brown\n- Top tuna with pesto\n- Pour pudding over cake\n- Prepare gelatin with raspberries",
+        "response": "Prepare gelatin with raspberries",
+        "correct_response": "Prepare gelatin with raspberries"
+    },
+    {
+        "title": "Piglets Stuffing",
+        "question": "In the recipe 'Piglets Stuffing', which step occurs before 'Spoon mixture into dish'?\n\nOptions:\n- Serve salmon with butter\n- Garnish with apple slice\n- Combine stuffing ingredients\n- Pour broth over stuffing\n- Bake covered in foil",
+        "response": "Combine stuffing ingredients",
+        "correct_response": "Combine stuffing ingredients"
+    },
+    {
+        "title": "Miracle Meatballs",
+        "question": "In the recipe 'Miracle Meatballs', which step occurs before 'Mix meat with cheese'?\n\nOptions:\n- Bake until knife comes out clean\n- Pulse beef, ham, almonds\n- Cook on low heat\n- Bake until hot & bubbly\n- Brown meatballs in skillet",
+        "response": "Pulse beef, ham, almonds",
+        "correct_response": "Pulse beef, ham, almonds"
+    },
+    {
+        "title": "Zucchini Souffle with Monterey Jack Cheese",
+        "question": "In the recipe 'Zucchini Souffle with Monterey Jack Cheese', which step occurs before 'Whisk eggs with seasonings'?\n\nOptions:\n- Cook onion and bell pepper\n- Squeeze liquid from zucchini\n- Bake until golden brown\n- Pour over mixture, cover\n- Combine quinoa, carrots, parsley",
+        "response": "Cook onion and bell pepper",
+        "correct_response": "Squeeze liquid from zucchini"
+    },
+    {
+        "title": "Edna's Ginger Cookies",
+        "question": "In the recipe 'Edna's Ginger Cookies', which step occurs before 'Add flour mixture, molasses'?\n\nOptions:\n- Roll balls in sugar\n- Add kumquats, simmer until thick\n- Mix butter, oil, sugar, egg\n- Add tomatoes, beans, spices\n- Mix ingredients and chill",
+        "response": "Mix butter, oil, sugar, egg",
+        "correct_response": "Mix butter, oil, sugar, egg"
+    },
+    {
+        "title": "Sensational Simmered Leek Cabbage Mushroom Trio",
+        "question": "In the recipe 'Sensational Simmered Leek Cabbage Mushroom Trio', which step occurs before 'Add leeks, cabbage, mushrooms'?\n\nOptions:\n- Heat oil and butter\n- Add velveeta, melt cheese\n- Scramble eggs with vegetables\n- Simmer sauce, toss pasta\n- Add broth, simmer until tender",
+        "response": "Heat oil and butter",
+        "correct_response": "Heat oil and butter"
+    },
+    {
+        "title": "Lemon Poppy Seed Biscotti",
+        "question": "In the recipe 'Lemon Poppy Seed Biscotti', which step occurs before 'Bake logs on baking sheet'?\n\nOptions:\n- Divide mixture between glasses\n- Bake until potatoes tender\n- Form dough into logs\n- Add cabbage, simmer until tender\n- Bake slices until dry",
+        "response": "Form dough into logs",
+        "correct_response": "Form dough into logs"
+    },
+    {
+        "title": "Lemon Buttermilk Pound Cake",
+        "question": "In the recipe 'Lemon Buttermilk Pound Cake', which step occurs before 'Add eggs, buttermilk, flour'?\n\nOptions:\n- Bake and flip crab cakes\n- Add vanilla, lemon peel, juice\n- Add ice, honey; blend\n- Drizzle with chocolate\n- Beat butter and sugar",
+        "response": "Beat butter and sugar",
+        "correct_response": "Beat butter and sugar"
+    },
+    {
+        "title": "Orange Cashew Chicken",
+        "question": "In the recipe 'Orange Cashew Chicken', which step occurs before 'Combine cornstarch, ginger, orange juice'?\n\nOptions:\n- Frost cooled cake\n- Stir-fry chicken, carrots, celery\n- Stir in cashews\n- Cook on low heat\n- Add tomatoes, beans, spices",
+        "response": "Stir-fry chicken, carrots, celery",
+        "correct_response": "Stir-fry chicken, carrots, celery"
+    },
+    {
+        "title": "Spicy BBQ Ranch Chicken Salad for Two",
+        "question": "In the recipe 'Spicy BBQ Ranch Chicken Salad for Two', which step occurs before 'Add barbecue sauce mix'?\n\nOptions:\n- Sprinkle with cheese\n- Reduce to 325 degrees\n- Toss greens with chicken\n- Roll grapes in nuts\n- Cook until golden brown",
+        "response": "Toss greens with chicken",
+        "correct_response": "Toss greens with chicken"
+    },
+    {
+        "title": "Warm Cheese and Bacon Dip",
+        "question": "In the recipe 'Warm Cheese and Bacon Dip', which step occurs before 'Spread onto pie plate'?\n\nOptions:\n- Bake until done\n- Top with reserved ingredients\n- Mix cheese, bacon, onions\n- Add flour, knead, let rise\n- Pour mixture into pie shell",
+        "response": "Mix cheese, bacon, onions",
+        "correct_response": "Mix cheese, bacon, onions"
+    },
+    {
+        "title": "Homemade Cashew Butter Vegan!",
+        "question": "In the recipe 'Homemade Cashew Butter Vegan!', which step occurs before 'Cashews become powdery, then clump'?\n\nOptions:\n- Serve as desired\n- Stir in chocolate chips\n- Pour pudding over cake\n- Blend cashews until creamy\n- Divide mixture, bake loaves",
+        "response": "Blend cashews until creamy",
+        "correct_response": "Blend cashews until creamy"
+    },
+    {
+        "title": "Agnello Con Carciofi (Lamb With Artichokes)",
+        "question": "In the recipe 'Agnello Con Carciofi (Lamb With Artichokes)', which step occurs before 'Mix in onion, artichokes'?\n\nOptions:\n- Pour broth and cook\n- Pour water slowly\n- Saute floured lamb in oil\n- Pour in white wine\n- Add avocado pieces",
+        "response": "Saute floured lamb in oil",
+        "correct_response": "Saute floured lamb in oil"
+    },
+    {
+        "title": "Minali Namul (Watercress & Sesame Salad)",
+        "question": "In the recipe 'Minali Namul (Watercress & Sesame Salad)', which step occurs before 'Boil and drain watercress'?\n\nOptions:\n- Stir in peanut butter\n- Pour dressing, toss well\n- Bake casserole\n- Mix ingredients and chill\n- Wash and cut watercress",
+        "response": "Wash and cut watercress",
+        "correct_response": "Wash and cut watercress"
+    },
+    {
+        "title": "Beef and Noodles",
+        "question": "In the recipe 'Beef and Noodles', which step occurs before 'Combine soups, water, beef'?\n\nOptions:\n- Preheat oven to 400F\n- Simmer sauce, toss pasta\n- Pour broth and cook\n- Cook pasta, serve with beef\n- Bake until done",
+        "response": "Preheat oven to 400F",
+        "correct_response": "Preheat oven to 400F"
+    },
+    {
+        "title": "Penny Pincher's Elegant Chocolate Dipped Strawberries",
+        "question": "In the recipe 'Penny Pincher's Elegant Chocolate Dipped Strawberries', which step occurs before 'Dip strawberries, coat each'?\n\nOptions:\n- Refrigerate on wax-lined trays\n- Melt chocolate until smooth\n- Pour batter into pan\n- Combine noodles, cabbage, butter\n- Top tuna with pesto",
+        "response": "Melt chocolate until smooth",
+        "correct_response": "Melt chocolate until smooth"
+    },
+    {
+        "title": "Dipped Celebration Sandwich Made with OREO Wafers",
+        "question": "In the recipe 'Dipped Celebration Sandwich Made with OREO Wafers', which step occurs before 'Dip sandwich in chocolate'?\n\nOptions:\n- Add corn, milk, VELVEETA\n- Divide batter, sprinkle topping\n- Fill cookies with ice cream\n- Freeze until ready\n- Pour cream over layers",
+        "response": "Fill cookies with ice cream",
+        "correct_response": "Fill cookies with ice cream"
+    },
+    {
+        "title": "Watermelon Fruit Bowl",
+        "question": "In the recipe 'Watermelon Fruit Bowl', which step occurs before 'Add fruits to thickened gelatin'?\n\nOptions:\n- Spoon mixture into watermelon\n- Pour mixture into pie shell\n- Dissolve gelatin in boiling water\n- Mix ingredients and chill\n- Add sugar and salt",
+        "response": "Dissolve gelatin in boiling water",
+        "correct_response": "Dissolve gelatin in boiling water"
+    },
+    {
+        "title": "Rhubarb Hot Dish",
+        "question": "In the recipe 'Rhubarb Hot Dish', which step occurs before 'Combine sugar, flour, eggs'?\n\nOptions:\n- Cook pasta, serve with beef\n- Bake until knife comes out clean\n- Sprinkle with cheese\n- Cook until slightly thickened\n- Preheat oven to 375\u00b0F",
+        "response": "Preheat oven to 375\u00b0F",
+        "correct_response": "Preheat oven to 375\u00b0F"
+    },
+    {
+        "title": "Cheesy Eggplant (Aubergine) Marinara",
+        "question": "In the recipe 'Cheesy Eggplant (Aubergine) Marinara', which step occurs before 'Brown eggplant in skillet'?\n\nOptions:\n- Bake until cheese melts\n- Coat eggplant in flour\n- Strain, top, garnish\n- Divide mixture between glasses\n- Strain into martini glass",
+        "response": "Coat eggplant in flour",
+        "correct_response": "Coat eggplant in flour"
+    },
+    {
+        "title": "Grown Up Grilled Cheese Sandwich",
+        "question": "In the recipe 'Grown Up Grilled Cheese Sandwich', which step occurs before 'Layer cheese, tomato, avocado'?\n\nOptions:\n- Preheat skillet on medium\n- Bake with cheese and almonds\n- Dip candies in chocolate\n- Cook until golden brown\n- Enjoy",
+        "response": "Preheat skillet on medium",
+        "correct_response": "Preheat skillet on medium"
+    },
+    {
+        "title": "Blackberry Grand Marnier Jam",
+        "question": "In the recipe 'Blackberry Grand Marnier Jam', which step occurs before 'Simmer berry juice with pectin'?\n\nOptions:\n- Fill jars with jam\n- Sanitize jars and lids\n- Mix cornstarch, sugar, vinegar\n- Top tuna with pesto\n- Puree soup, season, serve",
+        "response": "Sanitize jars and lids",
+        "correct_response": "Sanitize jars and lids"
+    },
+    {
+        "title": "Cheese & Potato Pancakes",
+        "question": "In the recipe 'Cheese & Potato Pancakes', which step occurs before 'Mix potatoes with ingredients'?\n\nOptions:\n- Stir ingredients, bake, garnish\n- Fry mixture until golden brown\n- Divide mixture between glasses\n- Bake, add cilantro, serve\n- Grate and squeeze potatoes",
+        "response": "Grate and squeeze potatoes",
+        "correct_response": "Grate and squeeze potatoes"
+    },
+    {
+        "title": "Starter Avocado Soup with Spicy Grilled Shrimp",
+        "question": "In the recipe 'Starter Avocado Soup with Spicy Grilled Shrimp', which step occurs before 'Blend soup ingredients'?\n\nOptions:\n- Pour in white wine\n- Cook until golden brown\n- Toss ingredients, refrigerate before serving\n- Grill shrimp\n- Marinate shrimp",
+        "response": "- Marinate shrimp",
+        "correct_response": "Marinate shrimp"
+    },
+    {
+        "title": "Hot Corn & Artichoke Dip",
+        "question": "In the recipe 'Hot Corn & Artichoke Dip', which step occurs before 'Mix corn, artichokes, ingredients'?\n\nOptions:\n- Bake until crispy\n- Grill corn, cool, husk\n- Let sit, then slice\n- Bake, add cilantro, serve\n- Bake until golden brown",
+        "response": "Grill corn, cool, husk",
+        "correct_response": "Grill corn, cool, husk"
+    },
+    {
+        "title": "Chocolate Banana Martini",
+        "question": "In the recipe 'Chocolate Banana Martini', which step occurs before 'Combine liqueurs, milk, ice'?\n\nOptions:\n- Fry doughnuts until golden\n- Bake until cheese melts\n- Drizzle chocolate in glass\n- Shake and strain into glass\n- Drizzle with syrup",
+        "response": "Drizzle chocolate in glass",
+        "correct_response": "Drizzle chocolate in glass"
+    },
+    {
+        "title": "Old Fashioned Pound Cake & Raspberry Trifle",
+        "question": "In the recipe 'Old Fashioned Pound Cake & Raspberry Trifle', which step occurs before 'Beat cream with sugar'?\n\nOptions:\n- Simmer until thoroughly heated\n- Cook on low heat\n- Roast potatoes until tender\n- Mix pound cake ingredients\n- Assemble trifle with layers",
+        "response": "Mix pound cake ingredients",
+        "correct_response": "Mix pound cake ingredients"
+    },
+    {
+        "title": "Holiday Morning Breakfast Casserole (Crock Pot)",
+        "question": "In the recipe 'Holiday Morning Breakfast Casserole (Crock Pot)', which step occurs before 'Beat eggs, milk, pepper'?\n\nOptions:\n- Add ice, honey; blend\n- Bake until cheese melts\n- Grill until golden brown\n- Pour over mixture, cover\n- Layer potatoes, meat, cheese",
+        "response": "Layer potatoes, meat, cheese",
+        "correct_response": "Layer potatoes, meat, cheese"
+    },
+    {
+        "title": "Chicken Peperonata",
+        "question": "In the recipe 'Chicken Peperonata', which step occurs before 'Season chicken with salt'?\n\nOptions:\n- Drizzle with remaining dressing\n- Preheat oven to 350\n- Broil chicken until skin browned\n- Bake covered in foil\n- Serve as desired",
+        "response": "Preheat oven to 350",
+        "correct_response": "Preheat oven to 350"
+    },
+    {
+        "title": "Sumac Chicken with Lime and Cilantro",
+        "question": "In the recipe 'Sumac Chicken with Lime and Cilantro', which step occurs before 'Coat chicken with spice mix'?\n\nOptions:\n- Mix spices in bowl\n- Add velveeta, melt cheese\n- Cook chicken in oil\n- Mix in coriander and cilantro\n- Bake, then drain fat",
+        "response": "Mix spices in bowl",
+        "correct_response": "Mix spices in bowl"
+    },
+    {
+        "title": "Soubise (White Onion Sauce)",
+        "question": "In the recipe 'Soubise (White Onion Sauce)', which step occurs before 'Add veloute sauce, boil'?\n\nOptions:\n- Scramble eggs with vegetables\n- Add cream, season to taste\n- Bake until done\n- Place Hershey bars on top\n- Saute onions in butter",
+        "response": "Saute onions in butter",
+        "correct_response": "Saute onions in butter"
+    },
+    {
+        "title": "Baked Salmon With Horseradish and Walnuts",
+        "question": "In the recipe 'Baked Salmon With Horseradish and Walnuts', which step occurs before 'Coat salmon with horseradish'?\n\nOptions:\n- Bake salmon and steam vegetables\n- Combine ingredients in processor\n- Simmer, strain, refrigerate soup\n- Add kumquats, simmer until thick\n- Preheat oven and prepare salmon",
+        "response": "Preheat oven and prepare salmon",
+        "correct_response": "Preheat oven and prepare salmon"
+    },
+    {
+        "title": "Cheesy VELVEETA Salmon & Potato Soup",
+        "question": "In the recipe 'Cheesy VELVEETA Salmon & Potato Soup', which step occurs before 'Add potatoes and water'?\n\nOptions:\n- Add corn, milk, VELVEETA\n- Ladle soup over noodles\n- Cut out biscuits, place on sheet\n- Frost cooled cake\n- Cook vegetables in oil",
+        "response": "Cook vegetables in oil",
+        "correct_response": "Cook vegetables in oil"
+    },
+    {
+        "title": "Easy Granola Bars",
+        "question": "In the recipe 'Easy Granola Bars', which step occurs before 'Melt peanut butter mixture'?\n\nOptions:\n- Toast oats and nuts\n- Roll balls in sugar\n- Bake until golden brown\n- Mix oats with liquid\n- Add rice, water, salsa",
+        "response": "Toast oats and nuts",
+        "correct_response": "Toast oats and nuts"
+    },
+    {
+        "title": "Bacon Spinach Quiche on Mashed Potatoes",
+        "question": "In the recipe 'Bacon Spinach Quiche on Mashed Potatoes', which step occurs before 'Cook bacon, onion, spinach'?\n\nOptions:\n- Pour egg mixture, bake\n- Simmer till chicken tender\n- Bake at 375 degrees\n- Preheat oven to 400\u00b0F\n- Swirl lemon butter into batter",
+        "response": "Preheat oven to 400\u00b0F",
+        "correct_response": "Preheat oven to 400\u00b0F"
+    },
+    {
+        "title": "Salisbury Ground Pork Meatloaf With Apple and Sage",
+        "question": "In the recipe 'Salisbury Ground Pork Meatloaf With Apple and Sage', which step occurs before 'Add eggs, shape loaf'?\n\nOptions:\n- Bake, then drain fat\n- Mix pork, apple, onion\n- Toss wings in glaze\n- Bake until potatoes tender\n- Pour cream over layers",
+        "response": "Mix pork, apple, onion",
+        "correct_response": "Mix pork, apple, onion"
+    },
+    {
+        "title": "Baked Macaroni And Cheese Recipe",
+        "question": "In the recipe 'Baked Macaroni And Cheese Recipe', which step occurs before 'Saute onions and mushrooms'?\n\nOptions:\n- Stir in cheese, crab meat\n- Sprinkle with cheese\n- Stir ingredients, bake, garnish\n- Scramble eggs with vegetables\n- Boil macaroni until chewy",
+        "response": "Boil macaroni until chewy",
+        "correct_response": "Boil macaroni until chewy"
+    },
+    {
+        "title": "Sophie's sausage, bean and Guinness stew",
+        "question": "In the recipe 'Sophie's sausage, bean and Guinness stew', which step occurs before 'Transfer to slow cooker'?\n\nOptions:\n- Drizzle with syrup\n- Brown sausages and onions\n- Cook until slightly thickened\n- Cook on low heat\n- Bake until done",
+        "response": "Brown sausages and onions",
+        "correct_response": "Brown sausages and onions"
+    },
+    {
+        "title": "Stinger Seasoning",
+        "question": "In the recipe 'Stinger Seasoning', which step occurs before 'Funnel into storage container'?\n\nOptions:\n- Drink immediately\n- Crumble gingersnaps, whisk\n- Mix all ingredients\n- Use as needed\n- Broil chicken until skin browned",
+        "response": "Mix all ingredients",
+        "correct_response": "Mix all ingredients"
+    },
+    {
+        "title": "Hue Noodle Soup",
+        "question": "In the recipe 'Hue Noodle Soup', which step occurs before 'Add sambal oelek mixture'?\n\nOptions:\n- Bake casserole until bubbly\n- Simmer beef with lemongrass\n- Bake with cheese and almonds\n- Pour into dish, bake\n- Ladle soup over noodles",
+        "response": "Simmer beef with lemongrass",
+        "correct_response": "Simmer beef with lemongrass"
+    },
+    {
+        "title": "Maryland's Best Fried Chicken Recipe",
+        "question": "In the recipe 'Maryland's Best Fried Chicken Recipe', which step occurs before 'Brown chicken in shortening'?\n\nOptions:\n- Bake vegetables until tender\n- Freeze until ready\n- Dip chicken in flour\n- Simmer till chicken tender\n- Top with Parmesan cheese",
+        "response": "Dip chicken in flour",
+        "correct_response": "Dip chicken in flour"
+    },
+    {
+        "title": "Old-Fashioned Yeast-Raised Doughnuts",
+        "question": "In the recipe 'Old-Fashioned Yeast-Raised Doughnuts', which step occurs before 'Knead dough, let rise'?\n\nOptions:\n- Bake until knife comes out clean\n- Fry doughnuts until golden\n- Stir in pasta, refrigerate\n- Dissolve yeast in warm water\n- Roast potatoes until tender",
+        "response": "Dissolve yeast in warm water",
+        "correct_response": "Dissolve yeast in warm water"
+    },
+    {
+        "title": "Pasta Alla Norma",
+        "question": "In the recipe 'Pasta Alla Norma', which step occurs before 'Add tomatoes, season, cook'?\n\nOptions:\n- Enjoy\n- Cook eggplant until tender\n- Cook pasta until al dente\n- Pour broth and cook\n- Toss ingredients, refrigerate before serving",
+        "response": "Cook eggplant until tender",
+        "correct_response": "Cook eggplant until tender"
+    },
+    {
+        "title": "Broccoli, Peas and Carrots Casserole",
+        "question": "In the recipe 'Broccoli, Peas and Carrots Casserole', which step occurs before 'Spoon mixture in dish'?\n\nOptions:\n- Toss ingredients, refrigerate before serving\n- Fry potatoes with spices\n- Bake casserole\n- Mix soup, cheese, vegetables\n- Spoon mixture into watermelon",
+        "response": "Mix soup, cheese, vegetables",
+        "correct_response": "Mix soup, cheese, vegetables"
+    },
+    {
+        "title": "Cheesy Sausage Nachos",
+        "question": "In the recipe 'Cheesy Sausage Nachos', which step occurs before 'Simmer with tomatoes'?\n\nOptions:\n- Toss wings in glaze\n- Cook until golden brown\n- Cook sausage and onion\n- Bake with cheese and chips\n- Reduce to 325 degrees",
+        "response": "Cook sausage and onion",
+        "correct_response": "Cook sausage and onion"
+    },
+    {
+        "title": "Easy! Cute Pikachu Bento",
+        "question": "In the recipe 'Easy! Cute Pikachu Bento', which step occurs before 'Shape rice with plastic wrap'?\n\nOptions:\n- Dress vegetables with lime mixture\n- Mix yellow seasoning into rice\n- Pour broth over stuffing\n- Add facial features with nori\n- Cook pasta until al dente",
+        "response": "Mix yellow seasoning into rice",
+        "correct_response": "Mix yellow seasoning into rice"
+    },
+    {
+        "title": "Mum's Easy Spiced Apple Cake",
+        "question": "In the recipe 'Mum's Easy Spiced Apple Cake', which step occurs before 'Process apples into fine pieces'?\n\nOptions:\n- Pour batter into tin\n- Process topping ingredients\n- Fry doughnuts until golden\n- Cook scallops until browned\n- Top with reserved ingredients",
+        "response": "Process topping ingredients",
+        "correct_response": "Process topping ingredients"
+    },
+    {
+        "title": "Cold Broccoli Salad with Creamy Mustard Dressing",
+        "question": "In the recipe 'Cold Broccoli Salad with Creamy Mustard Dressing', which step occurs before 'Whisk yogurt, mayonnaise, mustards'?\n\nOptions:\n- Bake bread until brown\n- Stir vinegar into potatoes\n- Add chicken and sausage\n- Boil broccoli until crisp-tender\n- Toss ingredients, refrigerate before serving",
+        "response": "Boil broccoli until crisp-tender",
+        "correct_response": "Boil broccoli until crisp-tender"
+    },
+    {
+        "title": "Key Lime Cake",
+        "question": "In the recipe 'Key Lime Cake', which step occurs before 'Bake in greased pans'?\n\nOptions:\n- Simmer sauce, toss pasta\n- Cook until slightly thickened\n- Frost cooled cake\n- Mix cake ingredients\n- Cook chicken until browned",
+        "response": "Mix cake ingredients",
+        "correct_response": "Mix cake ingredients"
+    },
+    {
+        "title": "Sweet Potato Samosas",
+        "question": "In the recipe 'Sweet Potato Samosas', which step occurs before 'Saute onion, garlic, spices'?\n\nOptions:\n- Bake samosas until browned\n- Toss ingredients, refrigerate before serving\n- Pour batter into pans\n- Mix cornstarch, sugar, vinegar\n- Microwave sweet potato and water",
+        "response": "Microwave sweet potato and water",
+        "correct_response": "Microwave sweet potato and water"
+    },
+    {
+        "title": "Addictive Chocolate Peanut Butter Cookies",
+        "question": "In the recipe 'Addictive Chocolate Peanut Butter Cookies', which step occurs before 'Beat butter and sugar fluffy'?\n\nOptions:\n- Gradually add flour mixture\n- Sift flour, cocoa, baking soda\n- Fry fish until brown\n- Strain into martini glass\n- Drizzle with remaining dressing",
+        "response": "Sift flour, cocoa, baking soda",
+        "correct_response": "Sift flour, cocoa, baking soda"
+    },
+    {
+        "title": "Feta & Herb Dip With Crudites",
+        "question": "In the recipe 'Feta & Herb Dip With Crudites', which step occurs before 'Add herbs; puree again'?\n\nOptions:\n- Fry bread in butter\n- Add facial features with nori\n- Chill until serving\n- Puree ingredients until smooth\n- Drizzle with remaining dressing",
+        "response": "Puree ingredients until smooth",
+        "correct_response": "Puree ingredients until smooth"
+    },
+    {
+        "title": "Quinoa and Carrot Salad",
+        "question": "In the recipe 'Quinoa and Carrot Salad', which step occurs before 'Mix shallot, lemon juice'?\n\nOptions:\n- Bake until done\n- Combine quinoa, carrots, parsley\n- Boil water, add quinoa\n- Drizzle sauce over ice cream\n- Add kumquats, simmer until thick",
+        "response": "Boil water, add quinoa",
+        "correct_response": "Boil water, add quinoa"
+    },
+    {
+        "title": "David's German Potato Salad",
+        "question": "In the recipe 'David's German Potato Salad', which step occurs before 'Brown onions until crispy'?\n\nOptions:\n- Pour cream over layers\n- Pour into greased pan\n- Boil potatoes until firm\n- Stir vinegar into potatoes\n- Bake until golden brown",
+        "response": "Boil potatoes until firm",
+        "correct_response": "Boil potatoes until firm"
+    },
+    {
+        "title": "Steak With Garbanzo Beans (Chickpeas)",
+        "question": "In the recipe 'Steak With Garbanzo Beans (Chickpeas)', which step occurs before 'Add onion, paprika, chickpeas'?\n\nOptions:\n- Add corn, milk, VELVEETA\n- Saute meat in hot oil\n- Simmer on low, covered\n- Serve immediately\n- Roll up vine leaves",
+        "response": "Saute meat in hot oil",
+        "correct_response": "Saute meat in hot oil"
+    },
+    {
+        "title": "Egg Custard Pie IV",
+        "question": "In the recipe 'Egg Custard Pie IV', which step occurs before 'Whisk eggs and sugar'?\n\nOptions:\n- Bake until cheese melts\n- Preheat oven to 425\u00b0F\n- Pour mixture into pie shell\n- Bake, then drain fat\n- Stir in nuts and raisins",
+        "response": "Preheat oven to 425\u00b0F",
+        "correct_response": "Preheat oven to 425\u00b0F"
+    },
+    {
+        "title": "Mediterranean Eggs",
+        "question": "In the recipe 'Mediterranean Eggs', which step occurs before 'Beat eggs, basil, cream'?\n\nOptions:\n- Pour egg mixture, bake\n- Invert flans onto plates\n- Add vanilla, lemon peel, juice\n- Scramble eggs with vegetables\n- Saute tomatoes and mushrooms",
+        "response": "Saute tomatoes and mushrooms",
+        "correct_response": "Saute tomatoes and mushrooms"
+    },
+    {
+        "title": "Dark Chocolate Brownies with a Marshmallow Topping",
+        "question": "In the recipe 'Dark Chocolate Brownies with a Marshmallow Topping', which step occurs before 'Melt chocolate and butter'?\n\nOptions:\n- Bake brownies with marshmallows\n- Cook chicken until browned\n- Preheat oven to 170\u00b0C\n- Garnish with apple slice\n- Add flour, knead, let rise",
+        "response": "Preheat oven to 170\u00b0C",
+        "correct_response": "Preheat oven to 170\u00b0C"
+    },
+    {
+        "title": "Food Processor Pie or Tart Pastry",
+        "question": "In the recipe 'Food Processor Pie or Tart Pastry', which step occurs before 'Process to coarse meal'?\n\nOptions:\n- Cook pasta until al dente\n- Add ingredients to processor\n- Roll dough, cut, twist strips\n- Pour water slowly\n- Top with fresh parsley",
+        "response": "Add ingredients to processor",
+        "correct_response": "Add ingredients to processor"
+    },
+    {
+        "title": "Red Fish Curry",
+        "question": "In the recipe 'Red Fish Curry', which step occurs before 'Add tamarind, tomato purees'?\n\nOptions:\n- Bake until done\n- Stir, cover, and refrigerate\n- Heat oil, add curry leaves\n- Season tilapia, nestle in sauce\n- Drizzle with cranberry glaze",
+        "response": "Heat oil, add curry leaves",
+        "correct_response": "Heat oil, add curry leaves"
+    },
+    {
+        "title": "Radicchio Caesar Salad",
+        "question": "In the recipe 'Radicchio Caesar Salad', which step occurs before 'Add radicchio and spinach'?\n\nOptions:\n- Add tomatoes, beans, spices\n- Pour broth over stuffing\n- Combine dressing ingredients\n- Top with Parmesan cheese\n- Let sit, then slice",
+        "response": "Combine dressing ingredients",
+        "correct_response": "Combine dressing ingredients"
+    },
+    {
+        "title": "Chocolate Cherry Delight Cake",
+        "question": "In the recipe 'Chocolate Cherry Delight Cake', which step occurs before 'Add wet ingredients; beat'?\n\nOptions:\n- Top with mashed potatoes\n- Pour batter into pans\n- Grill shrimp\n- Sprinkle with cheese\n- Combine dry ingredients",
+        "response": "Combine dry ingredients",
+        "correct_response": "Combine dry ingredients"
+    },
+    {
+        "title": "Honey-Lemon Glazed Grilled Chicken Wings",
+        "question": "In the recipe 'Honey-Lemon Glazed Grilled Chicken Wings', which step occurs before 'Simmer sauce ingredients'?\n\nOptions:\n- Grill wings until crispy\n- Toss wings in glaze\n- Put dip in bread bowl\n- Ice cake with Boiled Icing\n- Bake, then drain fat",
+        "response": "Bake, then drain fat",
+        "correct_response": "Grill wings until crispy"
+    },
+    {
+        "title": "Sour Sweet Pork",
+        "question": "In the recipe 'Sour Sweet Pork', which step occurs before 'Add green pepper, onion, pineapple'?\n\nOptions:\n- Brown pork in oil\n- Ladle soup over noodles\n- Fry bread in butter\n- Cook until cheese melts\n- Mix cornstarch, sugar, vinegar",
+        "response": "Brown pork in oil",
+        "correct_response": "Brown pork in oil"
+    },
+    {
+        "title": "Chicken Lo Mein",
+        "question": "In the recipe 'Chicken Lo Mein', which step occurs before 'Stir cornstarch mixture'?\n\nOptions:\n- Add cabbage, simmer until tender\n- Cook until slightly thickened\n- Add chicken and pasta\n- Toss wings in glaze\n- Place Hershey bars on top",
+        "response": "Add chicken and pasta",
+        "correct_response": "Add chicken and pasta"
+    }
+]
