@@ -80,10 +80,11 @@ We analyse the results for each model using the following metrics:
 ### Multiple Choice
 We analyse the results for each model using accuracy.
 
-| LLM                    | Total    | Correct  | Accuracy|
-|------------------------|----------|----------|---------|
-| Llama-3.3-70B-Instruct | 1600     | **1357** | **0.85**|
-| gemma-2-27b-it         | 1600     | 1294     | 0.81    | 
+| LLM                    | Total | Correct  | Accuracy  |
+|------------------------|-------|----------|-----------|
+| gpt-4o-2024-08-06      | 1600  | **1462** | **0.914** |
+| Llama-3.3-70B-Instruct | 1600  | 1357     | 0.848     |
+| gemma-2-27b-it         | 1600  | 1294     | 0.809     | 
 
 
 ## References

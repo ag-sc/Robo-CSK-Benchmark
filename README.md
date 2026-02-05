@@ -60,18 +60,19 @@ This includes choosing the correct type of cutlery and the correct type of plate
 Inspired by the *Event Ordering* task[^7], the model must decide in the case of a binary answer whether on step is done before or after another. In the case of a multiple choice answer the model must decide which step out of five is done before or after another.
 Therefore, we provide the recipe title and specific cooking steps from this recipe.
 
-Below you can find an overview over the five tasks with their question type, size and results:
+Below you can find an overview over the five tasks with their variations, question type, size and link to the results:
 
-| Task    | Question Type   | # Questions | Link to Results                                                                    |
-|---------|-----------------|-------------|------------------------------------------------------------------------------------|
-| Tidy Up | Generative      | 867         | [tidy_up/results_open/model_overview.csv](tidy_up/results_open/model_overview.csv) |
-| Tidy Up | Multiple Choice | 867         |  [tidy_up/results_multi/model_overview.csv](tidy_up/results_multi/model_overview.csv) |
-| Tool Usage | Multiple Choice | 291         | [tool_usage/results/model_overview.csv](tool_usage/results/model_overview.csv) |
-| Meta-Reasoning | Binary          | 9,576       | [meta_reasoning/results_binary/model_overview.csv](meta_reasoning/results_binary/model_overview.csv)|
-|Meta-Reasoning| Multiple Choice | 4,788       | [meta_reasoning/results_multi/model_overview.csv](meta_reasoning/results_multi/model_overview.csv)|
-|Table Setting | Multiple Choice | 200         | [table_setting/results/model_overview.csv](table_setting/results/model_overview.csv) |
-|Procedural Know.| Binary          | 3,104       | [procedural_knowledge/results_binary/model_overview.csv](procedural_knowledge/results_binary/model_overview.csv)|
-|Procedural Know.| Multiple Choice | 1,600       | [procedural_knowledge/results_multi/model_overview.csv](procedural_knowledge/results_multi/model_overview.csv)|
+| Abbr  | Task                    | Question Type   | # Questions | Link to Results                                                                                                  |
+|-------|-------------------------|-----------------|-------------|------------------------------------------------------------------------------------------------------------------|
+| TU-G  | Tidy Up                 | Generative      | 383         | [tidy_up/results_open/model_overview.csv](tidy_up/results_open/model_overview.csv)                               |
+| TU-MC | Tidy Up                 | Multiple Choice | 383         | [tidy_up/results_multi/model_overview.csv](tidy_up/results_multi/model_overview.csv)                             |
+| ToUs  | Tool Usage              | Multiple Choice | 291         | [tool_usage/results/model_overview.csv](tool_usage/results/model_overview.csv)                                   |
+| MR-S  | Meta-Reasoning          | Binary          | 9,576       | [meta_reasoning/results_binary/model_overview.csv](meta_reasoning/results_binary/model_overview.csv)             |
+| MR-MC | Meta-Reasoning          | Multiple Choice | 4,788       | [meta_reasoning/results_multi/model_overview.csv](meta_reasoning/results_multi/model_overview.csv)               |
+| TS-U  | Table Setting (Utensils | Multiple Choice | 100         | [table_setting/results/model_overview.csv](table_setting/results/model_overview.csv)                             |
+| TS-P  | Table Setting (Plates)  | Multiple Choice | 100         | [table_setting/results/model_overview.csv](table_setting/results/model_overview.csv)                             |
+| PK-S  | Procedural Knowledge    | Binary          | 3,104       | [procedural_knowledge/results_binary/model_overview.csv](procedural_knowledge/results_binary/model_overview.csv) |
+| PK-MC | Procedural Knowledge    | Multiple Choice | 1,600       | [procedural_knowledge/results_multi/model_overview.csv](procedural_knowledge/results_multi/model_overview.csv)   |
 
 You have any new results to report? Please reach out to [Jan-Philipp Töberg](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/semantic-computing/team/jan-philipp-toeberg/) (jtoeberg(at)techfak(dot)uni-bielefeld(dot)de).
 
