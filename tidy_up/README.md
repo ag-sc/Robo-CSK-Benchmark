@@ -29,16 +29,17 @@ For each source, we provide a single file focused on the data extraction.
 We use WordNet [1] to ensure that the found candidates are actually household objects and household locations.
 Additionally, to create the ranking of the locations, we manually assign each source a specific trust value based on the reliability.
 
-| Source         | Trust Value | Candidates | Included | Ref |
-|----------------|-------------|------------|----------|-----|
-| AI2Thor        | 1.00        | 118        | 118      | [2] |
-| Ascent++       | 0.50        | 4309       | 131      | [3] |
-| CSKG           | 0.50        | 9264       | 462      | [4] |
-| Housekeep      | 1.00        | 268        | 268      | [5] |
-| Microsoft COCO | 0.75        | 7          | 7        | [6] |
-| **SUM**        | -           | **13966**  | **986**  |     |
+| Source         | Trust Value | # Triples | # Objects | Ref |
+|----------------|-------------|-----------|-----------|-----|
+| AI2Thor        | 1.00        | -         | 118       | [2] |
+| Ascent++       | 0.50        | 4309      | 131       | [3] |
+| CSKG           | 0.50        | 9264      | 462       | [4] |
+| Housekeep      | 1.00        | -         | 268       | [5] |
+| Microsoft COCO | 0.75        | -         | 7         | [6] |
+| **SUM**        | -           | **13966** | **986**   |     |
+| **Filtered**   |             |           | **383**   |     |
 
-After removing duplicates from the list of 986 included objects, *868* distinct objects and their locations remain.
+After removing duplicates from the list and filtering the 986 extracted objects, *383* distinct objects and their locations remain.
 
 ## Experiments
 
@@ -87,9 +88,9 @@ For the multiple choice questions, we evaluate the Accuracy (Acc) of the model a
 
 | LLM                    | MRR       | MAP@1     | MAP@3     | MAP@5     | MAR@1     | MAR@3     | MAR@5     | Acc       |
 |------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| gpt-4o-2024-08-06      | 0.412     | 0.345     | 0.387     | 0.365     | 0.100     | **0.146** | **0.163** | 0.609     |
-| Llama-3.3-70B-Instruct | **0.424** | **0.364** | **0.392** | **0.372** | **0.104** | 0.144     | 0.154     | **0.618** |
-| gemma-2-27b-it         | 0.276     | 0.218     | 0.255     | 0.248     | 0.086     | 0.117     | 0.125     | 0.576     |
+| gpt-4o-2024-08-06      | 0.661     | 0.580     | 0.628     | 0.580     | 0.147     | 0.221     | 0.249     | 0.509     |
+| Llama-3.3-70B-Instruct | **0.680** | **0.608** | **0.645** | **0.584** | **0.158** | **0.225** | **0.256** | 0.496     |
+| gemma-2-27b-it         | 0.348     | 0.274     | 0.321     | 0.307     | 0.096     | 0.144     | 0.157     | **0.522** |
 
 ## References
 

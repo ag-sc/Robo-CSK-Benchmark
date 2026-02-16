@@ -1,868 +1,384 @@
 object,pred_locations,rr,ap@1,ap@3,ap@5,rec@1,rec@3,rec@5
 action figure,"[""children's bedroom"", 'playroom', 'living room', 'home office', 'basement', 'attic']",0.5,0.0,0.5833333333333333,0.6388888888888888,0.0,0.11764705882352941,0.17647058823529413
-adjustable wrench,"['garage', 'basement', 'tool shed', 'utility room', 'workshop']",1.0,1.0,1.0,0.75,0.058823529411764705,0.058823529411764705,0.11764705882352941
+adjustable wrench,"['garage', 'basement', 'tool shed', 'utility room', 'workshop', 'kitchen drawer']",1.0,1.0,1.0,0.75,0.058823529411764705,0.058823529411764705,0.11764705882352941
 alarmclock,"['bedroom', 'bedside table', 'nightstand', 'guest room', ""children's room""]",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-aluminumfoil,"['kitchen', 'pantry', 'storage closet']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-android figure,"['living room', 'bedroom', 'office', 'playroom', 'shelf', 'entertainment center']",1.0,1.0,1.0,0.9166666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
+aluminumfoil,"['kitchen', 'pantry', 'storage cabinet', 'drawer']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
+android figure,"['living room', 'bedroom', 'office', 'playroom', 'shelf']",1.0,1.0,1.0,0.9166666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
 anti slip tape,"['garage', 'basement', 'utility room', 'workshop', 'storage closet']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
 antidepressant,"['medicine cabinet', 'bathroom counter', 'bedside table', 'kitchen counter', 'purse or bag']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-antique,"['living room', 'dining room', 'hallway', 'study', 'bedroom', 'attic']",0.16666666666666666,0.0,0.0,0.0,0.0,0.0,0.0
-apple,"['kitchen counter', 'refrigerator', 'dining table', 'fruit bowl', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-applesauce,"['pantry', 'kitchen cabinet', 'refrigerator', 'kitchen counter']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-appliance,"['kitchen', 'laundry room', 'garage', 'basement', 'utility room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-apricot,"['kitchen', 'refrigerator', 'fruit bowl', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-armchair,"['living room', 'bedroom', 'study', 'den', 'home office']",1.0,1.0,1.0,1.0,0.16666666666666666,0.5,0.5
-armoire,"['bedroom', 'living room', 'hallway']",1.0,1.0,1.0,1.0,0.3333333333333333,0.6666666666666666,0.6666666666666666
-armrest,"['living room', 'family room', 'den', 'home office', 'bedroom']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-arrow,"['garage', 'basement', 'attic', 'closet', 'shed']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-artichoke,"['kitchen', 'refrigerator', 'pantry']",0.5,0.0,0.0,0.0,0.0,0.0,0.0
-article,"['living room', 'bedroom', 'home office', 'kitchen', 'bathroom']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-ashtray,"['living room', 'patio', 'balcony', 'kitchen', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-asparagus,"['refrigerator', 'kitchen counter', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-atm,"['wallet', 'purse', 'drawer', 'bag', 'pocket']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-attic,"['storage room', 'garage', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+apple,"['kitchen counter', 'refrigerator', 'fruit bowl', 'dining table', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+armchair,"['living room', 'bedroom', 'study', 'home office', 'reading nook']",1.0,1.0,1.0,1.0,0.5,1.0,1.0
 backpack,"['entryway', 'bedroom', 'closet', 'living room', 'mudroom']",0.5,0.0,0.5833333333333333,0.6388888888888888,0.0,0.11764705882352941,0.17647058823529413
-bacon,"['refrigerator', 'freezer', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-balancing cactus,"['living room', 'playroom', ""children's room"", 'family room', 'bedroom']",1.0,1.0,1.0,0.6666666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
-ball,"['living room', 'playroom', 'backyard', 'garage', 'bedroom', 'basement']",0.5,0.0,0.5,0.5,0.0,0.25,0.25
-balustrade,"['staircase', 'balcony', 'terrace', 'porch', 'landing']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+balancing cactus,"['living room', 'playroom', ""children's room"", 'family room', 'game room']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
 banana,"['kitchen counter', 'fruit bowl', 'refrigerator', 'pantry', 'dining table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-bar,"['kitchen', 'home bar', 'pantry', 'dining room', 'basement', 'living room']",0.2,0.0,0.0,0.0,0.0,0.0,0.0
-baseball,"['garage', 'basement', 'bedroom', 'living room', 'closet']",1.0,1.0,0.8333333333333333,0.6041666666666666,0.058823529411764705,0.11764705882352941,0.23529411764705882
-baseballbat,"['garage', 'basement', 'sports equipment room', 'closet', 'bedroom']",0.2,0.0,0.0,0.0,0.0,0.0,0.0
-basil,"['kitchen', 'pantry', 'refrigerator', 'garden', 'windowsill']",0.25,0.0,0.0,0.0,0.0,0.0,0.0
+baseball,"['garage', 'basement', ""child's bedroom"", 'living room', 'backyard', 'closet']",1.0,1.0,1.0,0.75,0.058823529411764705,0.058823529411764705,0.11764705882352941
+baseballbat,"['garage', 'basement', 'closet', 'bedroom', 'sports equipment room']",0.25,0.0,0.0,0.0,0.0,0.0,0.0
 basketball,"['garage', 'basement', 'bedroom', 'living room', 'backyard']",0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
-bat,"['garage', 'basement', 'closet', 'attic', 'sports equipment room']",0.25,0.0,0.0,0.25,0.0,0.0,0.16666666666666666
-bath sheet,"['bathroom', 'linen closet', 'laundry room', 'bedroom']",1.0,1.0,1.0,0.5,0.058823529411764705,0.058823529411764705,0.11764705882352941
+bat,"['garage', 'basement', 'attic', 'closet', 'sports equipment room']",0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+bath sheet,"['linen closet', 'bathroom', 'laundry room', 'bedroom']",0.5,0.0,0.5,0.25,0.0,0.058823529411764705,0.11764705882352941
 bathtub,"['bathroom', 'master bathroom', 'guest bathroom']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
 bathtubbasin,"['bathroom', 'basement', 'garage']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
 batter,"['kitchen', 'pantry', 'refrigerator']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-battery,"['drawer', 'garage', 'utility room', 'kitchen', 'office', 'basement', 'living room']",0.5,0.0,0.5833333333333333,0.6388888888888888,0.0,0.11764705882352941,0.17647058823529413
-beacon,"['living room', 'hallway', 'garage', 'office', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-beanbag,"['living room', 'bedroom', 'playroom', 'basement', 'home office']",0.5,0.0,0.5,0.5,0.0,0.25,0.25
-beard color gel,"['bathroom', 'bedroom', 'vanity', 'closet', 'medicine cabinet']",1.0,1.0,1.0,0.9166666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
+battery,"['junk drawer', 'garage', 'utility room', 'office desk drawer', 'kitchen drawer', 'basement', 'toolbox']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.11764705882352941,0.11764705882352941
+beard color gel,"['bathroom', 'bedroom', 'personal grooming area', 'closet', 'vanity table']",1.0,1.0,1.0,0.9166666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
 beauty pack,"['bathroom', 'bedroom', 'vanity table', 'dressing room', 'closet']",1.0,1.0,1.0,0.6666666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
-bed,"['bedroom', 'guest room', 'master bedroom', ""children's room"", 'dormitory']",1.0,1.0,1.0,1.0,0.14285714285714285,0.14285714285714285,0.14285714285714285
-bedroom,"['master bedroom', 'guest bedroom', ""children's bedroom"", 'spare room', 'attic', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-beer,"['refrigerator', 'kitchen', 'pantry', 'garage', 'basement']",1.0,1.0,1.0,1.0,0.1,0.1,0.1
-beet,"['kitchen', 'refrigerator', 'pantry', 'dining room', 'garden']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-belt,"['bedroom', 'closet', 'wardrobe', 'dresser', 'laundry room']",0.5,0.0,0.5,0.5,0.0,0.5,0.5
-beverage,"['refrigerator', 'kitchen counter', 'pantry', 'dining table', 'living room coffee table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-binoculars,"['living room', 'study', 'bedroom', 'closet', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-biscuit,"['kitchen pantry', 'kitchen cabinet', 'countertop', 'dining table', 'snack drawer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-blanket,"['living room', 'bedroom', 'closet', 'linen closet', 'guest room']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.4,0.4
-bleach cleanser,"['laundry room', 'bathroom', 'kitchen', 'cleaning supply closet', 'garage']",0.5,0.0,0.5833333333333333,0.38888888888888884,0.0,0.11764705882352941,0.17647058823529413
-blender,"['kitchen counter', 'kitchen cabinet', 'pantry', 'kitchen island', 'storage closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bed,"['bedroom', 'guest room', 'master bedroom', ""children's room"", 'dormitory', 'nursery']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
+bleach cleanser,"['laundry room', 'bathroom', 'kitchen', 'utility closet', 'garage']",0.5,0.0,0.5833333333333333,0.38888888888888884,0.0,0.11764705882352941,0.17647058823529413
 blender jar,"['kitchen counter', 'kitchen cabinet', 'pantry', 'dishwasher', 'kitchen island']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 blind,"['windows', 'living room', 'bedroom', 'kitchen', 'bathroom']",0.5,0.0,0.5833333333333333,0.611111111111111,0.0,0.6666666666666666,0.6666666666666666
-blouse,"['closet', 'bedroom', 'laundry room', 'dresser', 'wardrobe']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 board game,"['living room', 'game room', 'family room', 'closet', 'basement', 'attic', 'bedroom']",1.0,1.0,1.0,0.75,0.058823529411764705,0.058823529411764705,0.11764705882352941
-boat,"['garage', 'backyard', 'driveway', 'storage shed', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-boater,"['closet', 'entryway', 'bedroom', 'attic', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-bolt,"['garage', 'toolbox', 'basement', 'workshop', 'shed', 'utility room', 'attic']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-book,"['bookshelf', 'living room', 'bedroom', 'study', 'coffee table', 'office', 'nightstand', 'library', 'reading nook', 'storage box']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.11764705882352941,0.11764705882352941
-bookcase,"['living room', 'study', 'bedroom', 'home office', 'hallway']",0.5,0.0,0.5,0.5,0.0,0.3333333333333333,0.3333333333333333
-bookend,"['bookshelf', 'living room', 'study', 'office', 'library', 'bedroom']",1.0,1.0,1.0,0.8666666666666667,0.05,0.1,0.15
-bookshelf,"['living room', 'study', 'bedroom', 'home office', 'hallway']",0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+book,"['bookshelf', 'living room', 'bedroom', 'study', 'office', 'coffee table', 'nightstand', 'library', 'reading nook', 'desk']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.11764705882352941,0.11764705882352941
+bookend,"['bookshelf', 'living room', 'study', 'office', 'library', 'bedroom']",0.5,0.0,0.5,0.5,0.0,0.058823529411764705,0.058823529411764705
 boot,"['entryway', 'closet', 'mudroom', 'garage', 'bedroom']",0.2,0.0,0.0,0.0,0.0,0.0,0.0
-booze,"['kitchen', 'bar cart', 'dining room', 'pantry', 'liquor cabinet', 'basement', 'living room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-bottle,"['kitchen', 'refrigerator', 'pantry', 'dining room', 'bathroom', 'garage', 'living room', 'bedroom']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
-bourbon,"['liquor cabinet', 'kitchen counter', 'bar cart', 'pantry', 'dining room sideboard']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bottle,"['kitchen', 'refrigerator', 'pantry', 'dining room', 'garage', 'bathroom', 'living room', 'bedroom']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
 bowl,"['kitchen', 'dining room', 'pantry', 'living room', 'cabinet']",1.0,1.0,1.0,0.9166666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
-box,"['storage room', 'garage', 'attic', 'basement', 'closet', 'pantry', 'office', 'bedroom', 'living room']",1.0,1.0,1.0,0.8666666666666667,0.058823529411764705,0.11764705882352941,0.17647058823529413
-bra,"['bedroom', 'closet', 'dresser', 'laundry room', 'bathroom']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-brain,"['office', 'study', 'library', 'living room', 'bedroom']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-brandy,"['liquor cabinet', 'kitchen pantry', 'dining room bar cart', 'wine cellar', 'kitchen counter']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-bread,"['kitchen counter', 'pantry', 'bread box', 'refrigerator', 'dining table']",0.5,0.0,0.5,0.5,0.0,0.14285714285714285,0.2857142857142857
-breakfast,"['kitchen', 'dining room', 'pantry', 'refrigerator', 'breakfast nook']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-broccoli,"['refrigerator', 'kitchen counter', 'pantry', 'freezer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-broiler,"['kitchen', 'pantry', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-broom,"['closet', 'garage', 'laundry room', 'kitchen', 'utility room', 'basement']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
-bug,"['kitchen', 'bathroom', 'basement', 'attic', 'garden', 'garage', 'living room', 'bedroom']",0.2,0.0,0.0,0.0,0.0,0.0,0.0
-bulb,"['storage room', 'garage', 'utility closet', 'basement', 'kitchen drawer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-bullet,"['bedroom', 'closet', 'garage', 'basement', 'attic']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-bumper,"['garage', 'basement', 'storage room', 'workshop', 'shed']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-bun,"['kitchen', 'pantry', 'dining room', 'refrigerator', 'bread box']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-bundt pan,"['kitchen cabinet', 'pantry', 'kitchen drawer', 'storage closet', 'basement storage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-bureau,"['bedroom', 'home office', 'living room']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-burner,"['kitchen', 'garage', 'basement', 'storage room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-butter dish,"['kitchen counter', 'refrigerator', 'dining table', 'kitchen cabinet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-butterknife,"['kitchen drawer', 'kitchen utensil holder', 'dishwasher', 'dining table', 'kitchen counter']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-cabbage,"['refrigerator', 'kitchen counter', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+box,"['storage room', 'garage', 'attic', 'basement', 'closet', 'pantry', 'office', 'bedroom', 'living room', 'kitchen']",1.0,1.0,1.0,0.8666666666666667,0.058823529411764705,0.11764705882352941,0.17647058823529413
+bread,"['kitchen counter', 'pantry', 'bread box', 'refrigerator', 'dining table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bundt pan,"['kitchen cabinet', 'pantry', 'kitchen drawer', 'storage closet', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+butter dish,"['kitchen counter', 'refrigerator', 'dining table', 'kitchen cabinet', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+butterknife,"['kitchen drawer', 'utensil holder', 'dishwasher', 'dining table', 'kitchen counter']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 cabinet,"['kitchen', 'bathroom', 'living room', 'bedroom', 'garage', 'basement', 'laundry room']",1.0,1.0,1.0,1.0,0.25,0.75,1.0
 cake mix,"['pantry', 'kitchen cabinet', 'kitchen counter', 'baking supplies drawer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 cake pan,"['kitchen cabinet', 'pantry', 'kitchen drawer', 'kitchen shelf', 'storage closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-calender,"['kitchen', 'home office', 'living room', 'hallway', 'bedroom']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-camera,"['living room', 'bedroom', 'office', 'closet', 'drawer']",1.0,1.0,1.0,0.6875,0.05,0.1,0.2
-camper,"['garage', 'driveway', 'backyard', 'storage unit']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+camera,"['living room', 'office', 'bedroom', 'closet', 'storage room']",1.0,1.0,0.8333333333333333,0.6041666666666666,0.058823529411764705,0.11764705882352941,0.23529411764705882
 can opener,"['kitchen drawer', 'kitchen countertop', 'pantry', 'kitchen cabinet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-candelabra,"['dining room', 'living room', 'mantelpiece', 'entryway', 'bedroom']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-candle,"['living room', 'bedroom', 'bathroom', 'dining room', 'kitchen']",1.0,1.0,1.0,0.75,0.1,0.3,0.4
+candle,"['living room', 'bedroom', 'bathroom', 'dining room', 'kitchen']",1.0,1.0,0.75,0.75,0.5,0.5,0.5
 candle holder,"['living room', 'dining room', 'bedroom', 'kitchen', 'bathroom', 'hallway', 'outdoor patio']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.29411764705882354
-candlestick,"['dining table', 'living room mantel', 'sideboard', 'bookshelf', 'bedroom nightstand']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-candy,"['kitchen', 'pantry', 'living room', 'dining room', 'office', 'bedroom']",1.0,1.0,0.8333333333333333,0.8055555555555555,0.047619047619047616,0.09523809523809523,0.14285714285714285
-candy bar,"['pantry', 'kitchen cabinet', 'refrigerator', 'snack drawer', 'countertop', 'living room table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+candy,"['kitchen', 'pantry', 'living room', 'dining room', 'office', 'bedroom', ""children's room""]",1.0,1.0,0.8333333333333333,0.8055555555555555,0.05555555555555555,0.1111111111111111,0.16666666666666666
+candy bar,"['kitchen pantry', 'kitchen cabinet', 'refrigerator', 'snack drawer', 'living room table', 'office desk', ""child's bedroom"", 'backpack']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 canister,"['kitchen', 'pantry', 'garage', 'basement', 'laundry room']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
-canteen,"['kitchen', 'dining room', 'pantry', 'garage', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-canvas,"['art studio', 'living room', 'bedroom', 'garage', 'basement', 'attic']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-cap,"['closet', 'bedroom', 'entryway', 'laundry room', 'living room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-carburettor,"['garage', 'basement', 'workshop', 'shed', 'storage room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-card,"['wallet', 'desk', 'drawer', 'purse', 'shelf', 'countertop', 'backpack', 'filing cabinet', 'nightstand', 'closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 card game,"['living room', 'game room', 'family room', 'bedroom', 'closet', 'basement', 'attic']",1.0,1.0,1.0,0.7000000000000001,0.058823529411764705,0.058823529411764705,0.17647058823529413
-carpeting,"['living room', 'bedroom', 'hallway', 'dining room', 'stairs']",0.5,0.0,0.5,0.5,0.0,0.25,0.25
-carrot,"['refrigerator', 'kitchen counter', 'pantry', 'vegetable drawer', 'kitchen table']",1.0,1.0,1.0,1.0,0.25,0.25,0.25
 carrying case,"['closet', 'garage', 'bedroom', 'storage room', 'attic']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.23529411764705882
-case,"['office', 'bedroom', 'living room', 'closet', 'storage room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 casserole dish,"['kitchen cabinet', 'kitchen pantry', 'kitchen counter', 'dining room hutch', 'oven drawer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-cauliflower,"['refrigerator', 'kitchen counter', 'pantry', 'kitchen table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-cd,"['living room', 'bedroom', 'office', 'entertainment center', 'storage box']",0.5,0.0,0.5,0.5,0.0,0.3333333333333333,0.3333333333333333
-celery,"['refrigerator', 'kitchen counter', 'pantry']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-cellar,"['basement', 'storage room', 'wine cellar', 'utility room', 'pantry']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
-cellphone,"['living room', 'bedroom', 'kitchen', 'office', 'hallway']",1.0,1.0,1.0,1.0,0.25,0.75,0.75
-centerpiece,"['dining table', 'coffee table', 'kitchen island', 'mantel', 'sideboard']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-cereal,"['pantry', 'kitchen cabinet', 'kitchen counter', 'dining table', 'refrigerator']",1.0,1.0,1.0,1.0,0.045454545454545456,0.045454545454545456,0.045454545454545456
-chain,"['garage', 'basement', 'shed', 'toolbox', 'attic']",1.0,1.0,1.0,1.0,0.05,0.05,0.05
-chair,"['dining room', 'living room', 'kitchen', 'office', 'bedroom', 'patio', 'basement', 'garage']",0.5,0.0,0.5833333333333333,0.611111111111111,0.0,0.6666666666666666,0.6666666666666666
-chalk,"['home office', ""children's playroom"", 'garage', 'art studio', 'classroom area', 'kitchen drawer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-chalkboard,"['kitchen', 'home office', ""children's playroom"", 'garage', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-check,"['desk', 'kitchen counter', 'office', 'wallet', 'drawer']",0.25,0.0,0.0,0.0,0.0,0.0,0.0
-cheese,"['refrigerator', 'kitchen counter', 'pantry', 'dining table']",1.0,1.0,1.0,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333
-chesterfield,"['living room', 'family room', 'den', 'study', 'home office']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
-chicken,"['refrigerator', 'freezer', 'kitchen counter', 'pantry']",0.5,0.0,0.5,0.5,0.0,0.5,0.5
-chickpea,"['pantry', 'kitchen cabinet', 'kitchen counter', 'refrigerator']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-china,"['dining room', 'kitchen', 'china cabinet', 'display cabinet', 'living room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-chip,"['kitchen', 'pantry', 'living room', 'dining room', 'snack drawer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-chocolate,"['kitchen pantry', 'refrigerator', 'kitchen cabinet', 'living room', 'dining room']",0.25,0.0,0.0,0.125,0.0,0.0,0.1111111111111111
-chocolate box,"['kitchen pantry', 'living room coffee table', 'kitchen counter', 'dining room sideboard', 'bedroom nightstand']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-chocolate milk pods,"['pantry', 'kitchen cabinet', 'refrigerator', 'countertop', 'storage closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cd,"['living room', 'home office', 'bedroom', 'entertainment center', 'storage closet']",0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+cellphone,"['living room', 'bedroom', 'kitchen', 'office', 'hallway']",1.0,1.0,1.0,1.0,0.3333333333333333,1.0,1.0
+cereal,"['pantry', 'kitchen cabinet', 'kitchen counter', 'dining table', 'refrigerator']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+chain,"['garage', 'basement', 'shed', 'toolbox', 'attic']",1.0,1.0,1.0,1.0,0.058823529411764705,0.058823529411764705,0.058823529411764705
+chair,"['living room', 'dining room', 'kitchen', 'bedroom', 'office', 'patio', 'basement', 'garage']",1.0,1.0,0.8333333333333333,0.7777777777777777,0.3333333333333333,0.6666666666666666,0.6666666666666666
+chocolate,"['kitchen pantry', 'refrigerator', 'kitchen cabinet', 'living room', 'dining room', 'bedroom drawer']",0.25,0.0,0.0,0.325,0.0,0.0,0.11764705882352941
+chocolate box,"['kitchen pantry', 'living room', 'kitchen counter', 'dining room', 'bedroom drawer']",0.5,0.0,0.5,0.5,0.0,0.058823529411764705,0.11764705882352941
+chocolate milk pods,"['pantry', 'kitchen cabinet', 'refrigerator', 'countertop', 'kitchen drawer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 chocolate powder,"['kitchen pantry', 'kitchen cabinet', 'kitchen countertop', 'refrigerator', 'dining room shelf']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-chopping board,"['kitchen counter', 'kitchen cabinet', 'kitchen drawer', 'pantry', 'dishwasher']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-cinnamon,"['kitchen pantry', 'spice rack', 'kitchen cabinet', 'countertop', 'baking supplies drawer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+chopping board,"['kitchen counter', 'kitchen cabinet', 'kitchen drawer', 'pantry', 'dining table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 clamp,"['garage', 'workshop', 'basement', 'tool shed', 'utility room']",1.0,1.0,1.0,0.5,0.058823529411764705,0.058823529411764705,0.11764705882352941
 clay,"['art studio', 'craft room', 'garage', 'basement', ""children's playroom"", 'kitchen', 'living room']",0.3333333333333333,0.0,0.3333333333333333,0.3333333333333333,0.0,0.058823529411764705,0.058823529411764705
-clipboard,"['home office', 'kitchen', 'living room', 'bedroom', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 clock,"['living room', 'kitchen', 'bedroom', 'hallway', 'office']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.17647058823529413
-closet,"['bedroom', 'hallway', 'entryway', 'bathroom', 'laundry room']",1.0,1.0,1.0,1.0,0.25,0.25,0.25
-cloth,"['laundry room', 'bathroom', 'kitchen', 'closet', 'cleaning supply area', 'garage']",0.5,0.0,0.5833333333333333,0.6388888888888888,0.0,0.11764705882352941,0.17647058823529413
-clothing,"['bedroom', 'closet', 'laundry room', 'dresser', 'bathroom', 'hamper']",0.5,0.0,0.5,0.5,0.0,0.125,0.125
-coaster,"['living room', 'dining room', 'kitchen', 'home office', 'bedroom']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-coat,"['coat rack', 'closet', 'entryway', 'bedroom', 'hallway']",0.5,0.0,0.5,0.5,0.0,0.3333333333333333,0.3333333333333333
-coating,"['kitchen', 'garage', 'basement', 'utility room', 'workshop']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-cockpit,"['garage', 'basement', 'attic']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-coffee,"['kitchen', 'pantry', 'dining room', 'office', 'living room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cloth,"['laundry room', 'bathroom', 'kitchen', 'bedroom', 'closet']",0.5,0.0,0.5833333333333333,0.47916666666666663,0.0,0.11764705882352941,0.23529411764705882
 coffee beans,"['kitchen pantry', 'kitchen cabinet', 'countertop', 'refrigerator', 'coffee station']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-coffee pods,"['kitchen counter', 'pantry', 'kitchen cabinet', 'coffee station', 'drawer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+coffee pods,"['kitchen counter', 'pantry', 'kitchen cabinet', 'coffee station', 'drawer near coffee maker']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 coffeemachine,"['kitchen counter', 'pantry', 'dining room', 'office', 'break room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-coffeemaker,"['kitchen counter', 'pantry', 'dining room', 'office', 'garage']",0.3333333333333333,0.0,0.3333333333333333,0.16666666666666666,0.0,0.058823529411764705,0.11764705882352941
+coffeemaker,"['kitchen counter', 'pantry', 'dining room', 'office', 'break room']",0.3333333333333333,0.0,0.3333333333333333,0.3333333333333333,0.0,0.058823529411764705,0.058823529411764705
 coffeetable,"['living room', 'family room', 'den', 'lounge', 'sitting room']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
-coil,"['garage', 'basement', 'workshop', 'utility room', 'attic']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-coke,"['refrigerator', 'pantry', 'kitchen counter', 'dining table', 'garage', 'living room', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-cola,"['refrigerator', 'pantry', 'kitchen counter', 'dining table', 'garage', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-collage,"['living room', 'bedroom', 'hallway', 'home office', 'dining room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-colored wood blocks,"['playroom', ""children's bedroom"", 'living room', 'toy storage area', 'nursery']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
-column,"['living room', 'porch', 'garden', 'entryway', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-comb,"['bathroom', 'bedroom', 'vanity', 'dresser', 'purse', 'backpack']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-comfort,"['living room', 'bedroom', 'family room', 'den', 'home office']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-compass,"['desk', 'office', 'drawer', 'backpack', 'garage', 'study room', 'toolbox']",0.25,0.0,0.0,0.0,0.0,0.0,0.0
-compote,"['kitchen', 'dining room', 'pantry', 'living room', 'china cabinet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-computer,"['office', 'bedroom', 'living room', 'study', 'den']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-condiment,"['kitchen', 'pantry', 'dining room', 'refrigerator', 'cupboard']",1.0,1.0,1.0,1.0,0.047619047619047616,0.14285714285714285,0.19047619047619047
-condom,"['bedroom', 'bathroom', 'nightstand', 'dresser drawer', 'wallet']",1.0,1.0,1.0,0.6666666666666666,0.16666666666666666,0.3333333333333333,0.5
-conserve,"['pantry', 'kitchen cabinet', 'refrigerator', 'basement storage', 'garage shelf']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-container,"['kitchen', 'pantry', 'garage', 'bathroom', 'basement', 'attic', 'laundry room', 'storage closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-contraceptive,"['bedroom', 'bathroom', 'nightstand', 'medicine cabinet', 'dresser drawer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-cookbook,"['kitchen', 'dining room', 'living room', 'home office', 'bookshelf']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-cookie,"['kitchen', 'pantry', 'dining room', 'living room', 'office', 'bedroom']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-cooky,"['kitchen', 'pantry', 'dining room', 'living room', 'office', 'bedroom']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-cooler,"['garage', 'basement', 'kitchen', 'pantry', 'backyard', 'storage room']",0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
-copyholder,"['home office', 'study room', 'living room', 'bedroom', 'library']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-cord,"['garage', 'office', 'living room', 'basement', 'utility room', 'bedroom', 'storage closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-coronet,"['display cabinet', 'bedroom dresser', 'closet', 'attic', 'storage box']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-cosmetic,"['bathroom', 'bedroom', 'vanity', 'dressing table', 'purse', 'closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-couch,"['living room', 'family room', 'den', 'basement', 'home office']",0.3333333333333333,0.0,0.3333333333333333,0.3333333333333333,0.0,0.125,0.125
-countertop,"['kitchen', 'bathroom', 'laundry room', 'garage', 'workshop']",1.0,1.0,1.0,1.0,0.25,0.5,0.5
-cracker,"['pantry', 'kitchen cabinet', 'kitchen counter', 'dining table', 'snack drawer']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
+colored wood blocks,"['playroom', ""children's bedroom"", 'living room', 'nursery', 'toy storage area']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
+condiment,"['kitchen', 'pantry', 'dining room', 'refrigerator', 'cupboard']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
+countertop,"['kitchen', 'bathroom', 'laundry room', 'garage', 'workshop']",1.0,1.0,1.0,1.0,0.3333333333333333,0.6666666666666666,0.6666666666666666
 cracker box,"['pantry', 'kitchen cabinet', 'kitchen counter', 'dining room table', 'snack drawer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-crate,"['garage', 'basement', 'attic', 'storage room', 'shed']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-crayon,"[""children's room"", 'living room', 'playroom', 'art room', 'kitchen drawer', 'classroom', 'office desk']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.1111111111111111,0.1111111111111111
+crayon,"[""children's room"", 'playroom', 'living room', 'art room', 'kitchen drawer', 'classroom', 'office desk']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.11764705882352941,0.11764705882352941
 creditcard,"['wallet', 'purse', 'desk drawer', 'bedside table', 'kitchen counter']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-crisp,"['pantry', 'kitchen cabinet', 'kitchen counter', 'snack drawer', 'living room', 'dining room', 'office desk', 'backpack', 'car.']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-crowbar,"['garage', 'basement', 'tool shed', 'utility room', 'workshop']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-cube storage box,"['living room', 'bedroom', 'closet', 'playroom', 'office', 'basement']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.23529411764705882
-cubicle,"['office', 'study', 'basement', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-cup,"['kitchen', 'dining room', 'living room', 'pantry', 'office', 'bedroom']",1.0,1.0,1.0,1.0,0.043478260869565216,0.13043478260869565,0.13043478260869565
-cupcake,"['kitchen', 'dining room', 'pantry', 'refrigerator', 'bakery box']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cube storage box,"['living room', 'bedroom', 'closet', 'playroom', 'office']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.23529411764705882
+cup,"['kitchen', 'dining room', 'living room', 'office', 'bedroom', 'pantry']",1.0,1.0,1.0,0.95,0.058823529411764705,0.17647058823529413,0.23529411764705882
 curtain,"['living room', 'bedroom', 'dining room', 'kitchen', 'bathroom']",1.0,1.0,1.0,0.8888888888888888,0.3333333333333333,0.6666666666666666,0.6666666666666666
-cushion,"['sofa', 'bed', 'armchair', 'living room floor', 'storage closet']",1.0,1.0,1.0,1.0,0.05555555555555555,0.05555555555555555,0.05555555555555555
-custard,"['refrigerator', 'pantry', 'kitchen counter', 'dining table']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-cutlery,"['kitchen drawer', 'dishwasher', 'dining table', 'kitchen counter', 'utensil holder']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-damper,"['kitchen', 'pantry', 'basement', 'garage', 'utility room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-dashboard,"['car', 'garage', 'driveway']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-decanter,"['dining room', 'kitchen', 'living room', 'bar area', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-deck,"['backyard', 'patio', 'garden', 'front yard', 'rooftop']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
-design,"['living room', 'home office', 'bedroom', 'study', 'hallway']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-desk,"['home office', 'bedroom', 'living room', 'study', 'basement']",0.5,0.0,0.5833333333333333,0.6388888888888888,0.0,0.2222222222222222,0.3333333333333333
+cushion,"['sofa', 'bed', 'armchair', 'living room floor', 'storage closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+desk,"['home office', 'bedroom', 'living room', 'study', 'basement']",0.5,0.0,0.5,0.5,0.0,0.5,0.5
 desk caddy,"['home office', 'study room', 'bedroom', 'living room', 'kitchen']",1.0,1.0,0.8333333333333333,0.6041666666666666,0.058823529411764705,0.11764705882352941,0.23529411764705882
 desklamp,"['office', 'bedroom', 'study', 'living room']",0.5,0.0,0.5,0.25,0.0,0.5,0.5
-desktop,"['home office', 'bedroom', 'living room']",0.5,0.0,0.0,0.0,0.0,0.0,0.0
-dessert,"['kitchen', 'dining room', 'refrigerator', 'pantry', 'freezer']",0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
-diaper pack,"['nursery', 'bathroom', 'bedroom', 'living room', 'closet']",0.5,0.0,0.5833333333333333,0.47916666666666663,0.0,0.11764705882352941,0.23529411764705882
-diary,"['bedroom', 'living room', 'home office', 'study', 'bookshelf']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-dictionary,"['bookshelf', 'study room', 'living room', 'office', 'bedroom']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-dietary supplement,"['kitchen', 'pantry', 'bathroom', 'bedroom', 'medicine cabinet']",1.0,1.0,0.8333333333333333,0.8055555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
-dime,"['living room', 'bedroom', 'kitchen', 'hallway', 'car', 'office', 'laundry room', 'bathroom']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-diningtable,"['dining room', 'kitchen', 'living room', 'breakfast nook', 'patio']",0.5,0.0,0.5,0.5,0.0,0.5,0.5
-dinner,"['dining room', 'kitchen', 'living room', 'pantry', 'refrigerator']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-dish,"['kitchen', 'dining room', 'dishwasher', 'cupboard', 'sink']",1.0,1.0,1.0,0.5,0.14285714285714285,0.14285714285714285,0.2857142857142857
-dish drainer,"['kitchen counter', 'kitchen sink', 'kitchen cabinet', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+desktop,"['home office', 'bedroom', 'living room', 'study', 'den']",0.5,0.0,0.0,0.0,0.0,0.0,0.0
+diaper pack,"['nursery', 'bathroom', 'bedroom', 'closet', 'laundry room']",0.5,0.0,0.5833333333333333,0.6388888888888888,0.0,0.11764705882352941,0.17647058823529413
+dietary supplement,"['kitchen', 'bathroom', 'pantry', 'bedroom', 'living room']",1.0,1.0,1.0,0.6875,0.058823529411764705,0.11764705882352941,0.23529411764705882
+diningtable,"['dining room', 'kitchen', 'living room', 'breakfast nook', 'open-plan area']",0.5,0.0,0.5,0.5,0.0,0.5,0.5
+dish drainer,"['kitchen counter', 'kitchen sink', 'kitchen cabinet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 dishsponge,"['kitchen sink', 'kitchen counter', 'under the kitchen sink', 'pantry', 'utility room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-dishtowel,"['kitchen', 'laundry room', 'dining room', 'bathroom']",1.0,1.0,0.8333333333333333,0.5555555555555555,0.05555555555555555,0.1111111111111111,0.16666666666666666
-dishwasher,"['kitchen', 'utility room', 'garage']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
+dishtowel,"['kitchen', 'laundry room', 'dining room', 'bathroom']",1.0,1.0,0.8333333333333333,0.5555555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
+dishwasher,"['kitchen', 'utility room', 'garage']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
 dispensing closure,"['kitchen', 'bathroom', 'laundry room', 'garage', 'pantry']",1.0,1.0,1.0,0.9166666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
-document,"['desk', 'office', 'filing cabinet', 'bookshelf', 'drawer', 'living room', 'kitchen counter']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 dog bowl,"['kitchen', 'dining room', 'living room', 'laundry room', 'garage']",1.0,1.0,1.0,0.75,0.058823529411764705,0.17647058823529413,0.23529411764705882
 dog chew toy,"['living room', 'pet area', 'backyard', 'bedroom', 'kitchen']",1.0,1.0,1.0,0.5,0.058823529411764705,0.058823529411764705,0.17647058823529413
 dogbed,"['living room', 'bedroom', 'hallway', 'kitchen', 'laundry room']",1.0,1.0,1.0,1.0,0.5,1.0,1.0
-dollhouse toy,"[""children's bedroom"", 'playroom', 'living room', 'toy storage area', 'basement']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.11764705882352941,0.11764705882352941
-donut,"['kitchen counter', 'dining table', 'pantry', 'refrigerator', 'office desk']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-door,"['entryway', 'hallway', 'bedroom', 'bathroom', 'kitchen', 'living room', 'closet', 'garage', 'basement', 'attic']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-doughnut,"['kitchen counter', 'dining table', 'pantry', 'refrigerator', 'snack drawer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-drawer,"['kitchen', 'bedroom', 'bathroom', 'living room', 'office', 'garage', 'hallway']",1.0,1.0,1.0,1.0,0.1111111111111111,0.3333333333333333,0.4444444444444444
-dress,"['closet', 'bedroom', 'laundry room', 'wardrobe', 'dresser']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-dresser,"['bedroom', 'closet', 'guest room', 'hallway']",1.0,1.0,1.0,1.0,0.16666666666666666,0.16666666666666666,0.16666666666666666
-dressing,"['kitchen', 'refrigerator', 'pantry', 'dining room', 'kitchen cabinet']",0.5,0.0,0.0,0.0,0.0,0.0,0.0
-drill,"['garage', 'workshop', 'basement', 'tool shed', 'utility room']",0.3333333333333333,0.0,0.3333333333333333,0.3333333333333333,0.0,0.3333333333333333,0.3333333333333333
-drink,"['kitchen', 'dining room', 'living room', 'refrigerator', 'pantry', 'home bar']",0.25,0.0,0.0,0.25,0.0,0.0,0.14285714285714285
+dollhouse toy,"[""children's bedroom"", 'playroom', 'living room', 'nursery', 'basement storage']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.11764705882352941,0.11764705882352941
+donut,"['kitchen', 'dining room', 'pantry', 'living room', 'office']",1.0,1.0,1.0,0.9166666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
+drawer,"['kitchen', 'bedroom', 'bathroom', 'living room', 'office', 'garage']",1.0,1.0,1.0,1.0,0.25,0.75,1.0
+dresser,"['bedroom', 'closet', 'guest room', 'hallway']",1.0,1.0,1.0,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333
+drink,"['kitchen', 'dining room', 'living room', 'refrigerator', 'pantry', 'home bar']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 drink coaster,"['living room', 'dining room', 'kitchen', 'home office', 'bedroom']",1.0,1.0,1.0,0.8,0.058823529411764705,0.17647058823529413,0.29411764705882354
-driveway,"['garage', 'front yard', 'side yard']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-drum,"['garage', 'basement', 'music room', 'living room', 'bedroom']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 dryer,"['laundry room', 'basement', 'utility room', 'garage']",0.5,0.0,0.0,0.0,0.0,0.0,0.0
-duck,"['bathroom', ""children's room"", 'bathtub', 'toy box', 'garden']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-duct,"['basement', 'attic', 'utility room', 'garage', 'crawl space']",0.5,0.0,0.5,0.5,0.0,0.5,0.5
-duct tape,"['garage', 'utility room', 'basement', 'tool shed', 'kitchen drawer', 'workshop', 'storage closet']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
+duct tape,"['garage', 'utility room', 'basement', 'workshop', 'kitchen drawer', 'tool shed']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
 dumbbell,"['home gym', 'living room', 'bedroom', 'garage', 'basement']",0.5,0.0,0.5833333333333333,0.6388888888888888,0.0,0.11764705882352941,0.17647058823529413
 dumbbell rack,"['home gym', 'garage', 'basement', 'living room', 'bedroom']",0.5,0.0,0.5,0.3333333333333333,0.0,0.058823529411764705,0.17647058823529413
-dungeon,"['basement', 'cellar', 'attic']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-dustbin,"['kitchen', 'bathroom', 'office', 'bedroom', 'living room', 'garage']",1.0,1.0,1.0,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333
 dustpan and brush,"['kitchen', 'utility room', 'garage', 'closet', 'under the sink']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.23529411764705882
 dutch oven,"['kitchen', 'pantry', 'dining room', 'storage room']",1.0,1.0,0.8333333333333333,0.5555555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
-duvet,"['bedroom', 'linen closet', 'guest room', 'laundry room']",1.0,1.0,1.0,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333
-easter basket,"['storage closet', 'attic', 'basement', 'garage', ""children's bedroom""]",0.25,0.0,0.0,0.25,0.0,0.0,0.058823529411764705
-edible,"['kitchen', 'pantry', 'dining room', 'refrigerator', 'cupboard', 'snack drawer', 'freezer', 'living room', 'office', 'bedroom']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+easter basket,"['storage closet', 'attic', 'basement', 'garage', ""children's bedroom"", 'living room']",0.25,0.0,0.0,0.25,0.0,0.0,0.058823529411764705
 egg,"['refrigerator', 'kitchen counter', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-eggplant,"['refrigerator', 'kitchen counter', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-electric heater,"['living room', 'bedroom', 'office', 'basement', 'garage']",1.0,1.0,1.0,0.6666666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
-electric toothbrush,"['bathroom counter', 'bathroom cabinet', 'bathroom drawer', 'bedroom nightstand', 'travel bag']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+electric heater,"['living room', 'bedroom', 'basement', 'office', 'garage']",1.0,1.0,1.0,0.6666666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
+electric toothbrush,"['bathroom', 'master bathroom', 'guest bathroom', 'ensuite bathroom', ""kids' bathroom""]",1.0,1.0,1.0,1.0,0.058823529411764705,0.058823529411764705,0.058823529411764705
 electronic adapter,"['living room', 'office', 'bedroom', 'kitchen', 'garage']",1.0,1.0,0.8333333333333333,0.6041666666666666,0.058823529411764705,0.11764705882352941,0.23529411764705882
-electronic cable,"['office', 'living room', 'bedroom', 'garage', 'basement', 'drawer', 'storage box']",0.5,0.0,0.5833333333333333,0.6388888888888888,0.0,0.11764705882352941,0.17647058823529413
-elevator,"['basement', 'garage', 'hallway', 'living room', 'entryway']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-emperor,"['living room', 'study', 'library', 'bedroom', 'hallway']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-encyclopedia,"['bookshelf', 'living room', 'study', 'home office', 'library', 'bedroom']",0.2,0.0,0.0,0.0,0.0,0.0,0.0
-engraving,"['living room', 'hallway', 'study', 'bedroom', 'dining room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-envelope,"['desk', 'office', 'kitchen counter', 'drawer', 'living room table']",1.0,1.0,1.0,0.6666666666666666,0.3333333333333333,0.3333333333333333,0.3333333333333333
+electronic cable,"['office', 'living room', 'bedroom', 'garage', 'drawer', 'storage box']",0.5,0.0,0.5833333333333333,0.6388888888888888,0.0,0.11764705882352941,0.17647058823529413
 face moisturizer,"['bathroom', 'bedroom', 'vanity', 'dresser', 'nightstand']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
-faucet,"['kitchen', 'bathroom', 'laundry room', 'garden', 'garage']",1.0,1.0,1.0,1.0,0.2,0.4,0.4
-fiberglass,"['garage', 'basement', 'attic', 'workshop', 'shed']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-figurine,"['shelf', 'mantelpiece', 'display cabinet', 'coffee table', 'side table', 'bookcase', 'desk']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
-file sorter,"['home office', 'study room', 'living room', 'bedroom', 'kitchen']",1.0,1.0,0.8333333333333333,0.6041666666666666,0.058823529411764705,0.11764705882352941,0.23529411764705882
-film,"['living room', 'entertainment center', 'home office', 'bedroom', 'storage closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+faucet,"['kitchen', 'bathroom', 'laundry room', 'garden', 'garage']",1.0,1.0,1.0,1.0,0.5,1.0,1.0
+file sorter,"['home office', 'study', 'living room', 'bedroom', 'kitchen']",1.0,1.0,0.8333333333333333,0.6041666666666666,0.058823529411764705,0.11764705882352941,0.23529411764705882
 fingerpaint,"['art room', ""children's playroom"", 'craft supplies cabinet', 'classroom', 'storage closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-fire,"['fireplace', 'kitchen stove', 'outdoor fire pit', 'candle holders', 'barbecue grill']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-firearm,"['safe', 'bedroom', 'closet', 'office', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-fireplace,"['living room', 'family room', 'den', 'basement', 'bedroom']",1.0,1.0,1.0,0.8,0.1111111111111111,0.3333333333333333,0.5555555555555556
-fish,"['kitchen', 'dining room', 'refrigerator', 'freezer', 'pantry']",0.3333333333333333,0.0,0.3333333333333333,0.3333333333333333,0.0,0.25,0.25
-fitness tracker wristband,"['bedroom', 'living room', 'home gym', 'bathroom', 'entryway']",1.0,1.0,1.0,0.9166666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
-flag,"['living room', 'office', 'bedroom', 'garage', 'attic']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-flashlight,"['garage', 'kitchen drawer', 'utility room', 'basement', 'bedroom nightstand']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.05263157894736842,0.10526315789473684,0.10526315789473684
-flat screwdriver,"['toolbox', 'garage', 'basement', 'utility room', 'kitchen drawer']",0.5,0.0,0.5,0.5,0.0,0.058823529411764705,0.11764705882352941
+fitness tracker wristband,"['bedroom', 'living room', 'bathroom', 'home gym', 'office']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.17647058823529413
+flashlight,"['garage', 'kitchen drawer', 'utility room', 'basement', 'bedroom nightstand']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
+flat screwdriver,"['garage', 'toolbox', 'basement', 'utility room', 'workshop', 'shed', 'kitchen drawer']",1.0,1.0,1.0,0.75,0.058823529411764705,0.058823529411764705,0.11764705882352941
 floor,"['living room', 'kitchen', 'bedroom', 'bathroom', 'hallway', 'dining room', 'basement', 'garage', 'attic']",1.0,1.0,1.0,1.0,0.25,0.75,1.0
-floorlamp,"['living room', 'bedroom', 'office', 'study', 'den']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-flour,"['pantry', 'kitchen cabinet', 'kitchen counter', 'baking supplies drawer']",1.0,1.0,1.0,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333
-foam brick,"['playroom', ""children's bedroom"", 'living room', 'garage', 'basement']",1.0,1.0,0.8333333333333333,0.8055555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
-folder,"['office', 'study', 'living room', 'bedroom', 'kitchen', 'hallway']",0.3333333333333333,0.0,0.3333333333333333,0.4777777777777777,0.0,0.05,0.15
+floorlamp,"['living room', 'bedroom', 'office', 'den', 'reading nook']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
+foam brick,"['garage', 'basement', 'attic', 'storage room', 'craft room']",1.0,1.0,1.0,0.75,0.058823529411764705,0.058823529411764705,0.11764705882352941
+folder,"['office', 'study', 'living room', 'bedroom', 'kitchen', 'hallway']",0.3333333333333333,0.0,0.3333333333333333,0.4777777777777777,0.0,0.058823529411764705,0.17647058823529413
 fondant,"['kitchen pantry', 'kitchen cabinet', 'baking supplies drawer', 'refrigerator', 'kitchen counter']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-food,"['kitchen', 'pantry', 'refrigerator', 'dining room', 'freezer', 'cupboard']",1.0,1.0,1.0,0.95,0.05,0.15,0.2
-foot,"['living room', 'bedroom', 'bathroom', 'hallway', 'closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-footstool,"['living room', 'bedroom', 'study', 'family room', 'den']",1.0,1.0,1.0,0.9166666666666666,0.16666666666666666,0.3333333333333333,0.5
-foresail,"['garage', 'attic', 'basement', 'storage room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-fork,"['kitchen drawer', 'dining table', 'dishwasher', 'kitchen sink', 'utensil holder']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-form,"['desk', 'office', 'filing cabinet', 'drawer', 'bookshelf', 'kitchen counter']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
-foundation,"['bathroom', 'bedroom', 'vanity', 'makeup drawer', 'dressing table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-foyer,"['entryway', 'hallway', 'front door area', 'entrance', 'vestibule']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-frame,"['living room', 'bedroom', 'hallway', 'office', 'dining room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-freezer,"['kitchen', 'garage', 'basement', 'utility room', 'pantry']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-fridge,"['kitchen', 'garage', 'basement']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-frosting,"['pantry', 'kitchen cabinet', 'refrigerator', 'baking supplies drawer', 'kitchen counter']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-fruit,"['kitchen counter', 'refrigerator', 'dining table', 'fruit bowl', 'pantry']",0.5,0.0,0.5,0.25,0.0,0.16666666666666666,0.3333333333333333
+footstool,"['living room', 'bedroom', 'study', 'home office', 'den']",0.5,0.0,0.5,0.5,0.0,0.5,0.5
+fork,"['kitchen drawer', 'dishwasher', 'dining table', 'kitchen counter', 'utensil holder']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+fridge,"['kitchen', 'garage', 'basement', 'pantry']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
 fruit snack,"['pantry', 'kitchen cabinet', 'refrigerator', 'kitchen counter', 'snack drawer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-fur,"['couch', 'carpet', 'pet bed', 'clothing', 'floor', 'furniture', 'car seats', 'vacuum cleaner', 'pet grooming tools']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-furnace,"['basement', 'utility room', 'garage']",1.0,1.0,1.0,1.0,0.25,0.25,0.25
-furniture,"['living room', 'bedroom', 'dining room', 'office', 'kitchen', 'patio', 'basement', 'attic', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-galley,"['kitchen', 'pantry', 'dining room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-garage,"['driveway', 'basement', 'backyard', 'storage unit']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+furnace,"['basement', 'utility room', 'garage']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
 garbage,"['kitchen', 'bathroom', 'garage', 'office', 'living room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-garbagebag,"['kitchen', 'garage', 'pantry', 'laundry room', 'basement']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
+garbagebag,"['kitchen', 'pantry', 'garage', 'utility room', 'basement']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
 garbagecan,"['kitchen', 'bathroom', 'garage', 'office', 'bedroom', 'living room', 'laundry room']",1.0,1.0,1.0,0.8333333333333334,0.25,0.5,0.5
-garlic,"['kitchen counter', 'pantry', 'refrigerator', 'spice rack', 'kitchen cabinet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-garment,"['closet', 'bedroom', 'laundry room', 'dresser', 'wardrobe', 'bathroom', 'hallway', 'living room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-garter,"['bedroom', 'closet', 'dresser', 'laundry room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-gas,"['kitchen', 'garage', 'basement', 'utility room', 'outdoor storage shed']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-gate,"['front yard', 'backyard', 'side yard', 'driveway', 'garden', 'patio']",0.5,0.0,0.5,0.41666666666666663,0.0,0.3333333333333333,0.3333333333333333
-gauze,"['bathroom', 'first aid kit', 'medicine cabinet', 'kitchen', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-gear,"['garage', 'basement', 'workshop', 'shed', 'attic']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-gel,"['bathroom', 'bedroom', 'kitchen', 'laundry room', 'garage']",1.0,1.0,1.0,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333
 gelatin box,"['pantry', 'kitchen cabinet', 'refrigerator', 'kitchen counter']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-gin,"['kitchen', 'bar cart', 'pantry', 'dining room', 'liquor cabinet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-glove,"['closet', 'laundry room', 'garage', 'entryway', 'mudroom', 'coat rack', 'bedroom drawer', 'utility room', 'basement', 'car trunk']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.05263157894736842,0.10526315789473684,0.10526315789473684
-golf ball,"['garage', 'basement', 'sports equipment room', 'storage closet', 'backyard']",1.0,1.0,1.0,1.0,0.058823529411764705,0.058823529411764705,0.058823529411764705
-goose,"['backyard', 'garden', 'pond', 'farm area', 'living room (as a decorative item)']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-graphics card,"['computer desk', 'office', 'gaming room', 'electronics drawer', 'storage closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-guard,"['front door', 'backyard', 'garage', 'driveway', 'porch']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-guinness,"['kitchen', 'refrigerator', 'pantry', 'dining room', 'bar area', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-gun,"['safe', 'bedroom', 'closet', 'garage', 'office']",0.3333333333333333,0.0,0.3333333333333333,0.3333333333333333,0.0,0.125,0.125
-hair color,"['bathroom', 'bedroom', 'closet', 'vanity', 'laundry room']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.17647058823529413
-hair conditioner,"['bathroom', 'shower', 'bathtub', 'vanity', 'bathroom cabinet']",1.0,1.0,1.0,1.0,0.058823529411764705,0.058823529411764705,0.058823529411764705
+glove,"['closet', 'laundry room', 'garage', 'entryway', 'mudroom', 'coat rack', 'bedroom', 'kitchen drawer']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
+golf ball,"['garage', 'basement', 'sports equipment room', 'backyard', 'closet', 'attic']",1.0,1.0,1.0,0.7,0.058823529411764705,0.058823529411764705,0.11764705882352941
+graphics card,"['computer desk', 'office', 'living room', 'bedroom', 'storage closet']",0.3333333333333333,0.0,0.3333333333333333,0.41666666666666663,0.0,0.058823529411764705,0.11764705882352941
+hair color,"['bathroom', 'bedroom', 'closet', 'vanity', 'storage cabinet']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.17647058823529413
+hair conditioner,"['bathroom', 'shower', 'bathtub', 'bathroom cabinet', 'bathroom shelf']",1.0,1.0,1.0,1.0,0.058823529411764705,0.058823529411764705,0.058823529411764705
 hair dryer,"['bathroom', 'bedroom', 'vanity table', 'closet', 'dressing room']",1.0,1.0,1.0,0.9166666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
-hair straightener,"['bathroom', 'bedroom', 'vanity table', 'dressing room', 'closet']",1.0,1.0,1.0,0.6666666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
-ham,"['refrigerator', 'kitchen counter', 'pantry']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
+hair straightener,"['bathroom', 'bedroom', 'dressing room', 'vanity table', 'closet']",1.0,1.0,1.0,0.6666666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
 hammer,"['garage', 'toolbox', 'basement', 'shed', 'utility room']",1.0,1.0,1.0,0.5,0.058823529411764705,0.058823529411764705,0.11764705882352941
-hand,"['bathroom', 'kitchen', 'bedroom', 'living room', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-hand bell,"['living room', 'study', 'bedroom', 'hallway', 'dining room']",1.0,1.0,0.8333333333333333,0.5555555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
-handbag,"['entryway', 'bedroom', 'closet', 'living room', 'hallway']",0.5,0.0,0.5833333333333333,0.6388888888888888,0.0,0.11764705882352941,0.17647058823529413
-handset,"['living room', 'bedroom', 'office', 'kitchen', 'hallway']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-handtowel,"['bathroom', 'kitchen', 'laundry room', 'linen closet']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
+hand bell,"['living room', 'study', 'bedroom', 'dining room', 'hallway']",1.0,1.0,0.8333333333333333,0.8055555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
+handbag,"['entryway', 'bedroom', 'closet', 'living room', 'coat rack']",0.5,0.0,0.5833333333333333,0.6388888888888888,0.0,0.11764705882352941,0.17647058823529413
+handtowel,"['bathroom', 'kitchen', 'laundry room', 'linen closet', 'guest room']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
 handtowelholder,"['bathroom', 'kitchen', 'laundry room']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-harbor,"['living room', 'bedroom', 'study', 'garage', 'attic']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 hard drive,"['office', 'living room', 'bedroom', 'study', 'basement']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.11764705882352941,0.11764705882352941
-hard drive case,"['office', 'study', 'living room', 'bedroom', 'storage room', 'basement', 'garage']",0.3333333333333333,0.0,0.3333333333333333,0.4777777777777777,0.0,0.058823529411764705,0.17647058823529413
-hardware,"['garage', 'basement', 'tool shed', 'utility room', 'workshop', 'attic', 'storage closet', 'utility drawer', 'home office']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-hat,"['coat rack', 'closet', 'entryway', 'bedroom', 'hallway']",0.5,0.0,0.5,0.5,0.0,0.043478260869565216,0.08695652173913043
-headlight,"['garage', 'basement', 'utility room', 'storage closet', 'car trunk']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+hard drive case,"['office', 'living room', 'bedroom', 'study', 'storage room']",0.5,0.0,0.5833333333333333,0.38888888888888884,0.0,0.11764705882352941,0.17647058823529413
+hat,"['coat rack', 'closet', 'entryway', 'bedroom', 'hallway']",0.5,0.0,0.5,0.5,0.0,0.058823529411764705,0.11764705882352941
 headphone,"['living room', 'bedroom', 'home office', 'entertainment room', 'study desk']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.17647058823529413
-heater,"['living room', 'bedroom', 'basement', 'bathroom', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-heavy duty gloves,"['garage', 'basement', 'utility room', 'shed', 'laundry room']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
+heavy duty gloves,"['garage', 'utility room', 'basement', 'shed', 'laundry room']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
 heavy master chef can,"['pantry', 'kitchen cabinet', 'kitchen counter', 'garage', 'basement']",0.25,0.0,0.0,0.25,0.0,0.0,0.058823529411764705
-hedge,"['garden', 'backyard', 'front yard', 'side yard']",0.5,0.0,0.0,0.0,0.0,0.0,0.0
-helmet,"['garage', 'entryway', 'closet', 'basement', 'storage room']",1.0,1.0,0.8333333333333333,0.5555555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
-herring,"['kitchen', 'pantry', 'refrigerator', 'dining room', 'freezer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+helmet,"['garage', 'entryway', 'closet', 'basement', 'mudroom']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
 herring fillets,"['refrigerator', 'pantry', 'kitchen cabinet', 'freezer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-holdall,"['closet', 'bedroom', 'hallway', 'garage', 'attic']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-honey,"['kitchen pantry', 'kitchen cabinet', 'kitchen countertop', 'dining room', 'refrigerator']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 honey dipper,"['kitchen', 'pantry', 'dining room', 'kitchen drawer', 'kitchen cabinet']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
-horn,"['garage', 'music room', 'living room', 'attic', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-house,"['backyard', 'front yard', 'neighborhood', 'street', 'real estate listing']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-houseplant,"['living room', 'bedroom', 'kitchen', 'bathroom', 'hallway', 'office', 'dining room']",1.0,1.0,1.0,1.0,0.25,0.75,1.0
-icecream,"['freezer', 'refrigerator', 'kitchen', 'pantry']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-incontinence pads,"['bathroom', 'bedroom', 'linen closet', 'medicine cabinet', 'storage closet']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
-ingredient,"['kitchen pantry', 'refrigerator', 'kitchen cabinet', 'spice rack', 'kitchen counter']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-ink cartridge,"['home office', 'desk drawer', 'printer stand', 'supply closet', 'filing cabinet']",1.0,1.0,1.0,1.0,0.058823529411764705,0.058823529411764705,0.058823529411764705
+houseplant,"['living room', 'kitchen', 'bedroom', 'office', 'bathroom']",1.0,1.0,1.0,0.75,0.25,0.75,0.75
+incontinence pads,"['bathroom', 'bedroom', 'closet', 'laundry room', 'medical supplies cabinet']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.17647058823529413
+ink cartridge,"['home office', 'desk drawer', 'printer area', 'supply closet', 'stationery cabinet']",1.0,1.0,1.0,1.0,0.058823529411764705,0.058823529411764705,0.058823529411764705
 instant camera,"['living room', 'bedroom', 'home office', 'closet', 'storage room']",1.0,1.0,1.0,0.8,0.058823529411764705,0.17647058823529413,0.29411764705882354
-invitation card,"['desk', 'refrigerator', 'bulletin board', 'kitchen counter', 'living room table', 'office drawer', 'entryway table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-ipod,"['living room', 'bedroom', 'home office', 'entertainment center', 'drawer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-jack,"['garage', 'basement', 'car trunk', 'tool shed', 'utility room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-jacket,"['coat rack', 'closet', 'entryway', 'bedroom', 'laundry room']",0.5,0.0,0.5,0.5,0.0,0.5,0.5
-jam,"['kitchen pantry', 'refrigerator', 'kitchen cabinet', 'dining room table']",0.5,0.0,0.5,0.5,0.0,0.5,0.5
-jar,"['kitchen', 'pantry', 'dining room', 'storage room', 'garage']",1.0,1.0,1.0,0.8,0.043478260869565216,0.13043478260869565,0.21739130434782608
-jean,"['bedroom', 'closet', 'laundry room', 'dresser', 'hamper']",1.0,1.0,1.0,1.0,0.25,0.5,0.5
-jenga,"['living room', 'playroom', 'family room', 'game room', 'bedroom', 'closet']",1.0,1.0,1.0,0.8666666666666667,0.058823529411764705,0.11764705882352941,0.17647058823529413
-jewelry,"['bedroom', 'jewelry box', 'dresser', 'closet', 'bathroom', 'safe', 'nightstand']",0.16666666666666666,0.0,0.0,0.0,0.0,0.0,0.0
-jewelry box,"['bedroom', 'dresser', 'closet', 'vanity', 'nightstand']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
-john,"['living room', 'bedroom', 'kitchen', 'bathroom', 'home office']",0.25,0.0,0.0,0.25,0.0,0.0,0.25
-joist,"['attic', 'basement', 'garage', 'crawl space', 'ceiling']",0.5,0.0,0.0,0.0,0.0,0.0,0.0
-journal,"['living room', 'bedroom', 'home office', 'study', 'bookshelf', 'coffee table', 'bedside table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-juice,"['refrigerator', 'kitchen counter', 'pantry', 'dining table']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
-jukebox,"['living room', 'basement', 'entertainment room', 'garage', 'den']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-junk,"['junk drawer', 'garage', 'basement', 'attic', 'closet', 'home office', 'storage room']",0.25,0.0,0.0,0.25,0.0,0.0,0.14285714285714285
-kettle,"['kitchen counter', 'kitchen cabinet', 'pantry', 'dining room', 'storage closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+invitation card,"['kitchen counter', 'refrigerator door', 'home office desk', 'living room table', 'bulletin board', 'entryway table', 'bedroom nightstand']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+jar,"['kitchen', 'pantry', 'dining room', 'storage room', 'garage']",1.0,1.0,0.8333333333333333,0.6041666666666666,0.058823529411764705,0.11764705882352941,0.23529411764705882
+jenga,"['living room', 'game room', 'family room', 'playroom', 'bedroom', 'basement']",1.0,1.0,1.0,0.7000000000000001,0.058823529411764705,0.058823529411764705,0.17647058823529413
+jewelry box,"['bedroom dresser', 'closet shelf', 'bedside table', 'vanity', 'jewelry armoire']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+kettle,"['kitchen counter', 'kitchen cabinet', 'pantry', 'dining room', 'utility room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 keyboard,"['office', 'living room', 'bedroom', 'study', 'den']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.11764705882352941,0.11764705882352941
-keychain,"['entryway table', 'kitchen counter', 'living room coffee table', 'bedroom nightstand', 'office desk']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-kitchen,"['kitchen', 'dining room', 'pantry', 'living room', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-kitchenette,"['kitchen', 'basement', 'studio apartment', 'office', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-knife,"['kitchen drawer', 'kitchen countertop', 'dishwasher', 'knife block', 'dining table', 'sink']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+keychain,"['entryway table', 'kitchen counter', 'living room coffee table', 'bedroom nightstand', 'hallway shelf']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+knife,"['kitchen drawer', 'knife block', 'dishwasher', 'kitchen counter', 'drying rack']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 knife block,"['kitchen counter', 'kitchen drawer', 'kitchen cabinet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-labeling tape,"['office', 'garage', 'craft room', 'kitchen drawer', 'utility room']",0.5,0.0,0.5,0.25,0.0,0.058823529411764705,0.11764705882352941
-ladle,"['kitchen drawer', 'utensil holder', 'kitchen cabinet', 'dishwasher', 'drying rack']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-lamb,"['kitchen', 'dining room', 'refrigerator', 'freezer', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-lame,"['garage', 'basement', 'attic', 'shed', 'workshop']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-lamp,"['living room', 'bedroom', 'office', 'study', 'hallway']",1.0,1.0,1.0,1.0,0.045454545454545456,0.09090909090909091,0.09090909090909091
-lantern,"['garage', 'basement', 'storage closet', 'attic', 'utility room']",1.0,1.0,1.0,0.5,0.058823529411764705,0.058823529411764705,0.11764705882352941
-laptop,"['office', 'living room', 'bedroom', 'study', 'kitchen']",0.5,0.0,0.5833333333333333,0.38888888888888884,0.0,0.1111111111111111,0.16666666666666666
+labeling tape,"['home office', 'garage', 'craft room', 'kitchen drawer', 'utility room']",1.0,1.0,1.0,0.6666666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
+ladle,"['kitchen', 'utensil drawer', 'hanging rack', 'kitchen countertop', 'dishwasher']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
+lamp,"['living room', 'bedroom', 'office', 'study', 'hallway']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
+lantern,"['garage', 'basement', 'storage room', 'attic', 'closet', 'shed', 'living room']",1.0,1.0,0.8333333333333333,0.7555555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
+laptop,"['home office', 'living room', 'bedroom', 'study', 'kitchen']",1.0,1.0,1.0,0.75,0.058823529411764705,0.17647058823529413,0.23529411764705882
 laptop cover,"['office', 'living room', 'bedroom', 'study', 'home office', 'closet']",0.5,0.0,0.5833333333333333,0.5888888888888889,0.0,0.11764705882352941,0.17647058823529413
 laptop stand,"['home office', 'living room', 'bedroom', 'study', 'den']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.17647058823529413
 large marker,"['office', 'craft room', 'kitchen drawer', 'garage', 'classroom', 'living room']",0.25,0.0,0.0,0.25,0.0,0.0,0.058823529411764705
-lasagna,"['refrigerator', 'kitchen counter', 'dining table', 'oven', 'freezer']",0.2,0.0,0.0,0.0,0.0,0.0,0.0
-laundry,"['laundry room', 'bedroom', 'bathroom', 'closet', 'laundry basket', 'utility room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 laundry box,"['laundry room', 'bedroom', 'bathroom', 'closet', 'hallway']",0.5,0.0,0.5833333333333333,0.6388888888888888,0.0,0.11764705882352941,0.17647058823529413
 laundryhamper,"['bedroom', 'bathroom', 'laundry room', 'closet']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
 laxative,"['bathroom cabinet', 'medicine cabinet', 'bathroom drawer', 'kitchen cabinet', 'bedroom nightstand']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 lego duplo,"['playroom', ""children's bedroom"", 'living room', 'toy storage area', 'nursery']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
-lemon,"['kitchen counter', 'refrigerator', 'fruit bowl', 'pantry', 'dining table']",0.5,0.0,0.5,0.5,0.0,0.05263157894736842,0.05263157894736842
-letter holder,"['entryway', 'home office', 'kitchen counter', 'living room', 'hallway table']",0.5,0.0,0.5,0.5,0.0,0.058823529411764705,0.11764705882352941
+lemon,"['kitchen counter', 'refrigerator', 'fruit bowl', 'pantry', 'dining table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+letter holder,"['entryway', 'kitchen counter', 'home office', 'living room', 'hallway table']",0.3333333333333333,0.0,0.3333333333333333,0.41666666666666663,0.0,0.058823529411764705,0.11764705882352941
 lettuce,"['refrigerator', 'kitchen counter', 'pantry', 'dining table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-library,"['living room', 'study', 'home office', 'hallway', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-lid,"['kitchen', 'pantry', 'dining room', 'storage room', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-lifeboat,"['garage', 'basement', 'backyard', 'storage shed']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-light,"['ceiling', 'wall', 'table', 'floor', 'desk', 'nightstand', 'bathroom', 'kitchen', 'living room', 'bedroom']",0.2,0.0,0.0,0.0,0.0,0.0,0.0
 light bulb,"['storage closet', 'garage', 'utility room', 'basement', 'kitchen drawer']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.11764705882352941,0.11764705882352941
-lightswitch,"['wall near room entrance', 'wall near door', 'wall near staircase', 'wall near bed', 'wall near desk']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+lightswitch,"['wall near room entrance', 'wall near bed', 'wall near desk', 'wall near bathroom entrance', 'wall near kitchen entrance']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 lime squeezer,"['kitchen drawer', 'kitchen countertop', 'kitchen cabinet', 'pantry', 'dining room sideboard']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-linoleum,"['kitchen floor', 'bathroom floor', 'laundry room floor', 'mudroom floor', 'basement floor']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-lip,"['bathroom', 'bedroom', 'purse', 'vanity', 'makeup bag']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-lipstick,"['bathroom', 'bedroom', 'vanity table', 'purse', 'makeup bag']",1.0,1.0,1.0,0.9166666666666666,0.05263157894736842,0.10526315789473684,0.15789473684210525
-liquor,"['liquor cabinet', 'kitchen', 'dining room', 'bar cart', 'pantry', 'basement', 'living room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-loaf,"['kitchen counter', 'pantry', 'bread box', 'refrigerator', 'dining table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-lobster,"['refrigerator', 'freezer', 'kitchen counter', 'dining table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-loft,"['attic', 'garage', 'basement', 'storage room', 'shed']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-lotion,"['bathroom', 'bedroom', 'living room', 'kitchen', 'hallway']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-lunch,"['kitchen', 'dining room', 'refrigerator', 'lunchbox', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+lipstick,"['bathroom', 'bedroom', 'vanity table', 'purse', 'dresser drawer']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
 lunch bag,"['kitchen', 'dining room', 'pantry', 'refrigerator', 'entryway', 'office', 'car']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
 lunch box,"['kitchen', 'dining room', 'pantry', 'refrigerator', 'backpack', 'cupboard']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
-magazine,"['coffee table', 'living room shelf', 'bedside table', 'bathroom rack', 'kitchen counter']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-magnet,"['refrigerator', 'kitchen', 'office', 'garage', 'workshop']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-magnifying glass,"['desk', 'office', 'study', 'library', 'drawer', 'living room', 'bedroom']",0.16666666666666666,0.0,0.0,0.0,0.0,0.0,0.0
-mail,"['entryway', 'kitchen counter', 'home office', 'living room', 'dining table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-mailbox,"['front porch', 'front yard', 'driveway', 'curbside']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-mainsail,"['garage', 'basement', 'attic', 'storage room', 'shed']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-makeup,"['bathroom', 'bedroom', 'vanity table', 'dressing room', 'closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-marshmallow,"['pantry', 'kitchen cabinet', 'kitchen counter', 'refrigerator', 'dining table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+magnifying glass,"['office', 'study', 'living room', 'bedroom', 'library', 'garage', 'workshop']",0.3333333333333333,0.0,0.3333333333333333,0.41666666666666663,0.0,0.058823529411764705,0.11764705882352941
 mascara,"['bathroom', 'bedroom', 'vanity table', 'makeup bag', 'purse']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
-mast,"['garage', 'backyard', 'attic']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 master chef can,"['kitchen pantry', 'kitchen cabinet', 'kitchen countertop', 'garage storage', 'basement storage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-mat,"['entryway', 'bathroom', 'kitchen', 'living room', 'bedroom', 'hallway']",0.5,0.0,0.5,0.5,0.0,0.25,0.5
-match,"['kitchen', 'living room', 'garage', 'utility room', 'camping gear storage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-mattress,"['bedroom', 'guest room', 'storage room', 'basement', 'attic']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-mayo,"['refrigerator', 'kitchen pantry', 'kitchen counter']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-mayonnaise,"['refrigerator', 'pantry', 'kitchen counter']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
-measuring tape,"['toolbox', 'garage', 'workshop', 'utility room', 'kitchen drawer', 'office desk drawer', 'basement', 'shed']",0.5,0.0,0.5,0.5,0.0,0.058823529411764705,0.11764705882352941
-meatloaf,"['refrigerator', 'kitchen counter', 'dining table', 'oven', 'freezer']",0.25,0.0,0.0,0.0,0.0,0.0,0.0
-medicine,"['medicine cabinet', 'bathroom', 'kitchen', 'bedroom', 'first aid kit', 'pantry']",0.5,0.0,0.5833333333333333,0.6388888888888888,0.0,0.11764705882352941,0.17647058823529413
-memory,"['computer', 'camera', 'smartphone', 'photo album', 'bookshelf', 'drawer', 'attic', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-meringue,"['kitchen', 'pantry', 'dining room', 'refrigerator']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-mess,"['living room', 'kitchen', 'bedroom', ""children's playroom"", 'garage', 'bathroom', 'home office', 'dining room', 'hallway', 'laundry room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-metronome,"['music room', 'living room', 'study', 'bedroom', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+measuring tape,"['toolbox', 'garage', 'workshop', 'utility room', 'kitchen drawer', 'office desk drawer']",0.5,0.0,0.5,0.5,0.0,0.058823529411764705,0.11764705882352941
+medicine,"['medicine cabinet', 'bathroom', 'kitchen', 'bedroom', 'first aid kit']",0.5,0.0,0.5833333333333333,0.6388888888888888,0.0,0.11764705882352941,0.17647058823529413
 microwave,"['kitchen counter', 'kitchen island', 'pantry', 'dining room', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-milk,"['refrigerator', 'kitchen counter', 'pantry', 'dining table']",1.0,1.0,1.0,1.0,0.14285714285714285,0.14285714285714285,0.14285714285714285
-milk fror,"['refrigerator', 'kitchen counter', 'dining table', 'pantry', 'grocery bag']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-mini soccer ball,"['living room', 'bedroom', 'playroom', 'garage', 'backyard']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.23529411764705882
-mint,"['kitchen', 'pantry', 'dining room', 'garden', 'refrigerator']",0.2,0.0,0.0,0.0,0.0,0.0,0.0
-mirror,"['bathroom', 'bedroom', 'hallway', 'living room', 'closet']",1.0,1.0,1.0,0.9166666666666666,0.14285714285714285,0.2857142857142857,0.42857142857142855
-mit,"['kitchen', 'laundry room', 'garage', 'bathroom', 'closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-moistener,"['office', 'desk', 'stationery drawer', 'craft room', 'home office']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-mold,"['bathroom', 'kitchen', 'basement', 'refrigerator', 'laundry room', 'attic', 'windowsills', 'under sinks', 'shower curtain', 'air conditioning units']",0.25,0.0,0.0,0.25,0.0,0.0,0.25
-monitor,"['office', 'bedroom', 'living room', 'study', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-moonshine,"['pantry', 'basement', 'garage', 'kitchen', 'bar area']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-mop,"['laundry room', 'utility closet', 'garage', 'basement', 'kitchen pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-morboard,"['garage', 'basement', 'attic', 'storage room', 'home office']",1.0,1.0,1.0,0.5,0.058823529411764705,0.058823529411764705,0.17647058823529413
-mouse,"['office', 'living room', 'bedroom', 'study', 'den']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.058823529411764705,0.058823529411764705
+milk fror,"['refrigerator', 'kitchen counter', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+mini soccer ball,"['living room', ""child's bedroom"", 'playroom', 'backyard', 'garage']",1.0,1.0,0.8333333333333333,0.5555555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
+mirror,"['bathroom', 'bedroom', 'hallway', 'living room', 'closet']",1.0,1.0,1.0,0.9166666666666666,0.25,0.5,0.75
+morboard,"['garage', 'workshop', 'basement', 'attic', 'storage room']",1.0,1.0,1.0,0.5,0.058823529411764705,0.058823529411764705,0.11764705882352941
+mouse,"['office', 'living room', 'bedroom', 'study', 'den']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.10526315789473684,0.10526315789473684
 mouse pad,"['home office', 'study room', 'living room', 'bedroom', 'gaming room']",1.0,1.0,0.8333333333333333,0.8055555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
-mousepad,"['home office', 'study room', 'living room', 'bedroom', 'gaming room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 movie dvd,"['living room', 'entertainment center', 'media cabinet', 'bookshelf', 'bedroom', 'home office']",1.0,1.0,1.0,0.7,0.058823529411764705,0.058823529411764705,0.11764705882352941
-muffin,"['kitchen counter', 'pantry', 'dining table', 'refrigerator', 'bread box']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-mug,"['kitchen', 'dining room', 'living room', 'office', 'bedroom']",1.0,1.0,1.0,0.75,0.05263157894736842,0.15789473684210525,0.21052631578947367
-mule,"['barn', 'stable', 'farmyard']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+mug,"['kitchen', 'dining room', 'living room', 'office', 'bedroom']",1.0,1.0,1.0,0.75,0.058823529411764705,0.17647058823529413,0.23529411764705882
 multiport hub,"['home office', 'living room', 'bedroom', 'study', 'entertainment center']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.17647058823529413
-museum,"['living room', 'study', 'hallway']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 mustard bottle,"['kitchen pantry', 'refrigerator', 'kitchen counter', 'dining room table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-nail,"['garage', 'toolbox', 'basement', 'workshop', 'utility room', 'shed', 'drawer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-napkin,"['kitchen', 'dining room', 'pantry', 'living room', 'picnic basket']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 neck rest,"['living room', 'bedroom', 'home office', 'car', 'travel bag']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.17647058823529413
-neckwear,"['closet', 'bedroom dresser', 'wardrobe', 'coat rack', 'laundry room']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-net,"['garage', 'basement', 'shed', 'attic', 'closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-netting,"['garage', 'garden shed', 'basement', 'attic', 'utility room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-newspaper,"['living room', 'kitchen', 'bedroom', 'home office', 'bathroom']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
+newspaper,"['living room', 'kitchen', 'home office', 'bedroom', 'bathroom']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
 nine hole peg test,"['rehabilitation room', 'home office', 'living room', 'bedroom', 'storage closet']",0.5,0.0,0.5833333333333333,0.6388888888888888,0.0,0.11764705882352941,0.17647058823529413
-nintendo switch,"['living room', 'bedroom', 'entertainment room', 'game room', 'office']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
-notebook,"['desk', 'bookshelf', 'bedside table', 'coffee table', 'backpack', 'office drawer', 'living room shelf']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-oil,"['kitchen', 'pantry', 'garage', 'basement']",1.0,1.0,1.0,1.0,0.2,0.2,0.2
-ointment,"['bathroom', 'medicine cabinet', 'bedroom', 'first aid kit', 'kitchen drawer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-olive,"['kitchen', 'pantry', 'refrigerator', 'dining room', 'bar area']",0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+nintendo switch,"['living room', 'bedroom', 'entertainment room', 'game room', 'family room']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
 orange,"['kitchen', 'dining room', 'refrigerator', 'fruit bowl', 'pantry']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
-organiser,"['office', 'bedroom', 'living room', 'kitchen', 'closet', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-ottoman,"['living room', 'bedroom', 'family room', 'den', 'home office']",1.0,1.0,1.0,0.75,0.25,0.25,0.5
-outfit,"['closet', 'bedroom', 'laundry room', 'dresser', 'wardrobe', 'bathroom']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-oven,"['kitchen', 'basement', 'outdoor patio']",1.0,1.0,1.0,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333
-pad,"['office', 'bedroom', 'living room', 'kitchen', 'bathroom']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-padlock,"['garage', 'basement', 'shed', 'toolbox', 'drawer', 'office', 'closet']",1.0,1.0,1.0,1.0,0.058823529411764705,0.058823529411764705,0.058823529411764705
-paint,"['garage', 'basement', 'utility room', 'shed', 'storage closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ottoman,"['living room', 'bedroom', 'family room', 'den', 'home office']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
+padlock,"['garage', 'basement', 'shed', 'toolbox', 'utility room', 'home office', 'storage closet']",1.0,1.0,1.0,0.7,0.058823529411764705,0.058823529411764705,0.11764705882352941
 paint bottle set,"['art studio', 'craft room', 'garage', 'basement', 'closet', 'office', ""children's playroom""]",0.3333333333333333,0.0,0.3333333333333333,0.3666666666666667,0.0,0.058823529411764705,0.11764705882352941
 paint maker,"['garage', 'basement', 'utility room', 'craft room', 'storage closet']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
 painting,"['living room', 'hallway', 'bedroom', 'dining room', 'office']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.3333333333333333,0.6666666666666666,0.6666666666666666
-pajama,"['bedroom', 'closet', 'dresser', 'laundry room', 'bathroom']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-pan,"['kitchen', 'pantry', 'cabinet', 'drawer', 'dishwasher']",1.0,1.0,1.0,1.0,0.058823529411764705,0.058823529411764705,0.058823529411764705
-pantry,"['kitchen', 'basement', 'garage', 'utility room', 'hallway closet']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-paper,"['office', 'living room', 'kitchen', 'bedroom', 'study', 'dining room', 'garage', 'basement', 'attic']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+pan,"['kitchen', 'pantry', 'cupboard', 'storage room']",1.0,1.0,1.0,0.5,0.058823529411764705,0.058823529411764705,0.11764705882352941
 paper bag,"['kitchen', 'pantry', 'garage', 'closet', 'recycling bin']",1.0,1.0,0.8333333333333333,0.8055555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
-paperclip,"['desk', 'office drawer', 'stationery organizer', 'junk drawer', 'home office', 'study room', 'kitchen drawer']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
 papertowelroll,"['kitchen', 'pantry', 'bathroom', 'laundry room', 'garage']",1.0,1.0,0.75,0.75,0.5,0.5,0.5
-paperweight,"['desk', 'office', 'study', 'living room', 'bookshelf']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-parchment sheet,"['kitchen', 'pantry', 'baking drawer', 'craft room', 'office']",1.0,1.0,1.0,1.0,0.058823529411764705,0.058823529411764705,0.058823529411764705
-parsley,"['kitchen', 'refrigerator', 'pantry', 'garden']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-pasta,"['pantry', 'kitchen cabinet', 'kitchen counter', 'refrigerator', 'dining room shelf']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
-paste,"['bathroom', 'kitchen', 'office', 'garage', 'craft room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-pastry,"['kitchen', 'pantry', 'dining room', 'refrigerator', 'bakery box']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-pea,"['kitchen', 'pantry', 'dining room', 'refrigerator', 'freezer']",0.2,0.0,0.0,0.0,0.0,0.0,0.0
-peach,"['kitchen', 'refrigerator', 'fruit bowl', 'dining table', 'pantry']",1.0,1.0,1.0,1.0,0.05555555555555555,0.05555555555555555,0.05555555555555555
-pear,"['kitchen counter', 'fruit bowl', 'refrigerator', 'dining table', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-pedal,"['garage', 'basement', 'shed', 'workshop', 'storage room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-peg and hammer toy,"['playroom', ""children's bedroom"", 'living room', 'toy storage area', 'basement']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
+parchment sheet,"['kitchen', 'pantry', 'baking drawer', 'utility room', 'craft room']",1.0,1.0,1.0,0.75,0.058823529411764705,0.058823529411764705,0.11764705882352941
+peach,"['kitchen counter', 'refrigerator', 'fruit bowl', 'dining table', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+pear,"['kitchen counter', 'refrigerator', 'fruit bowl', 'dining table', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+peg and hammer toy,"['playroom', ""child's bedroom"", 'living room', 'toy storage area', 'basement']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
 pen,"['desk', 'office', 'kitchen drawer', 'living room', 'bedroom nightstand']",0.25,0.0,0.0,0.0,0.0,0.0,0.0
-pencil,"['desk', 'office', 'study room', 'kitchen drawer', 'backpack', 'pencil case', 'living room table']",0.2,0.0,0.0,0.2,0.0,0.0,0.09090909090909091
-pencil case,"['desk', 'backpack', 'drawer', 'shelf', 'study room', 'bedroom']",0.16666666666666666,0.0,0.0,0.0,0.0,0.0,0.0
-pepper,"['kitchen', 'pantry', 'dining room', 'spice rack', 'cupboard']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+pencil,"['desk', 'office', 'study', 'kitchen drawer', 'backpack', 'pencil case', 'living room table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+pencil case,"['desk', 'backpack', 'drawer', 'shelf', 'study room', 'office', 'bedroom']",0.14285714285714285,0.0,0.0,0.0,0.0,0.0,0.0
 peppermint,"['kitchen', 'pantry', 'dining room', 'living room', 'bathroom']",1.0,1.0,0.8333333333333333,0.6041666666666666,0.058823529411764705,0.11764705882352941,0.23529411764705882
-peppershaker,"['kitchen counter', 'dining table', 'kitchen cabinet', 'pantry', 'kitchen drawer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-pepsi,"['refrigerator', 'pantry', 'kitchen counter', 'garage', 'dining room table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+peppershaker,"['kitchen', 'dining room', 'pantry', 'living room']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
 pepsi can pack,"['pantry', 'kitchen counter', 'refrigerator', 'garage', 'basement']",0.25,0.0,0.0,0.25,0.0,0.0,0.058823529411764705
-perfume,"['bedroom dresser', 'bathroom counter', 'vanity table', 'closet shelf', 'bedside table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-pesto,"['pantry', 'refrigerator', 'kitchen cabinet', 'kitchen counter']",0.5,0.0,0.5,0.5,0.0,0.5,0.5
 pet food supplement,"['kitchen', 'pantry', 'laundry room', 'garage', 'utility room']",1.0,1.0,1.0,0.5,0.058823529411764705,0.058823529411764705,0.17647058823529413
-phillips screwdriver,"['garage', 'toolbox', 'basement', 'workshop', 'utility room', 'shed', 'kitchen drawer']",1.0,1.0,1.0,0.7,0.058823529411764705,0.058823529411764705,0.11764705882352941
-phone,"['living room', 'bedroom', 'kitchen', 'office', 'hallway']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-phone armband case,"['bedroom', 'living room', 'home office', 'gym area', 'entryway']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.17647058823529413
+phillips screwdriver,"['garage', 'toolbox', 'basement', 'workshop', 'utility room']",1.0,1.0,1.0,0.5,0.058823529411764705,0.058823529411764705,0.11764705882352941
+phone armband case,"['bedroom', 'living room', 'home office', 'gym area', 'hallway closet']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.17647058823529413
 phone stand,"['living room', 'bedroom', 'office', 'kitchen', 'study']",1.0,1.0,1.0,0.9166666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
-photo,"['living room', 'bedroom', 'hallway', 'office', 'dining room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-photocopier,"['home office', 'study', 'living room', 'basement', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-photograph,"['living room', 'bedroom', 'hallway', 'office', 'dining room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-piccalilli,"['pantry', 'refrigerator', 'kitchen cabinet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 picture frame,"['living room', 'bedroom', 'hallway', 'office', 'dining room']",1.0,1.0,1.0,0.6666666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
-pie,"['kitchen counter', 'refrigerator', 'dining table', 'pantry', 'oven']",0.5,0.0,0.5,0.25,0.0,0.14285714285714285,0.2857142857142857
-pill,"['medicine cabinet', 'bathroom counter', 'kitchen counter', 'bedside table', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-pillow,"['bedroom', 'living room', 'guest room', 'nursery', 'storage closet']",1.0,1.0,1.0,1.0,0.05,0.1,0.1
-pillowcase,"['linen closet', 'bedroom', 'laundry room', 'storage closet']",0.5,0.0,0.5,0.5,0.0,0.5,0.5
-pineapple,"['kitchen counter', 'refrigerator', 'dining table', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-pirate,"['toy box', ""children's bedroom"", 'playroom', 'living room', 'attic']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-pit,"['backyard', 'garden', 'fire pit area', 'patio', 'front yard']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
+pie,"['kitchen counter', 'refrigerator', 'dining table', 'pantry', 'oven']",0.2,0.0,0.0,0.0,0.0,0.0,0.0
+pillow,"['bedroom', 'living room', 'guest room', 'nursery', 'storage closet']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
 pitcher base,"['kitchen counter', 'kitchen cabinet', 'pantry', 'dining room', 'storage closet']",0.25,0.0,0.0,0.25,0.0,0.0,0.058823529411764705
-pizza,"['kitchen', 'refrigerator', 'dining room', 'living room', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 plant,"['living room', 'kitchen', 'bedroom', 'bathroom', 'balcony', 'hallway', 'office', 'dining room']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.23529411764705882
 plant container,"['living room', 'kitchen', 'balcony', 'garden', 'bedroom', 'office', 'bathroom']",1.0,1.0,1.0,0.8666666666666667,0.058823529411764705,0.11764705882352941,0.17647058823529413
-plant saucer,"['living room', 'kitchen', 'balcony', 'patio', 'garden', 'bedroom', 'dining room', 'greenhouse', 'sunroom', 'garage']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
+plant saucer,"['living room', 'kitchen', 'balcony', 'patio', 'garden', 'bedroom', 'dining room', 'greenhouse']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
 plate,"['kitchen', 'dining room', 'dishwasher', 'cupboard', 'pantry']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
-platter,"['kitchen', 'dining room', 'pantry', 'china cabinet', 'storage closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 plum,"['kitchen counter', 'refrigerator', 'fruit bowl', 'dining table', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-plumbing,"['bathroom', 'kitchen', 'basement', 'laundry room', 'utility room']",1.0,1.0,1.0,1.0,0.3333333333333333,0.6666666666666666,0.6666666666666666
-plunger,"['bathroom', 'utility room', 'basement', 'garage', 'laundry room']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-popsicle,"['freezer', 'kitchen', 'refrigerator', 'pantry', 'dining room']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-pork,"['refrigerator', 'freezer', 'kitchen counter', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+plunger,"['bathroom', 'laundry room', 'utility closet', 'garage']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
 portable speaker,"['living room', 'bedroom', 'kitchen', 'home office', 'patio']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.23529411764705882
 poster,"['bedroom', 'living room', 'hallway', 'home office', 'basement']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-pot,"['kitchen', 'pantry', 'dining room', 'garage', 'basement']",1.0,1.0,1.0,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333
+pot,"['kitchen', 'pantry', 'dining room', 'garage', 'basement']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
 potato,"['kitchen pantry', 'kitchen counter', 'refrigerator', 'kitchen cabinet', 'basement storage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-potpourri,"['living room', 'bathroom', 'bedroom', 'hallway', 'entryway']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-potted meat can,"['pantry', 'kitchen cabinet', 'refrigerator', 'kitchen counter', 'basement storage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-pottery,"['living room', 'dining room', 'kitchen', 'hallway', 'bedroom', 'study', 'garden']",0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
-pouch,"['drawer', 'closet', 'handbag', 'bedroom', 'living room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-power drill,"['garage', 'basement', 'tool shed', 'utility room', 'workshop', 'storage closet']",1.0,1.0,1.0,0.75,0.058823529411764705,0.058823529411764705,0.11764705882352941
-prawn,"['refrigerator', 'freezer', 'kitchen counter', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-presentation,"['office', 'study', 'living room', 'bedroom', 'home library']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-preserve,"['pantry', 'kitchen cabinet', 'refrigerator', 'basement storage', 'kitchen counter']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+potted meat can,"['pantry', 'kitchen cabinet', 'refrigerator', 'kitchen counter', 'basement storage', 'garage shelf']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+power drill,"['garage', 'basement', 'tool shed', 'workshop', 'utility room', 'storage closet']",1.0,1.0,1.0,0.7,0.058823529411764705,0.058823529411764705,0.11764705882352941
 pressure cooker,"['kitchen counter', 'kitchen cabinet', 'pantry', 'kitchen shelf', 'storage room']",0.2,0.0,0.0,0.0,0.0,0.0,0.058823529411764705
-pretzel,"['pantry', 'kitchen counter', 'snack drawer', 'dining table', 'living room coffee table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-propellor,"['garage', 'basement', 'attic', 'workshop', 'storage room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-prow,"['garage', 'basement', 'attic', 'storage room', 'shed']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-pudding,"['refrigerator', 'pantry', 'kitchen counter', 'dining table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-pudding box,"['pantry', 'kitchen cabinet', 'refrigerator', 'kitchen counter', 'dining room table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-pump,"['garage', 'basement', 'utility room', 'shed', 'laundry room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+pudding box,"['pantry', 'kitchen cabinet', 'refrigerator', 'kitchen counter']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 puzzle game,"['living room', 'playroom', 'bedroom', 'family room', 'closet', 'basement', 'attic']",1.0,1.0,1.0,0.95,0.058823529411764705,0.17647058823529413,0.23529411764705882
-pyjama,"['bedroom', 'closet', 'dresser', 'laundry room', 'bathroom']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-quilt,"['bedroom', 'living room', 'linen closet', 'guest room', 'storage room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-rack,"['kitchen', 'bathroom', 'closet', 'garage', 'laundry room', 'living room', 'basement', 'entryway']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-racquetball,"['garage', 'basement', 'closet', 'sports equipment room', 'attic']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
-radiator,"['living room', 'bedroom', 'bathroom', 'kitchen', 'hallway']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-radio,"['living room', 'kitchen', 'bedroom', 'garage', 'office']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.4,0.4
-rafter,"['attic', 'garage', 'basement']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-rag,"['kitchen', 'laundry room', 'garage', 'bathroom', 'utility closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-raincoat,"['coat closet', 'entryway', 'mudroom', 'bedroom closet', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+racquetball,"['garage', 'basement', 'sports equipment closet', 'bedroom', 'attic']",1.0,1.0,1.0,0.75,0.058823529411764705,0.058823529411764705,0.11764705882352941
 ramekin,"['kitchen cabinet', 'kitchen drawer', 'pantry', 'dining room', 'kitchen countertop']",0.25,0.0,0.0,0.25,0.0,0.0,0.058823529411764705
-reader,"['bookshelf', 'living room', 'bedroom', 'study', 'office', 'library', 'coffee table']",0.16666666666666666,0.0,0.0,0.0,0.0,0.0,0.0
-reference,"['bookshelf', 'study room', 'living room', 'office', 'library', 'bedroom', 'coffee table']",0.2,0.0,0.0,0.0,0.0,0.0,0.0
-refrigerator,"['kitchen', 'garage', 'basement']",1.0,1.0,1.0,1.0,0.2,0.2,0.2
-remote control,"['living room', 'bedroom', 'entertainment center', 'coffee table', 'couch']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
+remote control,"['living room', 'bedroom', 'entertainment center', 'coffee table', 'couch cushions']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
 remotecontrol,"['living room', 'bedroom', 'entertainment center', 'couch', 'coffee table']",1.0,1.0,1.0,1.0,0.5,1.0,1.0
-residence,"['front yard', 'backyard', 'driveway', 'street', 'neighborhood']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-restroom,"['bathroom', 'public restroom', 'guest bathroom', 'master bathroom', 'half-bath', 'powder room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-rib,"['kitchen', 'dining room', 'refrigerator', 'pantry', 'barbecue grill area']",0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
-ribbon,"['craft room', 'gift wrapping station', 'office', 'sewing room', ""children's playroom"", 'bedroom', 'closet', 'storage box']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-rice,"['pantry', 'kitchen cabinet', 'kitchen counter', 'refrigerator']",1.0,1.0,1.0,0.5,0.5,0.5,0.5
 rmal laminator,"['home office', 'study room', 'craft room', 'living room', 'closet']",1.0,1.0,1.0,0.5,0.058823529411764705,0.058823529411764705,0.17647058823529413
 roast,"['kitchen', 'dining room', 'refrigerator', 'freezer', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-robe,"['bedroom', 'bathroom', 'closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-rod,"['garage', 'basement', 'shed', 'utility room', 'attic']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-roll,"['kitchen', 'bathroom', 'pantry', 'garage', 'laundry room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-rolodex,"['home office', 'study', 'desk', 'library', 'living room']",0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
-romaine,"['refrigerator', 'kitchen counter', 'pantry']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-rook,"['living room', 'game room', 'study', 'bedroom', 'attic']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-room,"['living room', 'bedroom', 'dining room', 'bathroom', 'kitchen', 'basement', 'attic', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-roomdecor,"['living room', 'bedroom', 'hallway', 'dining room', 'home office']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-rope,"['garage', 'basement', 'shed', 'utility room', 'attic', 'toolbox', 'storage closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-rose,"['vase', 'garden', 'living room', 'dining table', 'bedroom', 'kitchen counter']",0.5,0.0,0.0,0.0,0.0,0.0,0.0
-rotisserie,"['kitchen', 'pantry', 'garage', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-router,"['living room', 'home office', 'bedroom', 'hallway', 'basement']",1.0,1.0,1.0,1.0,0.05263157894736842,0.15789473684210525,0.15789473684210525
-row,"['garage', 'basement', 'attic', 'shed', 'storage room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+roomdecor,"['living room', 'bedroom', 'hallway', 'dining room', 'home office', 'entryway', 'bathroom', 'kitchen']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
+router,"['living room', 'home office', 'bedroom', 'hallway', 'basement']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.17647058823529413
 rubiks cube,"['living room', 'bedroom', 'playroom', 'study', ""kids' room""]",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.17647058823529413
-rudder,"['garage', 'basement', 'shed', 'attic', 'storage room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-rug,"['living room', 'bedroom', 'hallway', 'dining room', 'entryway']",1.0,1.0,1.0,1.0,0.16666666666666666,0.3333333333333333,0.3333333333333333
-rule,"['desk', 'office', 'school supplies drawer', 'craft room', 'garage', 'toolbox']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-ruler,"['desk', 'office', 'craft room', 'school supplies drawer', 'garage']",1.0,1.0,1.0,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333
-sachet,"['kitchen', 'pantry', 'dining room', 'bathroom', 'bedroom', 'living room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-safe,"['bedroom', 'office', 'closet', 'basement', 'living room']",1.0,1.0,0.8333333333333333,0.5555555555555555,0.2,0.4,0.6
-salad,"['refrigerator', 'kitchen counter', 'dining table', 'pantry']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-salmon,"['refrigerator', 'freezer', 'kitchen counter', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-salt,"['kitchen', 'pantry', 'dining room', 'spice rack', 'cupboard']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+safe,"['bedroom', 'home office', 'closet', 'basement', 'living room']",1.0,1.0,1.0,0.5,0.3333333333333333,0.3333333333333333,0.3333333333333333
 salt shaker,"['kitchen counter', 'dining table', 'pantry', 'kitchen cabinet', 'spice rack']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-saltshaker,"['kitchen counter', 'dining table', 'kitchen cabinet', 'pantry', 'spice rack']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-sander,"['garage', 'workshop', 'basement', 'tool shed', 'utility room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-sandwich,"['kitchen counter', 'refrigerator', 'dining table', 'lunchbox', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-sanitary pads,"['bathroom cabinet', 'bedroom dresser', 'closet', 'under the sink', 'linen closet']",0.3333333333333333,0.0,0.3333333333333333,0.3333333333333333,0.0,0.058823529411764705,0.058823529411764705
-sauce,"['kitchen pantry', 'refrigerator', 'kitchen cabinet', 'dining room', 'kitchen counter']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-saucepan,"['kitchen cabinet', 'kitchen drawer', 'kitchen countertop', 'pantry', 'dishwasher']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-saucer,"['kitchen', 'dining room', 'cupboard', 'pantry', 'dishwasher']",1.0,1.0,1.0,1.0,0.05263157894736842,0.10526315789473684,0.10526315789473684
-saute pan,"['kitchen cabinet', 'kitchen drawer', 'hanging rack', 'pantry', 'dishwasher']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-saw,"['garage', 'basement', 'shed', 'workshop', 'utility room']",0.5,0.0,0.5,0.5,0.0,0.5,0.5
-scallop,"['kitchen', 'refrigerator', 'freezer', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-scarf,"['coat rack', 'closet', 'bedroom', 'hallway', 'entryway']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-school,"['backpack', 'desk', 'bookshelf', ""child's room"", 'home office']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
-schoolbook,"['bookshelf', 'study desk', ""child's bedroom"", 'living room', 'backpack']",0.2,0.0,0.0,0.0,0.0,0.0,0.0
-scissors,"['kitchen', 'office', 'craft room', 'garage', 'bathroom', 'utility room', 'living room']",1.0,1.0,1.0,0.7000000000000001,0.045454545454545456,0.045454545454545456,0.13636363636363635
-scone,"['kitchen', 'pantry', 'dining room', 'refrigerator', 'bakery box']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-screwdriver,"['garage', 'toolbox', 'basement', 'utility room', 'kitchen drawer']",0.5,0.0,0.5,0.5,0.0,0.3333333333333333,0.3333333333333333
+saltshaker,"['kitchen counter', 'dining table', 'pantry', 'kitchen cabinet', 'spice rack']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+sanitary pads,"['bathroom cabinet', 'bedroom dresser', 'closet', 'bathroom drawer', 'linen closet']",0.3333333333333333,0.0,0.3333333333333333,0.3333333333333333,0.0,0.058823529411764705,0.058823529411764705
+saucer,"['kitchen', 'dining room', 'cupboard', 'pantry', 'living room']",1.0,1.0,1.0,0.6666666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
+saute pan,"['kitchen cabinet', 'kitchen drawer', 'pantry', 'kitchen countertop', 'dishwasher']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+scissors,"['kitchen drawer', 'office desk', 'craft room', 'sewing kit', 'bathroom cabinet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 scrubbrush,"['bathroom', 'kitchen', 'laundry room', 'utility closet', 'garage']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-set,"['kitchen', 'dining room', 'living room', 'storage room', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-set-top box,"['living room', 'entertainment room', 'bedroom', 'home office']",1.0,1.0,0.8333333333333333,0.5555555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
-setting,"['dining room', 'kitchen', 'living room', 'storage closet', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-sextant,"['study', 'attic', 'library', 'living room', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-shear,"['garage', 'garden shed', 'utility room', 'workshop', 'basement', 'kitchen drawer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-shed,"['backyard', 'garden', 'side of the house', 'garage']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-sheet,"['linen closet', 'bedroom', 'laundry room', 'storage closet', 'guest room']",0.5,0.0,0.5,0.5,0.0,0.3333333333333333,0.3333333333333333
-shelf,"['living room', 'bedroom', 'kitchen', 'bathroom', 'office', 'garage', 'basement', 'hallway']",1.0,1.0,1.0,1.0,0.1,0.3,0.4
-shellac,"['garage', 'basement', 'workshop', 'utility room', 'storage closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-shelvingunit,"['living room', 'bedroom', 'office', 'garage', 'basement', 'kitchen']",1.0,1.0,1.0,1.0,0.3333333333333333,0.6666666666666666,0.6666666666666666
-shirt,"['closet', 'bedroom', 'laundry room', 'dresser', 'bathroom']",1.0,1.0,1.0,0.75,0.25,0.25,0.5
-shoe,"['entryway', 'closet', 'bedroom', 'mudroom', 'garage']",0.5,0.0,0.5833333333333333,0.38888888888888884,0.0,0.08,0.12
-shoe box,"['closet', 'bedroom', 'entryway', 'garage', 'attic']",1.0,1.0,1.0,0.9166666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
-shop,"['garage', 'basement', 'shed', 'utility room', 'storage room']",0.5,0.0,0.5,0.5,0.0,0.5,0.5
+set-top box,"['living room', 'entertainment center', 'media room', 'family room', 'bedroom']",1.0,1.0,1.0,0.5,0.058823529411764705,0.058823529411764705,0.11764705882352941
+shelf,"['living room', 'bedroom', 'kitchen', 'bathroom', 'office', 'garage', 'basement', 'hallway']",1.0,1.0,1.0,1.0,0.25,0.75,1.0
+shelvingunit,"['living room', 'bedroom', 'home office', 'garage', 'basement', 'kitchen', 'bathroom']",1.0,1.0,1.0,1.0,0.3333333333333333,0.6666666666666666,0.6666666666666666
+shoe,"['entryway', 'closet', 'bedroom', 'mudroom', 'garage']",0.5,0.0,0.5833333333333333,0.38888888888888884,0.0,0.11764705882352941,0.17647058823529413
+shoe box,"['closet', 'bedroom', 'entryway', 'garage', 'storage room']",1.0,1.0,1.0,0.6875,0.058823529411764705,0.11764705882352941,0.23529411764705882
 showercurtain,"['bathroom', 'linen closet', 'storage room']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
 showerdoor,"['bathroom', 'ensuite bathroom', 'guest bathroom']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-showerglass,"['bathroom', 'ensuite bathroom', 'guest bathroom']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
+showerglass,"['bathroom', 'shower area', 'ensuite bathroom']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
 showerhead,"['bathroom', 'shower stall', 'bathtub area']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
 shredder,"['home office', 'study', 'living room', 'basement', 'garage']",1.0,1.0,0.8333333333333333,0.5555555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
-shrimp,"['freezer', 'refrigerator', 'pantry']",1.0,1.0,1.0,1.0,0.25,0.25,0.25
-sideboard,"['living room', 'dining room', 'hallway', 'bedroom']",0.5,0.0,0.5,0.5,0.0,0.25,0.25
 sidetable,"['living room', 'bedroom', 'hallway', 'entryway', 'office']",1.0,1.0,1.0,1.0,0.25,0.5,0.5
 sidewalk chalk,"['garage', 'backyard', 'front porch', 'playroom', 'storage closet']",1.0,1.0,1.0,0.75,0.058823529411764705,0.058823529411764705,0.11764705882352941
-sink,"['kitchen', 'bathroom', 'laundry room', 'utility room', 'garage']",1.0,1.0,1.0,1.0,0.1111111111111111,0.3333333333333333,0.3333333333333333
+sink,"['kitchen', 'bathroom', 'laundry room', 'utility room', 'garage']",1.0,1.0,1.0,1.0,0.5,1.0,1.0
 sinkbasin,"['kitchen', 'bathroom', 'laundry room', 'utility room', 'garage']",1.0,1.0,1.0,1.0,0.5,1.0,1.0
-skeleton,"['halloween decorations storage', 'attic', 'basement', 'garage', 'closet.']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 skillet,"['kitchen cabinet', 'kitchen drawer', 'pantry', 'stove', 'dishwasher']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-skillet lid,"['kitchen cabinet', 'kitchen drawer', 'pantry', 'dishwasher', 'countertop']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+skillet lid,"['kitchen cabinet', 'kitchen drawer', 'on the stove', 'pantry', 'dishwasher']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 skin care product,"['bathroom', 'bedroom', 'vanity', 'dresser', 'medicine cabinet']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
 skin moisturizer,"['bathroom', 'bedroom', 'vanity', 'bedside table', 'purse', 'living room']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
-slack,"['living room', 'home office', 'bedroom', 'garage', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-slip,"['bedroom', 'closet', 'laundry room', 'dresser', 'bathroom']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-slipper,"['bedroom', 'living room', 'closet', 'hallway', 'bathroom']",1.0,1.0,1.0,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333
-snack,"['kitchen pantry', 'kitchen cabinet', 'refrigerator', 'living room', 'office desk', 'bedroom nightstand']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-snack cake,"['pantry', 'kitchen cabinet', 'kitchen counter', 'refrigerator', 'snack drawer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+snack cake,"['pantry', 'kitchen cabinet', 'kitchen counter', 'refrigerator', 'dining room table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 snack dispenser,"['kitchen', 'pantry', 'living room', 'dining room', 'office']",1.0,1.0,0.8333333333333333,0.8055555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
-snail,"['garden', 'backyard', 'front yard', 'porch', 'balcony']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
 soap dish,"['bathroom', 'kitchen', 'laundry room']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
 soap dispenser,"['bathroom', 'kitchen', 'laundry room', 'utility room']",1.0,1.0,1.0,0.6666666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
 soapbar,"['bathroom', 'kitchen', 'laundry room', 'utility room', 'guest bathroom']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-soapbottle,"['bathroom', 'kitchen', 'laundry room', 'utility room', 'garage']",1.0,1.0,1.0,1.0,0.5,1.0,1.0
-socket,"['walls', 'baseboards', 'countertops', 'behind furniture', 'near appliances']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-soda,"['kitchen', 'refrigerator', 'pantry', 'dining room', 'garage', 'living room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-sofa,"['living room', 'family room', 'den', 'basement', 'home office']",1.0,1.0,1.0,1.0,0.16666666666666666,0.16666666666666666,0.16666666666666666
+soapbottle,"['bathroom', 'kitchen', 'laundry room', 'utility room']",1.0,1.0,1.0,1.0,0.5,1.0,1.0
+sofa,"['living room', 'family room', 'den', 'basement', 'home office']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
 softball,"['garage', 'basement', 'bedroom', 'living room', 'backyard']",1.0,1.0,0.8333333333333333,0.8055555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
-software cd,"['office', 'living room', 'bedroom', 'study', 'basement']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.11764705882352941,0.11764705882352941
-sorting toy,"['playroom', ""children's bedroom"", 'living room', 'nursery', 'toy storage area']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
-soup,"['pantry', 'kitchen cabinet', 'refrigerator', 'kitchen counter', 'dining table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-spa,"['backyard', 'bathroom', 'basement', 'patio', 'deck']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
-spaghetti,"['pantry', 'kitchen cabinet', 'kitchen counter', 'refrigerator', 'dining room table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-spam,"['pantry', 'kitchen cabinet', 'refrigerator', 'kitchen counter', 'basement storage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+software cd,"['home office', 'living room', 'bedroom', 'storage room', 'basement']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.23529411764705882
+sorting toy,"['playroom', ""child's bedroom"", 'living room', 'nursery', 'toy storage area']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
 sparkling water,"['kitchen', 'refrigerator', 'pantry', 'dining room', 'garage']",1.0,1.0,1.0,0.5,0.058823529411764705,0.058823529411764705,0.17647058823529413
 spatula,"['kitchen drawer', 'utensil holder', 'kitchen countertop', 'dishwasher', 'kitchen cabinet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-spice,"['kitchen pantry', 'spice rack', 'kitchen cabinet', 'countertop', 'drawer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-spider,"['basement', 'attic', 'garage', 'bathroom', 'closet', 'under furniture', 'corners of ceilings', 'shed', 'garden', 'window sills']",1.0,1.0,1.0,0.8875,0.09090909090909091,0.18181818181818182,0.36363636363636365
-spinach,"['refrigerator', 'kitchen counter', 'pantry', 'freezer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-sponge,"['kitchen', 'bathroom', 'laundry room', 'garage']",1.0,1.0,1.0,0.6666666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
+spider,"['basement', 'attic', 'garage', 'bathroom', 'closet', 'under furniture', 'corners of ceilings', 'window sills', 'garden', 'shed']",1.0,1.0,1.0,0.6666666666666666,0.3333333333333333,0.3333333333333333,0.3333333333333333
+sponge,"['kitchen sink', 'bathroom', 'cleaning supply closet', 'laundry room', 'garage']",0.5,0.0,0.5,0.25,0.0,0.058823529411764705,0.11764705882352941
 sponge dish,"['kitchen sink', 'kitchen counter', 'under the kitchen sink', 'pantry', 'cleaning supplies closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-spoon,"['kitchen drawer', 'kitchen utensil holder', 'dishwasher', 'dining table', 'kitchen sink', 'drying rack']",0.3333333333333333,0.0,0.3333333333333333,0.3333333333333333,0.0,0.047619047619047616,0.047619047619047616
+spoon,"['kitchen drawer', 'dishwasher', 'kitchen countertop', 'dining table', 'kitchen sink']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 spoon rest,"['kitchen counter', 'kitchen drawer', 'dining table', 'kitchen cabinet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-spraybottle,"['cleaning supplies closet', 'under the kitchen sink', 'laundry room', 'bathroom cabinet', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-squash,"['kitchen', 'pantry', 'refrigerator', 'dining room', 'garden']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-stacking cups,"['kitchen', 'playroom', 'living room', 'dining room', ""child's bedroom""]",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.23529411764705882
-stamper,"['office', 'study', 'desk drawer', 'home office', 'stationery cabinet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+spraybottle,"['cleaning closet', 'under the kitchen sink', 'laundry room', 'bathroom cabinet', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+stacking cups,"['kitchen', 'playroom', 'dining room', 'living room', 'pantry']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.23529411764705882
 stand mixer,"['kitchen counter', 'kitchen cabinet', 'pantry', 'kitchen island', 'storage closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-stapler,"['home office', 'desk', 'study', 'kitchen drawer', 'living room shelf']",0.5,0.0,0.5,0.5,0.0,0.5,0.5
-statue,"['living room', 'hallway', 'garden', 'entryway', 'bedroom']",1.0,1.0,1.0,0.5,0.3333333333333333,0.3333333333333333,0.3333333333333333
-statuette,"['mantelpiece', 'bookshelf', 'coffee table', 'display cabinet', 'side table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-steak,"['refrigerator', 'freezer', 'kitchen counter', 'dining table', 'pantry']",1.0,1.0,1.0,1.0,0.25,0.5,0.5
-steel,"['garage', 'kitchen', 'basement', 'workshop', 'utility room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-stereo,"['living room', 'bedroom', 'entertainment room', 'basement', 'home office']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-stew,"['kitchen', 'dining room', 'refrigerator', 'pantry', 'freezer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-stocking,"['bedroom', 'closet', 'dresser', 'laundry room', 'bathroom']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-stool,"['kitchen', 'dining room', 'living room', 'bar area', 'garage', 'bedroom', 'bathroom', 'patio']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.2,0.4,0.4
-storage,"['garage', 'basement', 'attic', 'closet', 'storage room', 'shed']",0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+statue,"['living room', 'hallway', 'garden', 'entryway', 'office', 'bedroom']",1.0,1.0,1.0,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333
+steak,"['refrigerator', 'freezer', 'kitchen counter', 'pantry']",0.5,0.0,0.5,0.5,0.0,0.5,0.5
+stool,"['kitchen', 'dining room', 'bar area', 'living room', 'garage', 'workshop', 'patio', 'bedroom']",1.0,1.0,1.0,0.6666666666666666,0.3333333333333333,0.3333333333333333,0.3333333333333333
 storage bin,"['garage', 'basement', 'closet', 'attic', 'laundry room']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
-storehouse,"['garage', 'basement', 'attic', 'shed', 'utility room']",0.5,0.0,0.0,0.0,0.0,0.0,0.0
-storeroom,"['basement', 'garage', 'attic', 'utility room', 'shed']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-stove,"['kitchen', 'outdoor patio', 'basement', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 stoveburner,"['kitchen', 'outdoor kitchen', 'garage (if used for storage)']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-stoveknob,"['kitchen', 'pantry', 'garage', 'storage room']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
+stoveknob,"['kitchen', 'pantry', 'garage', 'basement', 'storage room']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
 strawberry,"['refrigerator', 'kitchen counter', 'fruit bowl', 'pantry', 'dining table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-streamer,"['living room', 'bedroom', 'entertainment room', 'office', 'storage closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 string lights,"['living room', 'bedroom', 'patio', 'garden', 'attic', 'basement', 'garage']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
-stuffed toy,"[""children's bedroom"", 'playroom', 'living room', 'nursery', 'storage closet']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.11764705882352941,0.11764705882352941
-sugar,"['kitchen pantry', 'kitchen cabinet', 'countertop', 'dining room', 'kitchen table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-sugar box,"['kitchen', 'pantry', 'dining room', 'cupboard']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
+stuffed toy,"[""children's bedroom"", 'playroom', 'living room', 'nursery', 'toy storage area']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.11764705882352941,0.11764705882352941
+sugar box,"['kitchen pantry', 'kitchen countertop', 'kitchen cabinet', 'dining room sideboard', 'kitchen table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 sugar sprinkles,"['kitchen pantry', 'kitchen cabinet', 'baking supplies drawer', 'kitchen countertop', 'refrigerator']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-suit,"['closet', 'bedroom', 'wardrobe', 'laundry room', 'guest room']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
-sunglass,"['entryway', 'living room', 'bedroom', 'car', 'kitchen']",0.25,0.0,0.0,0.0,0.0,0.0,0.0
-sunscreen,"['bathroom', 'bedroom', 'hallway closet', 'beach bag', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-supper,"['dining room', 'kitchen', 'living room', 'patio', 'breakfast nook']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-surface saver ring,"['kitchen', 'dining room', 'living room', 'coffee table', 'storage drawer']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.17647058823529413
-sushi,"['refrigerator', 'kitchen counter', 'dining table', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-sushi mat,"['kitchen drawer', 'kitchen cabinet', 'pantry', 'dining room', 'storage box']",0.25,0.0,0.0,0.25,0.0,0.0,0.058823529411764705
-sweater,"['closet', 'bedroom', 'laundry room', 'coat rack', 'living room']",1.0,1.0,1.0,1.0,0.25,0.25,0.25
-tab,"['kitchen', 'living room', 'home office', 'dining room', 'bedroom']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-table,"['dining room', 'kitchen', 'living room', 'office', 'patio', 'bedroom', 'basement', 'garage']",1.0,1.0,1.0,1.0,0.08333333333333333,0.25,0.25
-table lamp,"['living room', 'bedroom', 'study', 'office', 'hallway']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
+surface saver ring,"['kitchen', 'dining room', 'living room', 'pantry', 'storage closet']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.17647058823529413
+sushi mat,"['kitchen', 'pantry', 'dining room', 'storage closet']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
+table,"['dining room', 'kitchen', 'living room', 'office', 'patio', 'bedroom', 'basement', 'garage']",0.5,0.0,0.5,0.5,0.0,0.3333333333333333,0.3333333333333333
+table lamp,"['living room', 'bedroom', 'office', 'study', 'hallway']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
 tablet,"['living room', 'bedroom', 'home office', 'kitchen', 'family room']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.23529411764705882
 tablet holder,"['living room', 'bedroom', 'office', 'kitchen', 'study']",1.0,1.0,1.0,0.9166666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
 tablet stand,"['living room', 'bedroom', 'home office', 'kitchen', 'study']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.23529411764705882
 tabletopdecor,"['living room', 'dining room', 'kitchen', 'hallway', 'bedroom']",0.2,0.0,0.0,0.0,0.0,0.0,0.0
-tag,"['office', 'craft room', 'storage room', 'garage', 'closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-tampon,"['bathroom', 'bedroom', 'closet', 'purse', 'laundry room']",1.0,1.0,1.0,1.0,0.05555555555555555,0.16666666666666666,0.2222222222222222
-tank,"['garage', 'basement', 'storage room', 'attic', 'shed']",0.5,0.0,0.5,0.5,0.0,0.3333333333333333,0.3333333333333333
-tap,"['kitchen', 'bathroom', 'laundry room', 'garden', 'garage']",0.5,0.0,0.5,0.5,0.0,0.25,0.25
-tape,"['drawer', 'office desk', 'garage', 'toolbox', 'craft room', 'kitchen counter']",1.0,1.0,1.0,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333
-tea,"['kitchen pantry', 'kitchen cabinet', 'countertop', 'dining room', 'living room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+tampon,"['bathroom', 'bedroom', 'closet', 'purse', 'laundry room']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.17647058823529413
 tea can pack,"['kitchen', 'pantry', 'dining room', 'living room', 'office']",1.0,1.0,0.8333333333333333,0.8055555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
-tea pods,"['kitchen pantry', 'kitchen cabinet', 'countertop', 'drawer', 'dining room sideboard']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+tea pods,"['kitchen', 'pantry', 'dining room', 'office', 'living room']",1.0,1.0,0.8333333333333333,0.5555555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
 teapot,"['kitchen', 'dining room', 'pantry', 'living room', 'cabinet']",1.0,1.0,1.0,0.9166666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
-teaspoon,"['kitchen drawer', 'kitchen countertop', 'dishwasher', 'dining table', 'sink', 'utensil holder']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 teddybear,"[""children's bedroom"", 'playroom', 'living room', 'nursery', 'toy storage area']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-telephone,"['living room', 'kitchen', 'bedroom', 'home office', 'hallway']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-television,"['living room', 'bedroom', 'family room', 'basement', 'entertainment room']",1.0,1.0,1.0,1.0,0.16666666666666666,0.3333333333333333,0.3333333333333333
-tenderloin,"['refrigerator', 'freezer', 'kitchen counter', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+television,"['living room', 'bedroom', 'family room', 'basement', 'entertainment room']",1.0,1.0,1.0,1.0,0.5,1.0,1.0
 tennis ball,"['garage', 'backyard', 'living room', 'basement', 'bedroom']",1.0,1.0,0.8333333333333333,0.5555555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
-tennisracket,"['garage', 'basement', 'closet', 'sports equipment room', 'attic']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-tent,"['garage', 'basement', 'attic', 'storage closet', 'outdoor shed']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-textbook,"['bookshelf', 'desk', 'study room', 'bedroom', 'living room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-thimble,"['sewing kit', 'craft room', 'sewing room', 'drawer', 'closet', 'hobby room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-thing,"['living room', 'bedroom', 'kitchen', 'garage', 'basement', 'attic']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-thread,"['sewing kit', 'craft room', 'sewing room', 'drawer', 'closet', 'utility room', 'garage', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-thumbtack,"['office', 'desk drawer', 'craft room', 'bulletin board', 'stationery organizer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-tie,"['closet', 'bedroom', 'dresser', 'wardrobe', 'laundry room']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
-tile,"['bathroom', 'kitchen', 'entryway', 'laundry room', 'backsplash', 'fireplace', 'patio']",1.0,1.0,1.0,1.0,0.3333333333333333,0.6666666666666666,0.6666666666666666
+tennisracket,"['garage', 'basement', 'closet', 'sports equipment room', 'bedroom']",0.2,0.0,0.0,0.0,0.0,0.0,0.0
 tissuebox,"['living room', 'bathroom', 'bedroom', 'kitchen', 'office']",1.0,1.0,1.0,1.0,0.3333333333333333,1.0,1.0
-toast,"['kitchen', 'dining room', 'breakfast nook']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 toaster,"['kitchen counter', 'kitchen cabinet', 'pantry', 'dining room', 'garage']",0.25,0.0,0.0,0.125,0.0,0.0,0.11764705882352941
-toffee,"['kitchen', 'pantry', 'living room', 'dining room', 'office desk', 'bedroom nightstand']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-tofu,"['refrigerator', 'kitchen counter', 'pantry', 'grocery bag']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
-toilet,"['bathroom', 'half-bath', 'powder room']",1.0,1.0,1.0,1.0,0.125,0.125,0.125
+toilet,"['bathroom', 'powder room', 'en suite', 'half-bath', 'guest bathroom']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
 toiletpaper,"['bathroom', 'storage closet', 'laundry room', 'garage', 'under the sink']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
 toiletpaperhanger,"['bathroom', 'restroom', 'toilet', 'washroom', 'powder room']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-toiletry,"['bathroom', 'bedroom', 'linen closet', 'travel bag', 'guest bathroom']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 tomato,"['kitchen counter', 'refrigerator', 'pantry', 'dining table', 'kitchen island']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-tomato soup can,"['pantry', 'kitchen cabinet', 'kitchen counter', 'refrigerator', 'basement storage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-tool,"['garage', 'basement', 'shed', 'utility room', 'workshop', 'kitchen drawer']",0.5,0.0,0.5,0.5,0.0,0.5,0.5
-toothbrush,"['bathroom', 'bedroom', 'travel bag', 'guest room', 'kitchen']",0.5,0.0,0.5,0.5,0.0,0.25,0.25
+tomato soup can,"['pantry', 'kitchen cabinet', 'kitchen counter', 'refrigerator', 'basement storage', 'garage shelf']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 toothbrush holder,"['bathroom', 'master bathroom', 'guest bathroom', ""kids' bathroom"", 'ensuite bathroom']",1.0,1.0,1.0,1.0,0.058823529411764705,0.058823529411764705,0.058823529411764705
 toothbrush pack,"['bathroom cabinet', 'bathroom drawer', 'bathroom countertop', 'linen closet', 'bedroom drawer']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-toothpick,"['kitchen', 'dining room', 'pantry', 'bathroom', 'living room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-top,"['kitchen', 'dining room', 'living room', 'playroom', 'bedroom']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-torch,"['garage', 'kitchen drawer', 'utility room', 'bedside table', 'car trunk', 'basement', 'hall closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-tortilla,"['kitchen pantry', 'refrigerator', 'kitchen counter', 'dining table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-tourniquet,"['first aid kit', 'bathroom cabinet', 'medicine cabinet', 'emergency kit', 'garage', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 towel,"['bathroom', 'kitchen', 'linen closet', 'laundry room', 'gym room']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
 towelholder,"['bathroom', 'kitchen', 'laundry room', 'guest bathroom', 'pool area']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-toy,"['living room', ""children's bedroom"", 'playroom', 'family room', 'basement', 'backyard']",1.0,1.0,1.0,0.7,0.08333333333333333,0.08333333333333333,0.16666666666666666
+toy,"['living room', ""children's bedroom"", 'playroom', 'family room', 'basement', 'backyard', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 toy airplane,"[""children's bedroom"", 'playroom', 'living room', 'toy box', 'storage closet']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.11764705882352941,0.11764705882352941
-toy animal,"[""children's bedroom"", 'playroom', 'living room', 'nursery', 'toy storage area', 'family room']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.11764705882352941,0.11764705882352941
-toy basketball,"['living room', ""child's bedroom"", 'playroom', 'garage', 'backyard']",1.0,1.0,0.8333333333333333,0.8055555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
-toy bowling set,"['playroom', ""children's bedroom"", 'living room', 'basement', 'garage']",1.0,1.0,0.8333333333333333,0.5555555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
-toy construction set,"['playroom', ""child's bedroom"", 'living room', 'toy storage area', 'basement', 'attic']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
-toy fishing,"['playroom', ""child's bedroom"", 'living room', 'garage', 'backyard']",1.0,1.0,0.8333333333333333,0.8055555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
+toy animal,"[""children's bedroom"", 'playroom', 'living room', 'nursery', 'toy storage area']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.11764705882352941,0.11764705882352941
+toy basketball,"['playroom', ""child's bedroom"", 'living room', 'garage', 'backyard']",1.0,1.0,0.8333333333333333,0.8055555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
+toy bowling set,"['playroom', ""child's bedroom"", 'living room', 'basement', 'garage']",1.0,1.0,0.8333333333333333,0.5555555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
+toy construction set,"['playroom', ""child's bedroom"", 'living room', 'family room', 'basement', 'storage closet']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
+toy fishing,"['playroom', ""child's bedroom"", 'living room', 'garage', 'basement']",1.0,1.0,0.8333333333333333,0.8055555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
 toy food,"['playroom', ""child's bedroom"", 'living room', 'toy storage area', 'kitchen']",1.0,1.0,0.8333333333333333,0.5555555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
 toy furniture set,"['playroom', ""child's bedroom"", 'living room', 'nursery', 'basement', 'attic']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
-toy instrument,"['playroom', ""child's bedroom"", 'living room', 'family room', 'basement', 'attic', 'closet']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
+toy instrument,"['playroom', ""child's bedroom"", 'living room', 'family room', 'toy storage area']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.058823529411764705,0.11764705882352941,0.11764705882352941
 toy kitchen set,"['playroom', ""child's bedroom"", 'living room', 'basement', 'garage']",1.0,1.0,0.8333333333333333,0.5555555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
-toy tool kit,"['playroom', ""child's bedroom"", 'living room', 'basement', 'garage']",1.0,1.0,0.8333333333333333,0.5555555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
-toy vehicle,"[""children's bedroom"", 'playroom', 'living room', 'toy storage area', 'garage']",0.5,0.0,0.5833333333333333,0.38888888888888884,0.0,0.11764705882352941,0.17647058823529413
-transmission,"['garage', 'basement', 'workshop', 'storage room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-transom,"['above doors', 'above windows', 'entryway', 'hallway']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+toy tool kit,"['playroom', ""child's bedroom"", 'living room', 'garage', 'basement', 'closet']",1.0,1.0,0.8333333333333333,0.8055555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
+toy vehicle,"[""children's bedroom"", 'playroom', 'living room', 'toy storage area', 'basement', 'garage']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.11764705882352941,0.11764705882352941
 tray,"['kitchen', 'dining room', 'living room', 'pantry', 'storage closet']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.17647058823529413
-treasure,"['safe', 'attic', 'basement', 'closet', 'under the bed', 'hidden compartment', 'jewelry box']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-trinket,"['living room', 'bedroom', 'hallway', 'office', 'bathroom']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-trouser,"['wardrobe', 'bedroom closet', 'laundry room', 'dresser', 'bedroom floor']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-trowel,"['garage', 'garden shed', 'basement', 'utility room', 'tool box']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-trunk,"['garage', 'attic', 'basement', 'storage room', 'closet']",0.5,0.0,0.5,0.5,0.0,0.25,0.25
-tub,"['bathroom', 'laundry room', 'basement', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 tumbler,"['kitchen', 'dining room', 'living room', 'pantry', 'bar area']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.17647058823529413
-tuna,"['pantry', 'kitchen cabinet', 'refrigerator', 'kitchen counter', 'basement storage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-turkey,"['kitchen', 'refrigerator', 'freezer', 'pantry', 'dining room']",0.5,0.0,0.5,0.5,0.0,0.3333333333333333,0.3333333333333333
-turtle,"['aquarium', 'living room', 'bedroom', 'backyard', 'pet room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-tuxedo,"['closet', 'wardrobe', 'bedroom', 'garment bag', 'storage room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-tv,"['living room', 'bedroom', 'family room', 'basement', 'entertainment room']",1.0,1.0,1.0,1.0,0.07142857142857142,0.21428571428571427,0.21428571428571427
+tv,"['living room', 'bedroom', 'family room', 'basement', 'entertainment room']",0.5,0.0,0.5833333333333333,0.5833333333333333,0.0,0.6666666666666666,0.6666666666666666
 tvstand,"['living room', 'family room', 'bedroom', 'basement', 'entertainment room']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-tweed,"['closet', 'bedroom', 'coat rack', 'wardrobe', 'laundry room']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
-umbrella,"['entryway', 'closet', 'mudroom', 'garage', 'car', 'coat rack']",0.5,0.0,0.5,0.5,0.0,0.05555555555555555,0.1111111111111111
-underpants,"['bedroom', 'laundry room', 'bathroom', 'closet', 'dresser']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-undershirt,"['bedroom dresser', 'bedroom closet', 'laundry room', 'bedroom floor', 'bathroom hamper']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-underwear,"['dresser', 'closet', 'laundry basket', 'bedroom floor', 'washing machine']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-urinal,"['bathroom', 'garage', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-usb drive,"['desk', 'office', 'drawer', 'computer area', 'living room', 'bedroom', 'backpack', 'study room']",0.2,0.0,0.0,0.2,0.0,0.0,0.058823529411764705
-utensil,"['kitchen drawer', 'kitchen countertop', 'dishwasher', 'dining table', 'kitchen cabinet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+umbrella,"['entryway', 'coat closet', 'mudroom', 'garage', 'car trunk']",0.25,0.0,0.0,0.25,0.0,0.0,0.058823529411764705
+usb drive,"['desk', 'office', 'drawer', 'computer area', 'living room', 'bedroom']",0.2,0.0,0.0,0.2,0.0,0.0,0.058823529411764705
 utensil holder,"['kitchen counter', 'kitchen drawer', 'dining room', 'pantry', 'kitchen cabinet']",0.3333333333333333,0.0,0.3333333333333333,0.3333333333333333,0.0,0.058823529411764705,0.058823529411764705
-vacuum,"['closet', 'utility room', 'garage', 'laundry room', 'basement']",1.0,1.0,1.0,1.0,0.5,0.5,0.5
 vacuumcleaner,"['closet', 'utility room', 'garage', 'laundry room', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-varnish,"['garage', 'basement', 'utility room', 'workshop', 'storage closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-vase,"['living room', 'dining room', 'hallway', 'bedroom', 'kitchen']",1.0,1.0,1.0,0.6875,0.05,0.1,0.2
-vault,"['basement', 'home office', 'master bedroom', 'closet', 'garage']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-vegetable,"['refrigerator', 'kitchen counter', 'pantry', 'kitchen table', 'vegetable drawer']",1.0,1.0,1.0,1.0,0.16666666666666666,0.16666666666666666,0.16666666666666666
-vent,"['ceiling', 'floor', 'wall', 'bathroom', 'kitchen']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-vermouth,"['kitchen', 'bar cart', 'pantry', 'liquor cabinet', 'dining room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-video,"['living room', 'entertainment center', 'media room', 'bedroom', 'home office', 'basement', 'storage closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+vase,"['living room', 'dining room', 'hallway', 'bedroom', 'entryway']",1.0,1.0,1.0,0.9166666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
 video game,"['living room', 'bedroom', 'entertainment room', 'home office', 'basement']",1.0,1.0,1.0,0.9166666666666666,0.058823529411764705,0.11764705882352941,0.17647058823529413
-vinyl tape,"['garage', 'utility room', 'basement', 'workshop', 'home office', 'tool shed', 'storage closet']",1.0,1.0,1.0,0.8666666666666667,0.058823529411764705,0.11764705882352941,0.17647058823529413
-viola,"['music room', 'living room', 'bedroom', 'study', 'closet']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-violin,"['music room', 'living room', 'bedroom', 'study', 'closet']",1.0,1.0,1.0,1.0,0.25,0.25,0.25
+vinyl tape,"['garage', 'workshop', 'utility room', 'basement', 'home office', 'tool shed', 'storage closet']",1.0,1.0,0.8333333333333333,0.7555555555555555,0.058823529411764705,0.11764705882352941,0.17647058823529413
 virtual reality viewer,"['living room', 'bedroom', 'home office', 'entertainment room', 'gaming room']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.17647058823529413
-vodka,"['kitchen', 'liquor cabinet', 'bar cart', 'pantry', 'refrigerator']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-voltmeter,"['garage', 'workshop', 'basement', 'utility room', 'tool shed']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-volume,"['bookshelf', 'living room', 'study', 'bedroom', 'library', 'office']",1.0,1.0,1.0,0.75,0.5,0.5,0.5
-waffle,"['kitchen', 'pantry', 'refrigerator', 'freezer', 'dining room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-wagon,"['garage', 'backyard', 'basement', 'shed', 'playroom']",0.5,0.0,0.0,0.0,0.0,0.0,0.0
-wallet,"['entryway table', 'bedroom dresser', 'living room coffee table', 'kitchen counter', 'office desk']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-wardrobe,"['bedroom', 'closet', 'hallway', 'dressing room']",1.0,1.0,1.0,1.0,0.2,0.4,0.4
+wardrobe,"['bedroom', 'closet', 'dressing room', 'hallway']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 washcloth,"['bathroom', 'kitchen', 'laundry room', 'linen closet']",1.0,1.0,1.0,1.0,0.058823529411764705,0.11764705882352941,0.11764705882352941
-washer,"['laundry room', 'basement', 'utility room', 'garage', 'kitchen']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-waste basket,"['kitchen', 'bathroom', 'office', 'bedroom', 'living room', 'garage']",1.0,1.0,1.0,0.8875,0.058823529411764705,0.11764705882352941,0.23529411764705882
-wastebasket,"['kitchen', 'bathroom', 'office', 'bedroom', 'living room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-watch,"['bedroom', 'bathroom', 'living room', 'office', 'closet']",1.0,1.0,0.8333333333333333,0.8333333333333333,0.3333333333333333,0.6666666666666666,0.6666666666666666
-water bottle,"['kitchen', 'dining room', 'living room', 'bedroom', 'home office', 'gym room', 'garage']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.29411764705882354
+waste basket,"['kitchen', 'bathroom', 'office', 'bedroom', 'living room', 'garage', 'laundry room']",1.0,1.0,1.0,0.8875,0.058823529411764705,0.11764705882352941,0.23529411764705882
+watch,"['bedroom', 'bathroom', 'living room', 'closet', 'nightstand', 'dresser', 'office', 'entryway']",1.0,1.0,0.75,0.75,0.5,0.5,0.5
+water bottle,"['kitchen', 'refrigerator', 'dining room', 'living room', 'bedroom', 'gym area', 'office', 'car', 'backpack', 'garage']",1.0,1.0,0.8333333333333333,0.8041666666666667,0.058823529411764705,0.11764705882352941,0.23529411764705882
 wateringcan,"['garden', 'garage', 'shed', 'balcony', 'utility room', 'greenhouse', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-weight,"['home gym', 'bedroom', 'living room', 'garage', 'basement', 'closet']",0.2,0.0,0.0,0.0,0.0,0.0,0.0
 weight loss guide,"['bookshelf', 'living room', 'bedroom', 'home office', 'coffee table']",0.5,0.0,0.5833333333333333,0.6388888888888888,0.0,0.11764705882352941,0.17647058823529413
 whale whistle,"['toy box', ""children's room"", 'playroom', 'living room', 'storage closet']",0.3333333333333333,0.0,0.3333333333333333,0.41666666666666663,0.0,0.058823529411764705,0.11764705882352941
-wheelchair,"['garage', 'hallway', 'living room', 'bedroom', 'storage room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-whisk,"['kitchen drawer', 'kitchen utensil holder', 'kitchen cabinet', 'pantry', 'dishwasher']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-whiskey,"['liquor cabinet', 'kitchen counter', 'bar cart', 'pantry', 'dining room sideboard']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-whisky,"['liquor cabinet', 'kitchen counter', 'dining room bar cart', 'pantry', 'living room shelf']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 window,"['living room', 'bedroom', 'kitchen', 'bathroom', 'dining room', 'hallway', 'basement', 'attic']",1.0,1.0,1.0,1.0,0.25,0.75,1.0
-windshield,"['garage', 'basement', 'storage room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-wine,"['wine rack', 'kitchen', 'dining room', 'pantry', 'cellar', 'bar area']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-wine glass,"['kitchen cabinet', 'dining room', 'kitchen counter', 'bar area', 'dishwasher', 'living room']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+wine glass,"['kitchen cabinet', 'dining room', 'kitchen counter', 'bar area', 'dishwasher', 'living room', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 winebottle,"['wine rack', 'kitchen counter', 'pantry', 'dining room', 'refrigerator', 'basement', 'bar cart']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-wipe warmer,"['nursery', 'bathroom', 'changing station', 'bedroom', 'living room']",0.5,0.0,0.5,0.3333333333333333,0.0,0.058823529411764705,0.17647058823529413
-wireless accessory,"['living room', 'home office', 'bedroom', 'entertainment room', 'study', 'den']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.17647058823529413
-wood,"['garage', 'workshop', 'basement', 'shed', 'living room', 'attic', 'backyard']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-wool,"['craft room', 'living room', 'bedroom', 'storage closet', 'attic']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-work,"['home office', 'study', 'living room', 'bedroom', 'kitchen', 'dining room', 'garage', 'basement', 'attic']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-wristwatch,"['bedroom dresser', 'nightstand', 'bathroom counter', 'closet shelf', 'living room table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-xylitol sweetener,"['kitchen pantry', 'kitchen cabinet', 'countertop', 'dining room', 'refrigerator']",0.25,0.0,0.0,0.25,0.0,0.0,0.058823529411764705
-yam,"['kitchen', 'pantry', 'refrigerator', 'dining room', 'basement']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-yarn,"['craft room', 'sewing room', 'living room', 'bedroom', 'closet', 'storage room', 'basement', 'attic']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-yearbook,"['bookshelf', 'bedroom', 'living room', 'attic', 'storage box']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-yoghurt,"['refrigerator', 'kitchen counter', 'pantry', 'dining table']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-yogurt,"['refrigerator', 'kitchen counter', 'pantry']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+wipe warmer,"['nursery', 'changing table', 'bathroom', 'bedroom', 'closet']",0.3333333333333333,0.0,0.3333333333333333,0.27777777777777773,0.0,0.058823529411764705,0.17647058823529413
+wireless accessory,"['living room', 'home office', 'bedroom', 'entertainment room', 'study']",1.0,1.0,1.0,1.0,0.058823529411764705,0.17647058823529413,0.17647058823529413
+xylitol sweetener,"['pantry', 'kitchen cabinet', 'kitchen counter', 'dining room', 'refrigerator']",0.25,0.0,0.0,0.25,0.0,0.0,0.058823529411764705

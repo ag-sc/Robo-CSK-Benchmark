@@ -1,4 +1,6 @@
 prompter,total,correct,accuracy
+gemma-2-27b-it,1600,1294,0.80875
+gpt-4o-2024-08-06,1600,1462,0.91375
 gpt-4o-mini-2024-07-18_rar,1600,1354,0.84625
 gpt-4o-mini-2024-07-18_meta,1600,1304,0.815
 gpt-4o-mini-2024-07-18_selfref,1600,1288,0.805
@@ -7,6 +9,7 @@ gpt-4o-mini-2024-07-18_contr,1600,1366,0.85375
 gpt-4o-mini-2024-07-18_stepback,1600,1267,0.791875
 gpt-4o-mini-2024-07-18_sgicl,1600,1135,0.709375
 gpt-4o-mini-2024-07-18,1600,1368,0.855
+Llama-3.3-70B-Instruct,1600,1357,0.848125
 Llama-3.3-70B-Instruct_meta,1600,1365,0.853125
 Llama-3.3-70B-Instruct_selfref,1600,1357,0.848125
 Llama-3.3-70B-Instruct_stepback,1600,1356,0.8475
