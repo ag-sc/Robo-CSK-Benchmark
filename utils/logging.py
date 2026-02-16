@@ -79,12 +79,17 @@ def write_log_to_file(logs: [ModelEvaluationResult], model: str, tech: str, fold
             upper = -1
         else:
             upper = bound + lower
+    else:
+        upper = -1
 
     # create folder if needed
     logdir = f'{folder}/logs/{model}'
     if not os.path.isdir(logdir):
         os.makedirs(logdir)
-    file = f'{logdir}/{model}_{tech}_{lower}_{upper}.csv'
+    if upper == -1:
+        file = f'{logdir}/{model}_{tech}_.csv'
+    else:
+        file = f'{logdir}/{model}_{tech}_{lower}_{upper}.csv'
     dict_list = [log.to_dict() for log in logs]
     df = pd.DataFrame(dict_list)
     df.to_csv(file, index=False)
