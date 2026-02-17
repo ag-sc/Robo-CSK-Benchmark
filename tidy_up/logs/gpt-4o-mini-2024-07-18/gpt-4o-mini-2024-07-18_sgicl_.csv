@@ -1,0 +1,8044 @@
+question,full_answer,final_answer,correct_answer
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: action figure
+Locations: bar, childs room, basement, dumpster, freezer
+Your Choice:",childs room,childs room,childs room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: adjustable wrench
+Locations: bar, box, house, childs room, room
+Your Choice:",box,box,childs room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: alarmclock
+Locations: cellar, television room, trap, freezer, bedroom
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: aluminumfoil
+Locations: kitchen, attic, living room, basement, television room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: android figure
+Locations: dumpster, exercise room, jar, oven, basement
+Your Choice:",jar,jar,exercise room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: anti slip tape
+Locations: bedroom, oven, can, can, oven
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: antidepressant
+Locations: bar, room, family room, playroom, jar
+Your Choice:",room,room,playroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: apple
+Locations: family room, kitchen, oven, room, oven
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: armchair
+Locations: freezer, lobby, living room, can, freezer
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: backpack
+Locations: storage room, family room, trap, oven, box
+Your Choice:",storage room,storage room,storage room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: balancing cactus
+Locations: house, dining room, freezer, dumpster, bar
+Your Choice:",dining room,dining room,dining room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: banana
+Locations: dumpster, pantry room, bar, attic, family room
+Your Choice:",pantry room,pantry room,pantry room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: baseball
+Locations: freezer, room, bedroom, freezer, box
+Your Choice:",room,room,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: baseballbat
+Locations: jar, bedroom, house, bathroom, box
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: basketball
+Locations: bedroom, jar, attic, freezer, trap
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: bat
+Locations: family room, box, home office, attic, freezer
+Your Choice:",family room,family room,attic
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: bath sheet
+Locations: dumpster, jar, cellar, dining room, room
+Your Choice:",cellar,cellar,dining room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: bathtub
+Locations: attic, living room, family room, bathroom, exercise room
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: bathtubbasin
+Locations: living room, bathroom, can, garage, room
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: batter
+Locations: dumpster, box, garage, childs room, dining room
+Your Choice:",garage,garage,box
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: battery
+Locations: oven, can, house, family room, storage room
+Your Choice:",storage room,storage room,storage room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: beard color gel
+Locations: oven, trap, trap, bar, playroom
+Your Choice:",playroom,playroom,playroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: beauty pack
+Locations: utility room, family room, jar, can, oven
+Your Choice:",family room,family room,utility room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: bed
+Locations: childs room, living room, bathroom, bedroom, home office
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: bleach cleanser
+Locations: kitchen, oven, room, family room, attic
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: blender jar
+Locations: dining room, jar, family room, bar, attic
+Your Choice:",bar,bar,dining room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: blind
+Locations: attic, basement, kitchen, playroom, trap
+Your Choice:",attic,attic,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: board game
+Locations: jar, lobby, trap, freezer, dumpster
+Your Choice:",lobby,lobby,lobby
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: book
+Locations: box, attic, oven, bedroom, house
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: bookend
+Locations: bar, attic, freezer, playroom, family room
+Your Choice:",family room,family room,playroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: boot
+Locations: closet, kitchen, bedroom, house, corridor
+Your Choice:",closet,closet,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: bottle
+Locations: kitchen, childs room, dumpster, house, closet
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: bowl
+Locations: kitchen, can, house, bar, box
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: box
+Locations: trap, living room, bar, oven, house
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: bread
+Locations: childs room, dumpster, corridor, kitchen, utility room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: bundt pan
+Locations: room, jar, attic, corridor, trap
+Your Choice:",room,room,corridor
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: butter dish
+Locations: attic, dining room, freezer, trap, bar
+Your Choice:",dining room,dining room,dining room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: butterknife
+Locations: bathroom, bedroom, family room, kitchen, childs room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: cabinet
+Locations: kitchen, closet, trap, childs room, pantry room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: cake mix
+Locations: room, exercise room, trap, can, can
+Your Choice:",room,room,exercise room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: cake pan
+Locations: storage room, bar, jar, freezer, box
+Your Choice:",storage room,storage room,storage room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: camera
+Locations: house, family room, bar, bar, bedroom
+Your Choice:",family room,family room,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: can opener
+Locations: cellar, dumpster, dumpster, trap, garage
+Your Choice:",garage,garage,garage
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: candle
+Locations: bedroom, bar, bedroom, childs room, bathroom
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: candle holder
+Locations: family room, cellar, attic, can, bathroom
+Your Choice:",family room,family room,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: candy
+Locations: oven, cellar, box, box, bedroom
+Your Choice:",box,box,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: candy bar
+Locations: oven, cellar, basement, cellar, playroom
+Your Choice:",playroom,playroom,playroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: canister
+Locations: cellar, jar, dumpster, trap, dining room
+Your Choice:",dining room,dining room,dining room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: card game
+Locations: basement, bar, dumpster, jar, dining room
+Your Choice:",bar,bar,dining room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: carrying case
+Locations: freezer, trap, box, childs room, oven
+Your Choice:",box,box,childs room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: casserole dish
+Locations: basement, oven, trap, box, home office
+Your Choice:",oven,oven,home office
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: cd
+Locations: house, bedroom, lobby, kitchen, box
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: cellphone
+Locations: trap, exercise room, bathroom, living room, room
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: cereal
+Locations: basement, jar, exercise room, bar, cellar
+Your Choice:",jar,jar,exercise room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: chain
+Locations: family room, bar, playroom, cellar, bar
+Your Choice:",bar,bar,playroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: chair
+Locations: bedroom, dining room, home office, exercise room, cellar
+Your Choice:",dining room,dining room,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: chocolate
+Locations: freezer, can, family room, exercise room, trap
+Your Choice:",family room,family room,exercise room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: chocolate box
+Locations: jar, trap, cellar, attic, exercise room
+Your Choice:",cellar,cellar,exercise room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: chocolate milk pods
+Locations: room, television room, freezer, attic, freezer
+Your Choice:",freezer,freezer,television room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: chocolate powder
+Locations: house, bar, television room, freezer, dumpster
+Your Choice:",house,house,television room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: chopping board
+Locations: dining room, basement, freezer, room, can
+Your Choice:",dining room,dining room,dining room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: clamp
+Locations: attic, attic, jar, childs room, trap
+Your Choice:",attic,attic,childs room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: clay
+Locations: freezer, bathroom, bar, family room, freezer
+Your Choice:",family room,family room,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: clock
+Locations: room, house, dumpster, home office, trap
+Your Choice:",home office,home office,home office
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: cloth
+Locations: bathroom, dumpster, freezer, box, family room
+Your Choice:",box,box,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: coffee beans
+Locations: trap, attic, box, closet, oven
+Your Choice:",box,box,closet
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: coffee pods
+Locations: playroom, jar, cellar, freezer, basement
+Your Choice:",jar,jar,playroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: coffeemachine
+Locations: lobby, jar, pantry room, kitchen, childs room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: coffeemaker
+Locations: room, freezer, bar, freezer, bathroom
+Your Choice:",bar,bar,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: coffeetable
+Locations: kitchen, living room, utility room, house, corridor
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: colored wood blocks
+Locations: bathroom, box, cellar, attic, family room
+Your Choice:",family room,family room,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: condiment
+Locations: trap, family room, dumpster, room, home office
+Your Choice:",family room,family room,home office
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: countertop
+Locations: corridor, oven, bedroom, utility room, oven
+Your Choice:",utility room,utility room,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: cracker box
+Locations: bathroom, can, attic, trap, room
+Your Choice:",can,can,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: crayon
+Locations: exercise room, trap, freezer, house, room
+Your Choice:",house,house,exercise room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: creditcard
+Locations: lobby, house, bathroom, pantry room, bedroom
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: cube storage box
+Locations: cellar, basement, bar, freezer, lobby
+Your Choice:",basement,basement,lobby
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: cup
+Locations: can, kitchen, trap, trap, family room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: curtain
+Locations: dining room, house, pantry room, bar, bedroom
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: cushion
+Locations: room, house, room, attic, television room
+Your Choice:",television room,room,television room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: desk
+Locations: house, attic, living room, childs room, jar
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: desk caddy
+Locations: jar, box, attic, childs room, family room
+Your Choice:",family room,family room,childs room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: desklamp
+Locations: utility room, living room, jar, playroom, dining room
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: desktop
+Locations: cellar, corridor, bar, dumpster, bedroom
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: diaper pack
+Locations: attic, can, home office, trap, can
+Your Choice:",home office,home office,home office
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: dietary supplement
+Locations: jar, cellar, basement, cellar, storage room
+Your Choice:",storage room,storage room,storage room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: diningtable
+Locations: freezer, kitchen, closet, corridor, pantry room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: dish drainer
+Locations: cellar, trap, exercise room, freezer, family room
+Your Choice:",family room,family room,exercise room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: dishsponge
+Locations: house, box, lobby, house, bathroom
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: dishtowel
+Locations: cellar, lobby, oven, cellar, dumpster
+Your Choice:",cellar,cellar,lobby
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: dishwasher
+Locations: kitchen, playroom, dining room, childs room, playroom
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: dispensing closure
+Locations: bar, basement, cellar, dumpster, television room
+Your Choice:",cellar,cellar,television room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: dog bowl
+Locations: attic, oven, garage, trap, freezer
+Your Choice:",garage,garage,garage
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: dog chew toy
+Locations: corridor, room, attic, attic, basement
+Your Choice:",room,room,corridor
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: dogbed
+Locations: pantry room, bedroom, garage, storage room, exercise room
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: dollhouse toy
+Locations: bathroom, family room, jar, jar, freezer
+Your Choice:",family room,family room,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: donut
+Locations: cellar, can, jar, dumpster, television room
+Your Choice:",dumpster,dumpster,television room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: drawer
+Locations: basement, room, storage room, trap, kitchen
+Your Choice:",storage room,room,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: dresser
+Locations: oven, utility room, house, bedroom, utility room
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: drink
+Locations: house, can, home office, family room, closet
+Your Choice:",family room,family room,can
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: drink coaster
+Locations: cellar, house, jar, room, playroom
+Your Choice:",room,room,playroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: dryer
+Locations: basement, living room, closet, television room, playroom
+Your Choice:",basement,basement,basement
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: duct tape
+Locations: room, dining room, room, dumpster, trap
+Your Choice:",room,room,dining room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: dumbbell
+Locations: attic, basement, oven, freezer, bedroom
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: dumbbell rack
+Locations: can, room, can, room, living room
+Your Choice:",room,room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: dustpan and brush
+Locations: can, can, freezer, house, television room
+Your Choice:",house,house,television room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: dutch oven
+Locations: house, freezer, family room, box, kitchen
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: easter basket
+Locations: jar, attic, bedroom, family room, dumpster
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: egg
+Locations: oven, kitchen, oven, television room, house
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: electric heater
+Locations: oven, room, family room, trap, pantry room
+Your Choice:",family room,room,pantry room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: electric toothbrush
+Locations: freezer, closet, bar, cellar, house
+Your Choice:",closet,closet,closet
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: electronic adapter
+Locations: dumpster, can, kitchen, oven, trap
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: electronic cable
+Locations: bar, living room, oven, can, can
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: face moisturizer
+Locations: can, oven, family room, television room, freezer
+Your Choice:",family room,family room,television room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: faucet
+Locations: bathroom, room, dining room, attic, bar
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: file sorter
+Locations: freezer, living room, house, house, house
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: fingerpaint
+Locations: freezer, attic, kitchen, trap, house
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: fitness tracker wristband
+Locations: can, basement, basement, house, utility room
+Your Choice:",utility room,utility room,utility room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: flashlight
+Locations: childs room, dumpster, jar, house, dumpster
+Your Choice:",child's room,None,childs room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: flat screwdriver
+Locations: box, exercise room, trap, oven, basement
+Your Choice:",box,box,exercise room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: floor
+Locations: exercise room, basement, dumpster, living room, television room
+Your Choice:",dumpster,dumpster,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: floorlamp
+Locations: box, living room, attic, trap, lobby
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: foam brick
+Locations: can, can, trap, television room, bar
+Your Choice:",television room,television room,television room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: folder
+Locations: box, basement, corridor, family room, dumpster
+Your Choice:",family room,family room,corridor
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: fondant
+Locations: playroom, trap, basement, box, family room
+Your Choice:",box,box,playroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: footstool
+Locations: storage room, basement, bathroom, dining room, cellar
+Your Choice:",storage room,storage room,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: fork
+Locations: basement, box, house, kitchen, house
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: fridge
+Locations: basement, home office, basement, kitchen, bathroom
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: fruit snack
+Locations: family room, can, utility room, cellar, jar
+Your Choice:",jar,jar,utility room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: furnace
+Locations: box, bathroom, living room, jar, basement
+Your Choice:",basement,basement,basement
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: garbage
+Locations: can, living room, basement, dumpster, box
+Your Choice:",dumpster,dumpster,dumpster
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: garbagebag
+Locations: kitchen, utility room, dumpster, dining room, attic
+Your Choice:",dumpster,dumpster,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: garbagecan
+Locations: kitchen, exercise room, garage, room, room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: gelatin box
+Locations: bar, freezer, house, closet, dumpster
+Your Choice:",freezer,freezer,closet
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: glove
+Locations: childs room, jar, attic, attic, dumpster
+Your Choice:",child's room,None,childs room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: golf ball
+Locations: trap, living room, freezer, family room, oven
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: graphics card
+Locations: oven, living room, cellar, house, family room
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: hair color
+Locations: box, playroom, freezer, trap, cellar
+Your Choice:",box,box,playroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: hair conditioner
+Locations: dumpster, cellar, house, dining room, attic
+Your Choice:",cellar,cellar,dining room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: hair dryer
+Locations: trap, family room, family room, can, bathroom
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: hair straightener
+Locations: basement, exercise room, can, oven, box
+Your Choice:",box,box,exercise room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: hammer
+Locations: oven, home office, cellar, dumpster, family room
+Your Choice:",home office,home office,home office
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: hand bell
+Locations: trap, can, cellar, room, dining room
+Your Choice:",dining room,room,dining room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: handbag
+Locations: exercise room, jar, attic, family room, box
+Your Choice:",family room,family room,exercise room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: handtowel
+Locations: bar, can, bathroom, house, utility room
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: handtowelholder
+Locations: dumpster, living room, childs room, bathroom, trap
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: hard drive
+Locations: can, jar, freezer, bedroom, bar
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: hard drive case
+Locations: freezer, living room, trap, jar, dumpster
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: hat
+Locations: room, trap, house, room, closet
+Your Choice:",closet,closet,closet
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: headphone
+Locations: box, basement, playroom, jar, can
+Your Choice:",playroom,playroom,playroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: heavy duty gloves
+Locations: dumpster, can, can, room, lobby
+Your Choice:",room,room,lobby
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: heavy master chef can
+Locations: attic, can, house, corridor, house
+Your Choice:",attic,attic,corridor
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: helmet
+Locations: family room, cellar, childs room, dumpster, room
+Your Choice:",child's room,room,childs room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: herring fillets
+Locations: room, bedroom, basement, can, can
+Your Choice:",basement,basement,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: honey dipper
+Locations: cellar, bar, bedroom, trap, oven
+Your Choice:",bar,bar,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: houseplant
+Locations: corridor, house, pantry room, lobby, living room
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: incontinence pads
+Locations: garage, oven, can, room, dumpster
+Your Choice:",room,room,garage
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: ink cartridge
+Locations: oven, dumpster, house, childs room, oven
+Your Choice:",house,house,childs room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: instant camera
+Locations: trap, basement, family room, trap, television room
+Your Choice:",family room,family room,television room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: invitation card
+Locations: family room, box, cellar, jar, lobby
+Your Choice:",box,box,lobby
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: jar
+Locations: oven, cellar, freezer, jar, closet
+Your Choice:",closet,closet,closet
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: jenga
+Locations: room, room, playroom, house, cellar
+Your Choice:",playroom,playroom,playroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: jewelry box
+Locations: freezer, box, attic, can, exercise room
+Your Choice:",box,box,exercise room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: kettle
+Locations: home office, house, kitchen, corridor, attic
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: keyboard
+Locations: room, family room, can, home office, can
+Your Choice:",home office,home office,home office
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: keychain
+Locations: living room, exercise room, house, garage, television room
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: knife
+Locations: dumpster, kitchen, can, bar, oven
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: knife block
+Locations: family room, basement, cellar, oven, bedroom
+Your Choice:",cellar,cellar,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: labeling tape
+Locations: cellar, bedroom, family room, oven, can
+Your Choice:",family room,family room,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: ladle
+Locations: garage, kitchen, home office, jar, dining room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: lamp
+Locations: bar, attic, basement, bedroom, cellar
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: lantern
+Locations: can, house, bathroom, house, jar
+Your Choice:",house,house,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: laptop
+Locations: attic, jar, jar, trap, bedroom
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: laptop cover
+Locations: childs room, dumpster, cellar, box, oven
+Your Choice:",box,box,childs room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: laptop stand
+Locations: trap, trap, childs room, trap, freezer
+Your Choice:",childs room,childs room,childs room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: large marker
+Locations: box, bar, trap, can, dining room
+Your Choice:",dining room,dining room,dining room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: laundry box
+Locations: box, house, home office, house, jar
+Your Choice:",box,box,home office
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: laundryhamper
+Locations: kitchen, attic, garage, exercise room, bedroom
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: laxative
+Locations: can, box, box, trap, dining room
+Your Choice:",dining room,dining room,dining room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: lego duplo
+Locations: can, house, cellar, bar, dining room
+Your Choice:",dining room,dining room,dining room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: lemon
+Locations: family room, exercise room, bar, room, bar
+Your Choice:",bar,bar,exercise room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: letter holder
+Locations: storage room, basement, box, oven, cellar
+Your Choice:",storage room,storage room,storage room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: lettuce
+Locations: lobby, oven, basement, can, kitchen
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: light bulb
+Locations: basement, freezer, can, bedroom, trap
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: lightswitch
+Locations: garage, home office, living room, dining room, family room
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: lime squeezer
+Locations: storage room, oven, jar, trap, attic
+Your Choice:",storage room,storage room,storage room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: lipstick
+Locations: home office, trap, attic, house, bar
+Your Choice:",home office,home office,home office
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: lunch bag
+Locations: bar, oven, bar, storage room, jar
+Your Choice:",storage room,storage room,storage room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: lunch box
+Locations: dining room, basement, cellar, can, jar
+Your Choice:",dining room,dining room,dining room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: magnifying glass
+Locations: utility room, room, room, family room, room
+Your Choice:",family room,room,utility room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: mascara
+Locations: bar, trap, room, lobby, dumpster
+Your Choice:",room,room,lobby
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: master chef can
+Locations: attic, attic, freezer, television room, room
+Your Choice:",freezer,freezer,television room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: measuring tape
+Locations: basement, cellar, jar, playroom, trap
+Your Choice:",basement,basement,playroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: medicine
+Locations: home office, dumpster, trap, jar, family room
+Your Choice:",jar,jar,home office
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: microwave
+Locations: exercise room, family room, oven, bedroom, kitchen
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: milk fror
+Locations: freezer, dumpster, kitchen, family room, can
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: mini soccer ball
+Locations: garage, jar, dumpster, basement, box
+Your Choice:",garage,garage,garage
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: mirror
+Locations: cellar, living room, oven, basement, family room
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: morboard
+Locations: attic, family room, oven, closet, house
+Your Choice:",family room,family room,closet
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: mouse
+Locations: living room, jar, freezer, jar, room
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: mouse pad
+Locations: trap, family room, basement, living room, trap
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: movie dvd
+Locations: oven, playroom, bar, jar, oven
+Your Choice:",playroom,playroom,playroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: mug
+Locations: basement, room, house, kitchen, cellar
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: multiport hub
+Locations: corridor, room, dumpster, house, dumpster
+Your Choice:",room,room,corridor
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: mustard bottle
+Locations: bar, oven, cellar, lobby, bar
+Your Choice:",bar,bar,lobby
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: neck rest
+Locations: living room, can, oven, box, house
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: newspaper
+Locations: box, home office, basement, dining room, living room
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: nine hole peg test
+Locations: box, bar, bedroom, dumpster, family room
+Your Choice:",box,box,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: nintendo switch
+Locations: television room, jar, room, house, trap
+Your Choice:",television room,television room,television room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: orange
+Locations: room, oven, family room, pantry room, can
+Your Choice:",pantry room,room,pantry room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: ottoman
+Locations: exercise room, bedroom, childs room, living room, bar
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: padlock
+Locations: lobby, cellar, jar, cellar, bar
+Your Choice:",cellar,cellar,lobby
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: paint bottle set
+Locations: playroom, jar, basement, freezer, room
+Your Choice:",playroom,playroom,playroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: paint maker
+Locations: cellar, family room, basement, basement, utility room
+Your Choice:",utility room,utility room,utility room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: painting
+Locations: living room, bar, exercise room, closet, dumpster
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: pan
+Locations: room, house, room, jar, kitchen
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: paper bag
+Locations: house, box, family room, garage, oven
+Your Choice:",family room,family room,garage
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: papertowelroll
+Locations: bathroom, utility room, pantry room, jar, closet
+Your Choice:",utility room,utility room,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: parchment sheet
+Locations: attic, dining room, freezer, oven, room
+Your Choice:",dining room,dining room,dining room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: peach
+Locations: jar, trap, room, television room, family room
+Your Choice:",jar,jar,television room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: pear
+Locations: house, oven, utility room, family room, oven
+Your Choice:",house,house,utility room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: peg and hammer toy
+Locations: jar, can, freezer, playroom, freezer
+Your Choice:",playroom,playroom,playroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: pen
+Locations: box, bedroom, exercise room, house, cellar
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: pencil
+Locations: bathroom, room, bedroom, can, childs room
+Your Choice:",room,room,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: pencil case
+Locations: television room, box, dumpster, jar, can
+Your Choice:",box,box,television room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: peppermint
+Locations: jar, pantry room, box, oven, freezer
+Your Choice:",pantry room,pantry room,pantry room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: peppershaker
+Locations: childs room, kitchen, family room, living room, room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: pepsi can pack
+Locations: dumpster, family room, freezer, jar, garage
+Your Choice:",dumpster,dumpster,garage
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: pet food supplement
+Locations: jar, cellar, cellar, family room, pantry room
+Your Choice:",pantry room,pantry room,pantry room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: phillips screwdriver
+Locations: room, family room, can, room, exercise room
+Your Choice:",room,room,exercise room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: phone armband case
+Locations: room, basement, pantry room, freezer, dumpster
+Your Choice:",room,room,pantry room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: phone stand
+Locations: freezer, cellar, family room, home office, room
+Your Choice:",home office,home office,home office
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: picture frame
+Locations: freezer, cellar, dumpster, bar, utility room
+Your Choice:",utility room,utility room,utility room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: pie
+Locations: storage room, living room, bedroom, dining room, oven
+Your Choice:",dining room,dining room,oven
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: pillow
+Locations: attic, bedroom, box, bar, house
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: pitcher base
+Locations: jar, home office, bar, cellar, house
+Your Choice:",bar,bar,home office
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: plant
+Locations: can, freezer, living room, oven, cellar
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: plant container
+Locations: garage, bar, family room, house, attic
+Your Choice:",family room,family room,garage
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: plant saucer
+Locations: dumpster, living room, box, dumpster, freezer
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: plate
+Locations: oven, bar, box, living room, family room
+Your Choice:",bar,bar,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: plum
+Locations: box, cellar, cellar, trap, pantry room
+Your Choice:",pantry room,pantry room,pantry room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: plunger
+Locations: house, bathroom, trap, basement, dining room
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: portable speaker
+Locations: attic, house, oven, playroom, oven
+Your Choice:",playroom,playroom,playroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: poster
+Locations: family room, corridor, dining room, bedroom, freezer
+Your Choice:",family room,family room,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: pot
+Locations: storage room, kitchen, freezer, room, bathroom
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: potato
+Locations: playroom, living room, childs room, exercise room, kitchen
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: potted meat can
+Locations: jar, freezer, corridor, can, box
+Your Choice:",can,can,corridor
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: power drill
+Locations: jar, house, kitchen, can, room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: pressure cooker
+Locations: home office, dumpster, family room, can, trap
+Your Choice:",family room,family room,home office
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: pudding box
+Locations: oven, box, utility room, attic, freezer
+Your Choice:",freezer,freezer,utility room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: puzzle game
+Locations: utility room, jar, freezer, dumpster, freezer
+Your Choice:",utility room,utility room,utility room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: racquetball
+Locations: house, family room, freezer, playroom, basement
+Your Choice:",playroom,playroom,playroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: ramekin
+Locations: cellar, bar, playroom, trap, can
+Your Choice:",bar,bar,playroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: remote control
+Locations: family room, jar, jar, bar, exercise room
+Your Choice:",family room,family room,exercise room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: remotecontrol
+Locations: family room, bedroom, dining room, childs room, basement
+Your Choice:",family room,family room,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: rmal laminator
+Locations: can, bar, can, living room, freezer
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: roast
+Locations: trap, childs room, bathroom, oven, closet
+Your Choice:",oven,oven,oven
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: roomdecor
+Locations: box, pantry room, dumpster, cellar, living room
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: router
+Locations: house, family room, dumpster, bedroom, basement
+Your Choice:",family room,family room,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: rubiks cube
+Locations: can, home office, basement, bar, cellar
+Your Choice:",home office,home office,home office
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: safe
+Locations: living room, attic, attic, box, jar
+Your Choice:",attic,attic,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: salt shaker
+Locations: box, family room, trap, bathroom, dumpster
+Your Choice:",family room,family room,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: saltshaker
+Locations: dining room, freezer, house, kitchen, lobby
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: sanitary pads
+Locations: bedroom, can, jar, trap, trap
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: saucer
+Locations: dumpster, kitchen, dumpster, oven, freezer
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: saute pan
+Locations: kitchen, box, dumpster, freezer, room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: scissors
+Locations: freezer, exercise room, cellar, house, dumpster
+Your Choice:",exercise room,exercise room,exercise room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: scrubbrush
+Locations: basement, storage room, television room, bathroom, room
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: set-top box
+Locations: oven, trap, trap, house, bathroom
+Your Choice:",house,house,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: shelf
+Locations: trap, basement, basement, bedroom, television room
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: shelvingunit
+Locations: bedroom, television room, bar, attic, playroom
+Your Choice:",television room,television room,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: shoe
+Locations: cellar, bar, closet, oven, cellar
+Your Choice:",closet,closet,closet
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: shoe box
+Locations: freezer, can, oven, bar, corridor
+Your Choice:",corridor,corridor,corridor
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: showercurtain
+Locations: cellar, bathroom, room, storage room, pantry room
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: showerdoor
+Locations: corridor, kitchen, television room, bathroom, kitchen
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: showerglass
+Locations: dining room, dining room, attic, bathroom, basement
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: showerhead
+Locations: exercise room, bar, bathroom, dining room, cellar
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: shredder
+Locations: pantry room, freezer, can, room, trap
+Your Choice:",trap,trap,pantry room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: sidetable
+Locations: family room, living room, oven, corridor, closet
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: sidewalk chalk
+Locations: family room, can, oven, living room, dumpster
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: sink
+Locations: attic, closet, childs room, kitchen, television room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: sinkbasin
+Locations: freezer, family room, lobby, garage, bathroom
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: skillet
+Locations: trap, house, box, exercise room, trap
+Your Choice:",house,house,exercise room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: skillet lid
+Locations: attic, box, closet, room, can
+Your Choice:",closet,closet,closet
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: skin care product
+Locations: bar, corridor, cellar, freezer, trap
+Your Choice:",bar,bar,corridor
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: skin moisturizer
+Locations: attic, house, box, bathroom, house
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: snack cake
+Locations: oven, trap, room, box, lobby
+Your Choice:",box,box,lobby
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: snack dispenser
+Locations: trap, freezer, basement, house, utility room
+Your Choice:",utility room,utility room,utility room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: soap dish
+Locations: can, box, childs room, house, basement
+Your Choice:",childs room,childs room,childs room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: soap dispenser
+Locations: box, attic, trap, cellar, kitchen
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: soapbar
+Locations: dining room, bathroom, closet, television room, closet
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: soapbottle
+Locations: freezer, bathroom, pantry room, childs room, basement
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: sofa
+Locations: basement, bathroom, living room, basement, utility room
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: softball
+Locations: freezer, oven, bedroom, family room, freezer
+Your Choice:",family room,family room,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: software cd
+Locations: attic, jar, bar, bar, dining room
+Your Choice:",attic,attic,dining room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: sorting toy
+Locations: dumpster, freezer, playroom, bar, house
+Your Choice:",playroom,playroom,playroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: sparkling water
+Locations: freezer, garage, cellar, jar, jar
+Your Choice:",cellar,cellar,garage
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: spatula
+Locations: cellar, house, house, family room, kitchen
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: spider
+Locations: pantry room, bedroom, bedroom, television room, cellar
+Your Choice:",bedroom,bedroom,cellar
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: sponge
+Locations: box, attic, family room, utility room, basement
+Your Choice:",utility room,utility room,utility room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: sponge dish
+Locations: pantry room, can, trap, basement, bar
+Your Choice:",pantry room,pantry room,pantry room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: spoon
+Locations: can, bar, kitchen, attic, room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: spoon rest
+Locations: attic, bathroom, family room, dumpster, oven
+Your Choice:",family room,family room,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: spraybottle
+Locations: jar, dumpster, freezer, bathroom, jar
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: stacking cups
+Locations: room, trap, family room, closet, basement
+Your Choice:",family room,room,closet
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: stand mixer
+Locations: family room, pantry room, attic, bar, bar
+Your Choice:",pantry room,pantry room,pantry room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: statue
+Locations: can, dining room, can, house, kitchen
+Your Choice:",dining room,dining room,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: steak
+Locations: exercise room, freezer, childs room, television room, family room
+Your Choice:",freezer,freezer,freezer
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: stool
+Locations: trap, house, kitchen, corridor, childs room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: storage bin
+Locations: cellar, closet, basement, basement, trap
+Your Choice:",closet,closet,closet
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: stoveburner
+Locations: bar, closet, box, freezer, kitchen
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: stoveknob
+Locations: pantry room, bathroom, garage, pantry room, kitchen
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: strawberry
+Locations: freezer, can, storage room, freezer, oven
+Your Choice:",freezer,freezer,storage room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: string lights
+Locations: dumpster, freezer, bedroom, dumpster, oven
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: stuffed toy
+Locations: house, family room, cellar, kitchen, house
+Your Choice:",family room,family room,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: sugar box
+Locations: room, basement, freezer, utility room, family room
+Your Choice:",utility room,room,utility room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: sugar sprinkles
+Locations: room, family room, dining room, oven, bar
+Your Choice:",dining room,room,dining room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: surface saver ring
+Locations: bar, oven, basement, exercise room, trap
+Your Choice:",bar,bar,exercise room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: sushi mat
+Locations: attic, jar, exercise room, room, trap
+Your Choice:",exercise room,exercise room,exercise room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: table
+Locations: bedroom, pantry room, playroom, jar, home office
+Your Choice:",playroom,playroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: table lamp
+Locations: jar, dumpster, dining room, attic, box
+Your Choice:",dining room,dining room,dining room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: tablet
+Locations: pantry room, box, house, freezer, freezer
+Your Choice:",box,box,pantry room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: tablet holder
+Locations: dining room, can, jar, jar, house
+Your Choice:",dining room,dining room,dining room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: tablet stand
+Locations: jar, freezer, freezer, dumpster, playroom
+Your Choice:",playroom,playroom,playroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: tabletopdecor
+Locations: exercise room, dumpster, bedroom, bar, exercise room
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: tampon
+Locations: attic, can, childs room, can, house
+Your Choice:",child's room,None,childs room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: tea can pack
+Locations: kitchen, attic, house, basement, box
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: tea pods
+Locations: basement, lobby, can, attic, jar
+Your Choice:",jar,jar,lobby
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: teapot
+Locations: basement, trap, oven, storage room, box
+Your Choice:",storage room,storage room,storage room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: teddybear
+Locations: childs room, oven, bedroom, house, television room
+Your Choice:",childs room,childs room,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: television
+Locations: bedroom, utility room, freezer, childs room, jar
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: tennis ball
+Locations: oven, storage room, oven, attic, house
+Your Choice:",storage room,storage room,storage room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: tennisracket
+Locations: bedroom, box, television room, oven, closet
+Your Choice:",closet,closet,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: tissuebox
+Locations: can, home office, childs room, room, living room
+Your Choice:",living room,room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: toaster
+Locations: basement, box, kitchen, attic, trap
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: toilet
+Locations: attic, utility room, bathroom, bar, storage room
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: toiletpaper
+Locations: oven, basement, garage, lobby, bathroom
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: toiletpaperhanger
+Locations: television room, bedroom, exercise room, bathroom, box
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: tomato
+Locations: freezer, attic, kitchen, closet, cellar
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: tomato soup can
+Locations: bar, cellar, attic, childs room, bar
+Your Choice:",cellar,cellar,childs room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: toothbrush holder
+Locations: kitchen, bar, room, jar, basement
+Your Choice:",room,room,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: toothbrush pack
+Locations: box, can, attic, trap, utility room
+Your Choice:",utility room,utility room,utility room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: towel
+Locations: bar, freezer, box, bar, bathroom
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: towelholder
+Locations: childs room, bathroom, television room, bedroom, cellar
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: toy
+Locations: freezer, house, utility room, box, basement
+Your Choice:",box,box,box
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: toy airplane
+Locations: box, bedroom, oven, cellar, attic
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: toy animal
+Locations: box, can, family room, family room, corridor
+Your Choice:",family room,family room,corridor
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: toy basketball
+Locations: room, jar, bedroom, basement, can
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: toy bowling set
+Locations: freezer, pantry room, can, can, cellar
+Your Choice:",cellar,cellar,pantry room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: toy construction set
+Locations: jar, trap, house, can, pantry room
+Your Choice:",house,house,pantry room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: toy fishing
+Locations: oven, cellar, bedroom, oven, freezer
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: toy food
+Locations: freezer, garage, attic, cellar, cellar
+Your Choice:",cellar,cellar,garage
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: toy furniture set
+Locations: family room, cellar, house, freezer, utility room
+Your Choice:",family room,family room,utility room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: toy instrument
+Locations: utility room, oven, box, jar, house
+Your Choice:",box,box,utility room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: toy kitchen set
+Locations: utility room, family room, oven, dumpster, can
+Your Choice:",family room,family room,utility room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: toy tool kit
+Locations: house, can, jar, utility room, oven
+Your Choice:",utility room,utility room,utility room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: toy vehicle
+Locations: house, can, bar, attic, bathroom
+Your Choice:",house,house,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: tray
+Locations: house, living room, bar, attic, house
+Your Choice:",bar,bar,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: tumbler
+Locations: family room, oven, bar, box, garage
+Your Choice:",bar,bar,garage
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: tv
+Locations: jar, television room, room, living room, family room
+Your Choice:",television room,television room,family room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: tvstand
+Locations: living room, room, room, storage room, childs room
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: umbrella
+Locations: basement, home office, house, house, room
+Your Choice:",house,house,home office
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: usb drive
+Locations: trap, television room, oven, basement, family room
+Your Choice:",family room,family room,television room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: utensil holder
+Locations: house, dumpster, attic, box, home office
+Your Choice:",home office,home office,home office
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: vacuumcleaner
+Locations: garage, bedroom, corridor, oven, dumpster
+Your Choice:",garage,garage,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: vase
+Locations: bedroom, basement, can, cellar, box
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: video game
+Locations: box, trap, jar, can, lobby
+Your Choice:",box,box,lobby
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: vinyl tape
+Locations: bar, can, room, trap, bathroom
+Your Choice:",bar,bar,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: virtual reality viewer
+Locations: box, can, oven, trap, utility room
+Your Choice:",utility room,utility room,utility room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: wardrobe
+Locations: trap, room, jar, freezer, dining room
+Your Choice:",room,room,room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: washcloth
+Locations: exercise room, cellar, room, can, bar
+Your Choice:",room,room,exercise room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: waste basket
+Locations: basement, playroom, basement, bar, trap
+Your Choice:",playroom,playroom,playroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: watch
+Locations: bedroom, family room, storage room, can, basement
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: water bottle
+Locations: can, cellar, oven, bathroom, oven
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: wateringcan
+Locations: dumpster, childs room, living room, trap, can
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: weight loss guide
+Locations: attic, childs room, box, basement, house
+Your Choice:",house,house,childs room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: whale whistle
+Locations: jar, bar, attic, jar, bedroom
+Your Choice:",attic,attic,bedroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: window
+Locations: jar, lobby, bathroom, family room, closet
+Your Choice:",closet,closet,bathroom
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: wine glass
+Locations: house, living room, pantry room, kitchen, oven
+Your Choice:",living room,living room,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: winebottle
+Locations: jar, kitchen, playroom, oven, family room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: wipe warmer
+Locations: dumpster, oven, closet, box, box
+Your Choice:",closet,closet,closet
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: wireless accessory
+Locations: bar, basement, attic, television room, can
+Your Choice:",television room,television room,television room
+"Here are a few examples:
+Object: canned goods
+Location: pantry room
+Object: bedside lamp
+Location: bedroom
+Object: bed
+Location: bedroom
+Object: cutting board
+Location: kitchen
+Object: shoe rack
+Location: corridor
+Object: yoga mat
+Location: exercise room
+Object: canned beans
+Location: pantry room
+Object: trunk
+Location: attic
+
+Object: xylitol sweetener
+Locations: box, family room, garage, cellar, house
+Your Choice:",pantry room,None,garage
