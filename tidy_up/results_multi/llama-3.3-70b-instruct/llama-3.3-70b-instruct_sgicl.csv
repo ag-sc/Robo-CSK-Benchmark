@@ -1,0 +1,384 @@
+object,correct_location,predicted_location,location_choices,correct_prediction
+action figure,childs room,childs room,"['bar', 'childs room', 'dumpster', 'freezer', 'basement']",True
+adjustable wrench,childs room,box,"['bar', 'room', 'childs room', 'box', 'house']",False
+alarmclock,bedroom,bedroom,"['freezer', 'television room', 'cellar', 'trap', 'bedroom']",True
+aluminumfoil,kitchen,kitchen,"['basement', 'television room', 'kitchen', 'living room', 'attic']",True
+android figure,exercise room,basement,"['jar', 'exercise room', 'oven', 'basement', 'dumpster']",False
+anti slip tape,bedroom,can,"['can', 'oven', 'oven', 'can', 'bedroom']",False
+antidepressant,playroom,room,"['bar', 'playroom', 'family room', 'jar', 'room']",False
+apple,kitchen,kitchen,"['oven', 'kitchen', 'oven', 'family room', 'room']",True
+armchair,living room,living room,"['living room', 'freezer', 'freezer', 'lobby', 'can']",True
+backpack,storage room,storage room,"['storage room', 'box', 'oven', 'family room', 'trap']",True
+balancing cactus,dining room,bar,"['house', 'freezer', 'dumpster', 'dining room', 'bar']",False
+banana,pantry room,pantry room,"['pantry room', 'bar', 'family room', 'dumpster', 'attic']",True
+baseball,bedroom,room,"['room', 'freezer', 'freezer', 'bedroom', 'box']",False
+baseballbat,bedroom,house,"['house', 'box', 'bedroom', 'bathroom', 'jar']",False
+basketball,bedroom,attic,"['freezer', 'attic', 'trap', 'bedroom', 'jar']",False
+bat,attic,attic,"['freezer', 'attic', 'box', 'family room', 'home office']",True
+bath sheet,dining room,cellar,"['room', 'jar', 'dumpster', 'dining room', 'cellar']",False
+bathtub,bathroom,bathroom,"['exercise room', 'living room', 'family room', 'bathroom', 'attic']",True
+bathtubbasin,bathroom,bathroom,"['garage', 'living room', 'bathroom', 'room', 'can']",True
+batter,box,none,"['garage', 'box', 'dumpster', 'dining room', 'childs room']",False
+battery,storage room,storage room,"['house', 'can', 'oven', 'storage room', 'family room']",True
+beard color gel,playroom,bar,"['trap', 'trap', 'bar', 'oven', 'playroom']",False
+beauty pack,utility room,utility room,"['can', 'jar', 'family room', 'utility room', 'oven']",True
+bed,bedroom,bedroom,"['childs room', 'living room', 'home office', 'bathroom', 'bedroom']",True
+bleach cleanser,kitchen,kitchen,"['oven', 'attic', 'family room', 'room', 'kitchen']",True
+blender jar,dining room,bar,"['bar', 'dining room', 'attic', 'jar', 'family room']",False
+blind,kitchen,attic,"['playroom', 'trap', 'basement', 'attic', 'kitchen']",False
+board game,lobby,lobby,"['jar', 'trap', 'freezer', 'dumpster', 'lobby']",True
+book,bedroom,bedroom,"['attic', 'house', 'bedroom', 'box', 'oven']",True
+bookend,playroom,family room,"['bar', 'playroom', 'attic', 'freezer', 'family room']",False
+boot,bedroom,closet,"['house', 'bedroom', 'corridor', 'kitchen', 'closet']",False
+bottle,kitchen,kitchen,"['childs room', 'closet', 'house', 'kitchen', 'dumpster']",True
+bowl,kitchen,kitchen,"['kitchen', 'box', 'house', 'bar', 'can']",True
+box,living room,living room,"['trap', 'living room', 'house', 'oven', 'bar']",True
+bread,kitchen,kitchen,"['utility room', 'kitchen', 'dumpster', 'childs room', 'corridor']",True
+bundt pan,corridor,room,"['trap', 'jar', 'corridor', 'attic', 'room']",False
+butter dish,dining room,dining room,"['dining room', 'bar', 'freezer', 'attic', 'trap']",True
+butterknife,kitchen,kitchen,"['bathroom', 'kitchen', 'childs room', 'family room', 'bedroom']",True
+cabinet,kitchen,kitchen,"['closet', 'pantry room', 'kitchen', 'trap', 'childs room']",True
+cake mix,exercise room,none,"['can', 'room', 'can', 'trap', 'exercise room']",False
+cake pan,storage room,storage room,"['jar', 'bar', 'storage room', 'freezer', 'box']",True
+camera,bedroom,family room,"['bar', 'family room', 'bedroom', 'bar', 'house']",False
+can opener,garage,none,"['cellar', 'trap', 'dumpster', 'garage', 'dumpster']",False
+candle,bathroom,bedroom,"['bar', 'bathroom', 'bedroom', 'bedroom', 'childs room']",False
+candle holder,bathroom,family room,"['can', 'bathroom', 'cellar', 'attic', 'family room']",False
+candy,bedroom,box,"['box', 'oven', 'cellar', 'bedroom', 'box']",False
+candy bar,playroom,playroom,"['oven', 'playroom', 'cellar', 'cellar', 'basement']",True
+canister,dining room,cellar,"['dumpster', 'dining room', 'cellar', 'trap', 'jar']",False
+card game,dining room,dining room,"['basement', 'dining room', 'jar', 'dumpster', 'bar']",True
+carrying case,childs room,childs room,"['childs room', 'box', 'freezer', 'oven', 'trap']",True
+casserole dish,home office,oven,"['basement', 'trap', 'oven', 'home office', 'box']",False
+cd,bedroom,bedroom,"['bedroom', 'lobby', 'box', 'house', 'kitchen']",True
+cellphone,living room,room,"['room', 'living room', 'exercise room', 'trap', 'bathroom']",False
+cereal,exercise room,none,"['jar', 'basement', 'cellar', 'exercise room', 'bar']",False
+chain,playroom,cellar,"['bar', 'family room', 'playroom', 'bar', 'cellar']",False
+chair,bedroom,dining room,"['dining room', 'home office', 'bedroom', 'exercise room', 'cellar']",False
+chocolate,exercise room,freezer,"['freezer', 'exercise room', 'can', 'trap', 'family room']",False
+chocolate box,exercise room,cellar,"['trap', 'exercise room', 'jar', 'attic', 'cellar']",False
+chocolate milk pods,television room,freezer,"['freezer', 'television room', 'attic', 'freezer', 'room']",False
+chocolate powder,television room,bar,"['dumpster', 'house', 'freezer', 'television room', 'bar']",False
+chopping board,dining room,none,"['can', 'room', 'freezer', 'basement', 'dining room']",False
+clamp,childs room,attic,"['attic', 'attic', 'jar', 'childs room', 'trap']",False
+clay,bathroom,family room,"['freezer', 'family room', 'freezer', 'bathroom', 'bar']",False
+clock,home office,home office,"['dumpster', 'home office', 'room', 'trap', 'house']",True
+cloth,bathroom,bathroom,"['dumpster', 'bathroom', 'family room', 'freezer', 'box']",True
+coffee beans,closet,closet,"['trap', 'oven', 'closet', 'box', 'attic']",True
+coffee pods,playroom,none,"['freezer', 'jar', 'basement', 'playroom', 'cellar']",False
+coffeemachine,kitchen,kitchen,"['lobby', 'childs room', 'pantry room', 'kitchen', 'jar']",True
+coffeemaker,bathroom,bar,"['room', 'bar', 'bathroom', 'freezer', 'freezer']",False
+coffeetable,living room,living room,"['kitchen', 'utility room', 'living room', 'corridor', 'house']",True
+colored wood blocks,bathroom,family room,"['family room', 'box', 'bathroom', 'cellar', 'attic']",False
+condiment,home office,none,"['family room', 'dumpster', 'room', 'home office', 'trap']",False
+countertop,bedroom,none,"['oven', 'utility room', 'oven', 'bedroom', 'corridor']",False
+cracker box,bathroom,none,"['room', 'trap', 'attic', 'can', 'bathroom']",False
+crayon,exercise room,room,"['trap', 'house', 'exercise room', 'freezer', 'room']",False
+creditcard,bedroom,bedroom,"['bedroom', 'house', 'pantry room', 'bathroom', 'lobby']",True
+cube storage box,lobby,basement,"['cellar', 'basement', 'freezer', 'lobby', 'bar']",False
+cup,kitchen,kitchen,"['kitchen', 'trap', 'trap', 'can', 'family room']",True
+curtain,bedroom,bedroom,"['pantry room', 'bar', 'dining room', 'house', 'bedroom']",True
+cushion,television room,room,"['attic', 'room', 'house', 'room', 'television room']",False
+desk,living room,childs room,"['attic', 'childs room', 'living room', 'jar', 'house']",False
+desk caddy,childs room,family room,"['box', 'attic', 'jar', 'childs room', 'family room']",False
+desklamp,living room,living room,"['playroom', 'living room', 'jar', 'dining room', 'utility room']",True
+desktop,bedroom,bedroom,"['bedroom', 'bar', 'dumpster', 'cellar', 'corridor']",True
+diaper pack,home office,home office,"['attic', 'can', 'trap', 'can', 'home office']",True
+dietary supplement,storage room,none,"['cellar', 'jar', 'basement', 'storage room', 'cellar']",False
+diningtable,kitchen,kitchen,"['kitchen', 'corridor', 'pantry room', 'freezer', 'closet']",True
+dish drainer,exercise room,none,"['family room', 'freezer', 'exercise room', 'trap', 'cellar']",False
+dishsponge,bathroom,bathroom,"['house', 'lobby', 'box', 'house', 'bathroom']",True
+dishtowel,lobby,cellar,"['lobby', 'cellar', 'cellar', 'dumpster', 'oven']",False
+dishwasher,kitchen,kitchen,"['playroom', 'dining room', 'childs room', 'kitchen', 'playroom']",True
+dispensing closure,television room,basement,"['basement', 'bar', 'television room', 'cellar', 'dumpster']",False
+dog bowl,garage,garage,"['freezer', 'garage', 'attic', 'oven', 'trap']",True
+dog chew toy,corridor,room,"['attic', 'corridor', 'basement', 'attic', 'room']",False
+dogbed,bedroom,bedroom,"['storage room', 'pantry room', 'exercise room', 'bedroom', 'garage']",True
+dollhouse toy,bathroom,family room,"['freezer', 'jar', 'family room', 'bathroom', 'jar']",False
+donut,television room,none,"['jar', 'television room', 'can', 'cellar', 'dumpster']",False
+drawer,kitchen,kitchen,"['basement', 'kitchen', 'trap', 'room', 'storage room']",True
+dresser,bedroom,bedroom,"['bedroom', 'house', 'utility room', 'utility room', 'oven']",True
+drink,can,none,"['can', 'house', 'home office', 'closet', 'family room']",False
+drink coaster,playroom,room,"['cellar', 'playroom', 'house', 'jar', 'room']",False
+dryer,basement,basement,"['television room', 'basement', 'playroom', 'living room', 'closet']",True
+duct tape,dining room,room,"['dining room', 'room', 'trap', 'room', 'dumpster']",False
+dumbbell,bedroom,basement,"['bedroom', 'oven', 'freezer', 'attic', 'basement']",False
+dumbbell rack,living room,room,"['living room', 'can', 'can', 'room', 'room']",False
+dustpan and brush,television room,house,"['house', 'television room', 'can', 'freezer', 'can']",False
+dutch oven,kitchen,kitchen,"['box', 'family room', 'house', 'kitchen', 'freezer']",True
+easter basket,bedroom,family room,"['bedroom', 'attic', 'family room', 'dumpster', 'jar']",False
+egg,kitchen,kitchen,"['oven', 'house', 'kitchen', 'oven', 'television room']",True
+electric heater,pantry room,room,"['trap', 'room', 'family room', 'oven', 'pantry room']",False
+electric toothbrush,closet,closet,"['freezer', 'cellar', 'closet', 'house', 'bar']",True
+electronic adapter,kitchen,kitchen,"['dumpster', 'trap', 'can', 'oven', 'kitchen']",True
+electronic cable,living room,living room,"['can', 'oven', 'bar', 'can', 'living room']",True
+face moisturizer,television room,none,"['family room', 'freezer', 'oven', 'television room', 'can']",False
+faucet,bathroom,bathroom,"['bar', 'dining room', 'attic', 'bathroom', 'room']",True
+file sorter,living room,living room,"['freezer', 'living room', 'house', 'house', 'house']",True
+fingerpaint,kitchen,kitchen,"['trap', 'kitchen', 'house', 'attic', 'freezer']",True
+fitness tracker wristband,utility room,basement,"['basement', 'house', 'can', 'utility room', 'basement']",False
+flashlight,childs room,childs room,"['dumpster', 'dumpster', 'jar', 'childs room', 'house']",True
+flat screwdriver,exercise room,basement,"['basement', 'trap', 'box', 'exercise room', 'oven']",False
+floor,living room,basement,"['living room', 'dumpster', 'basement', 'television room', 'exercise room']",False
+floorlamp,living room,living room,"['lobby', 'living room', 'trap', 'box', 'attic']",True
+foam brick,television room,none,"['can', 'trap', 'television room', 'bar', 'can']",False
+folder,corridor,basement,"['basement', 'corridor', 'dumpster', 'box', 'family room']",False
+fondant,playroom,none,"['playroom', 'trap', 'box', 'basement', 'family room']",False
+footstool,bathroom,dining room,"['cellar', 'dining room', 'bathroom', 'basement', 'storage room']",False
+fork,kitchen,kitchen,"['box', 'basement', 'kitchen', 'house', 'house']",True
+fridge,kitchen,kitchen,"['bathroom', 'home office', 'basement', 'kitchen', 'basement']",True
+fruit snack,utility room,none,"['family room', 'jar', 'utility room', 'can', 'cellar']",False
+furnace,basement,basement,"['jar', 'basement', 'living room', 'box', 'bathroom']",True
+garbage,dumpster,dumpster,"['dumpster', 'basement', 'box', 'can', 'living room']",True
+garbagebag,kitchen,dumpster,"['kitchen', 'dumpster', 'utility room', 'dining room', 'attic']",False
+garbagecan,kitchen,kitchen,"['garage', 'room', 'exercise room', 'kitchen', 'room']",True
+gelatin box,closet,freezer,"['bar', 'dumpster', 'closet', 'house', 'freezer']",False
+glove,childs room,attic,"['dumpster', 'attic', 'attic', 'childs room', 'jar']",False
+golf ball,living room,living room,"['living room', 'trap', 'freezer', 'oven', 'family room']",True
+graphics card,living room,cellar,"['cellar', 'family room', 'living room', 'house', 'oven']",False
+hair color,playroom,box,"['box', 'trap', 'freezer', 'cellar', 'playroom']",False
+hair conditioner,dining room,none,"['dining room', 'dumpster', 'cellar', 'attic', 'house']",False
+hair dryer,bathroom,bathroom,"['family room', 'family room', 'bathroom', 'can', 'trap']",True
+hair straightener,exercise room,box,"['oven', 'basement', 'box', 'exercise room', 'can']",False
+hammer,home office,cellar,"['oven', 'cellar', 'dumpster', 'home office', 'family room']",False
+hand bell,dining room,dining room,"['can', 'cellar', 'trap', 'dining room', 'room']",True
+handbag,exercise room,family room,"['exercise room', 'jar', 'box', 'attic', 'family room']",False
+handtowel,bathroom,bathroom,"['house', 'bathroom', 'can', 'utility room', 'bar']",True
+handtowelholder,bathroom,bathroom,"['dumpster', 'bathroom', 'living room', 'childs room', 'trap']",True
+hard drive,bedroom,bedroom,"['can', 'freezer', 'jar', 'bar', 'bedroom']",True
+hard drive case,living room,living room,"['trap', 'dumpster', 'living room', 'freezer', 'jar']",True
+hat,closet,closet,"['trap', 'room', 'house', 'closet', 'room']",True
+headphone,playroom,playroom,"['can', 'box', 'jar', 'playroom', 'basement']",True
+heavy duty gloves,lobby,room,"['lobby', 'can', 'dumpster', 'can', 'room']",False
+heavy master chef can,corridor,none,"['house', 'attic', 'corridor', 'can', 'house']",False
+helmet,childs room,room,"['room', 'family room', 'childs room', 'cellar', 'dumpster']",False
+herring fillets,bedroom,can,"['room', 'bedroom', 'can', 'basement', 'can']",False
+honey dipper,bedroom,bar,"['bedroom', 'bar', 'cellar', 'trap', 'oven']",False
+houseplant,living room,living room,"['house', 'lobby', 'living room', 'corridor', 'pantry room']",True
+incontinence pads,garage,room,"['oven', 'can', 'garage', 'room', 'dumpster']",False
+ink cartridge,childs room,house,"['oven', 'oven', 'dumpster', 'childs room', 'house']",False
+instant camera,television room,family room,"['trap', 'television room', 'trap', 'family room', 'basement']",False
+invitation card,lobby,family room,"['box', 'cellar', 'family room', 'jar', 'lobby']",False
+jar,closet,cellar,"['jar', 'oven', 'freezer', 'closet', 'cellar']",False
+jenga,playroom,playroom,"['house', 'room', 'playroom', 'room', 'cellar']",True
+jewelry box,exercise room,attic,"['attic', 'box', 'exercise room', 'freezer', 'can']",False
+kettle,kitchen,kitchen,"['house', 'kitchen', 'corridor', 'home office', 'attic']",True
+keyboard,home office,home office,"['room', 'home office', 'can', 'can', 'family room']",True
+keychain,living room,garage,"['house', 'television room', 'living room', 'garage', 'exercise room']",False
+knife,kitchen,kitchen,"['oven', 'kitchen', 'bar', 'can', 'dumpster']",True
+knife block,bedroom,none,"['basement', 'oven', 'bedroom', 'cellar', 'family room']",False
+labeling tape,bedroom,cellar,"['cellar', 'oven', 'can', 'family room', 'bedroom']",False
+ladle,kitchen,kitchen,"['jar', 'kitchen', 'garage', 'home office', 'dining room']",True
+lamp,bedroom,bedroom,"['bedroom', 'basement', 'attic', 'cellar', 'bar']",True
+lantern,bathroom,house,"['jar', 'house', 'house', 'bathroom', 'can']",False
+laptop,bedroom,bedroom,"['bedroom', 'jar', 'attic', 'jar', 'trap']",True
+laptop cover,childs room,childs room,"['oven', 'childs room', 'cellar', 'dumpster', 'box']",True
+laptop stand,childs room,childs room,"['trap', 'childs room', 'trap', 'freezer', 'trap']",True
+large marker,dining room,dining room,"['trap', 'bar', 'box', 'dining room', 'can']",True
+laundry box,home office,home office,"['box', 'home office', 'house', 'jar', 'house']",True
+laundryhamper,bedroom,bedroom,"['exercise room', 'bedroom', 'attic', 'kitchen', 'garage']",True
+laxative,dining room,can,"['box', 'box', 'dining room', 'can', 'trap']",False
+lego duplo,dining room,house,"['can', 'house', 'bar', 'cellar', 'dining room']",False
+lemon,exercise room,bar,"['bar', 'room', 'exercise room', 'bar', 'family room']",False
+letter holder,storage room,storage room,"['oven', 'storage room', 'cellar', 'box', 'basement']",True
+lettuce,kitchen,kitchen,"['lobby', 'oven', 'can', 'basement', 'kitchen']",True
+light bulb,bedroom,basement,"['basement', 'trap', 'can', 'bedroom', 'freezer']",False
+lightswitch,living room,family room,"['dining room', 'living room', 'home office', 'garage', 'family room']",False
+lime squeezer,storage room,none,"['trap', 'storage room', 'jar', 'attic', 'oven']",False
+lipstick,home office,bar,"['home office', 'trap', 'attic', 'bar', 'house']",False
+lunch bag,storage room,storage room,"['oven', 'storage room', 'jar', 'bar', 'bar']",True
+lunch box,dining room,dining room,"['dining room', 'cellar', 'can', 'basement', 'jar']",True
+magnifying glass,utility room,family room,"['family room', 'utility room', 'room', 'room', 'room']",False
+mascara,lobby,room,"['bar', 'dumpster', 'room', 'trap', 'lobby']",False
+master chef can,television room,freezer,"['television room', 'attic', 'room', 'attic', 'freezer']",False
+measuring tape,playroom,basement,"['cellar', 'jar', 'playroom', 'basement', 'trap']",False
+medicine,home office,home office,"['home office', 'family room', 'jar', 'dumpster', 'trap']",True
+microwave,kitchen,kitchen,"['kitchen', 'bedroom', 'family room', 'oven', 'exercise room']",True
+milk fror,kitchen,freezer,"['can', 'family room', 'dumpster', 'freezer', 'kitchen']",False
+mini soccer ball,garage,garage,"['jar', 'box', 'garage', 'dumpster', 'basement']",True
+mirror,living room,living room,"['oven', 'basement', 'family room', 'cellar', 'living room']",True
+morboard,closet,attic,"['closet', 'attic', 'house', 'family room', 'oven']",False
+mouse,living room,living room,"['living room', 'room', 'jar', 'freezer', 'jar']",True
+mouse pad,living room,living room,"['trap', 'living room', 'basement', 'family room', 'trap']",True
+movie dvd,playroom,playroom,"['playroom', 'oven', 'oven', 'jar', 'bar']",True
+mug,kitchen,kitchen,"['house', 'room', 'basement', 'kitchen', 'cellar']",True
+multiport hub,corridor,room,"['room', 'corridor', 'house', 'dumpster', 'dumpster']",False
+mustard bottle,lobby,bar,"['lobby', 'bar', 'oven', 'bar', 'cellar']",False
+neck rest,living room,living room,"['oven', 'can', 'house', 'box', 'living room']",True
+newspaper,living room,living room,"['basement', 'home office', 'living room', 'box', 'dining room']",True
+nine hole peg test,bedroom,box,"['box', 'bedroom', 'dumpster', 'family room', 'bar']",False
+nintendo switch,television room,room,"['room', 'television room', 'jar', 'house', 'trap']",False
+orange,pantry room,pantry room,"['pantry room', 'room', 'oven', 'family room', 'can']",True
+ottoman,living room,living room,"['bedroom', 'exercise room', 'childs room', 'bar', 'living room']",True
+padlock,lobby,cellar,"['lobby', 'jar', 'cellar', 'bar', 'cellar']",False
+paint bottle set,playroom,basement,"['room', 'freezer', 'basement', 'playroom', 'jar']",False
+paint maker,utility room,basement,"['basement', 'utility room', 'family room', 'cellar', 'basement']",False
+painting,living room,living room,"['closet', 'living room', 'bar', 'exercise room', 'dumpster']",True
+pan,kitchen,kitchen,"['room', 'kitchen', 'house', 'jar', 'room']",True
+paper bag,garage,garage,"['box', 'oven', 'family room', 'house', 'garage']",True
+papertowelroll,bathroom,none,"['pantry room', 'closet', 'jar', 'bathroom', 'utility room']",False
+parchment sheet,dining room,room,"['room', 'oven', 'attic', 'dining room', 'freezer']",False
+peach,television room,jar,"['room', 'trap', 'television room', 'jar', 'family room']",False
+pear,utility room,none,"['house', 'oven', 'family room', 'utility room', 'oven']",False
+peg and hammer toy,playroom,playroom,"['playroom', 'freezer', 'freezer', 'jar', 'can']",True
+pen,bedroom,bedroom,"['box', 'cellar', 'bedroom', 'house', 'exercise room']",True
+pencil,bedroom,childs room,"['childs room', 'bedroom', 'can', 'bathroom', 'room']",False
+pencil case,television room,box,"['television room', 'box', 'dumpster', 'jar', 'can']",False
+peppermint,pantry room,pantry room,"['jar', 'box', 'oven', 'pantry room', 'freezer']",True
+peppershaker,kitchen,kitchen,"['family room', 'kitchen', 'room', 'living room', 'childs room']",True
+pepsi can pack,garage,dumpster,"['jar', 'dumpster', 'freezer', 'family room', 'garage']",False
+pet food supplement,pantry room,pantry room,"['family room', 'cellar', 'jar', 'cellar', 'pantry room']",True
+phillips screwdriver,exercise room,can,"['can', 'family room', 'exercise room', 'room', 'room']",False
+phone armband case,pantry room,room,"['dumpster', 'freezer', 'room', 'basement', 'pantry room']",False
+phone stand,home office,home office,"['room', 'cellar', 'family room', 'home office', 'freezer']",True
+picture frame,utility room,bar,"['bar', 'utility room', 'dumpster', 'freezer', 'cellar']",False
+pie,oven,none,"['living room', 'oven', 'storage room', 'bedroom', 'dining room']",False
+pillow,bedroom,bedroom,"['bar', 'box', 'house', 'attic', 'bedroom']",True
+pitcher base,home office,bar,"['cellar', 'jar', 'bar', 'house', 'home office']",False
+plant,living room,living room,"['oven', 'living room', 'can', 'cellar', 'freezer']",True
+plant container,garage,family room,"['garage', 'bar', 'house', 'family room', 'attic']",False
+plant saucer,living room,living room,"['box', 'living room', 'freezer', 'dumpster', 'dumpster']",True
+plate,living room,none,"['bar', 'family room', 'living room', 'oven', 'box']",False
+plum,pantry room,pantry room,"['cellar', 'trap', 'pantry room', 'cellar', 'box']",True
+plunger,bathroom,bathroom,"['trap', 'basement', 'bathroom', 'house', 'dining room']",True
+portable speaker,playroom,playroom,"['oven', 'playroom', 'oven', 'house', 'attic']",True
+poster,bedroom,bedroom,"['corridor', 'freezer', 'bedroom', 'dining room', 'family room']",True
+pot,kitchen,kitchen,"['storage room', 'kitchen', 'freezer', 'bathroom', 'room']",True
+potato,kitchen,kitchen,"['kitchen', 'playroom', 'childs room', 'exercise room', 'living room']",True
+potted meat can,corridor,can,"['corridor', 'box', 'can', 'freezer', 'jar']",False
+power drill,kitchen,house,"['house', 'room', 'kitchen', 'jar', 'can']",False
+pressure cooker,home office,none,"['family room', 'dumpster', 'trap', 'home office', 'can']",False
+pudding box,utility room,freezer,"['utility room', 'freezer', 'box', 'attic', 'oven']",False
+puzzle game,utility room,utility room,"['freezer', 'dumpster', 'utility room', 'jar', 'freezer']",True
+racquetball,playroom,basement,"['house', 'playroom', 'basement', 'freezer', 'family room']",False
+ramekin,playroom,none,"['can', 'bar', 'trap', 'playroom', 'cellar']",False
+remote control,exercise room,family room,"['jar', 'jar', 'exercise room', 'bar', 'family room']",False
+remotecontrol,bedroom,family room,"['family room', 'bedroom', 'basement', 'dining room', 'childs room']",False
+rmal laminator,living room,bar,"['can', 'can', 'freezer', 'bar', 'living room']",False
+roast,oven,oven,"['childs room', 'bathroom', 'oven', 'trap', 'closet']",True
+roomdecor,living room,living room,"['pantry room', 'living room', 'box', 'cellar', 'dumpster']",True
+router,bedroom,basement,"['basement', 'house', 'dumpster', 'family room', 'bedroom']",False
+rubiks cube,home office,home office,"['can', 'bar', 'cellar', 'basement', 'home office']",True
+safe,living room,attic,"['attic', 'living room', 'attic', 'box', 'jar']",False
+salt shaker,bathroom,family room,"['dumpster', 'family room', 'bathroom', 'trap', 'box']",False
+saltshaker,kitchen,kitchen,"['dining room', 'house', 'freezer', 'lobby', 'kitchen']",True
+sanitary pads,bedroom,bedroom,"['trap', 'jar', 'trap', 'bedroom', 'can']",True
+saucer,kitchen,kitchen,"['oven', 'dumpster', 'dumpster', 'kitchen', 'freezer']",True
+saute pan,kitchen,kitchen,"['dumpster', 'room', 'kitchen', 'box', 'freezer']",True
+scissors,exercise room,house,"['dumpster', 'cellar', 'exercise room', 'freezer', 'house']",False
+scrubbrush,bathroom,bathroom,"['television room', 'room', 'storage room', 'bathroom', 'basement']",True
+set-top box,bathroom,house,"['trap', 'oven', 'house', 'trap', 'bathroom']",False
+shelf,bedroom,bedroom,"['basement', 'television room', 'trap', 'bedroom', 'basement']",True
+shelvingunit,bedroom,attic,"['bar', 'attic', 'television room', 'bedroom', 'playroom']",False
+shoe,closet,closet,"['closet', 'oven', 'cellar', 'bar', 'cellar']",True
+shoe box,corridor,corridor,"['freezer', 'bar', 'corridor', 'can', 'oven']",True
+showercurtain,bathroom,bathroom,"['room', 'storage room', 'pantry room', 'cellar', 'bathroom']",True
+showerdoor,bathroom,bathroom,"['kitchen', 'kitchen', 'corridor', 'television room', 'bathroom']",True
+showerglass,bathroom,bathroom,"['dining room', 'dining room', 'basement', 'bathroom', 'attic']",True
+showerhead,bathroom,bathroom,"['bathroom', 'dining room', 'cellar', 'exercise room', 'bar']",True
+shredder,pantry room,room,"['pantry room', 'can', 'freezer', 'room', 'trap']",False
+sidetable,living room,living room,"['family room', 'oven', 'living room', 'closet', 'corridor']",True
+sidewalk chalk,living room,family room,"['living room', 'oven', 'can', 'dumpster', 'family room']",False
+sink,kitchen,kitchen,"['television room', 'childs room', 'attic', 'closet', 'kitchen']",True
+sinkbasin,bathroom,bathroom,"['family room', 'lobby', 'garage', 'freezer', 'bathroom']",True
+skillet,exercise room,house,"['trap', 'house', 'trap', 'exercise room', 'box']",False
+skillet lid,closet,closet,"['attic', 'closet', 'can', 'box', 'room']",True
+skin care product,corridor,bar,"['freezer', 'trap', 'cellar', 'corridor', 'bar']",False
+skin moisturizer,bathroom,bathroom,"['bathroom', 'house', 'box', 'house', 'attic']",True
+snack cake,lobby,none,"['box', 'room', 'trap', 'lobby', 'oven']",False
+snack dispenser,utility room,none,"['trap', 'utility room', 'freezer', 'basement', 'house']",False
+soap dish,childs room,basement,"['house', 'can', 'childs room', 'box', 'basement']",False
+soap dispenser,kitchen,kitchen,"['trap', 'kitchen', 'attic', 'cellar', 'box']",True
+soapbar,bathroom,bathroom,"['dining room', 'closet', 'closet', 'television room', 'bathroom']",True
+soapbottle,bathroom,bathroom,"['basement', 'childs room', 'freezer', 'bathroom', 'pantry room']",True
+sofa,living room,living room,"['bathroom', 'living room', 'utility room', 'basement', 'basement']",True
+softball,bedroom,family room,"['freezer', 'oven', 'family room', 'freezer', 'bedroom']",False
+software cd,dining room,attic,"['jar', 'dining room', 'bar', 'bar', 'attic']",False
+sorting toy,playroom,playroom,"['house', 'playroom', 'freezer', 'dumpster', 'bar']",True
+sparkling water,garage,cellar,"['cellar', 'garage', 'jar', 'jar', 'freezer']",False
+spatula,kitchen,kitchen,"['family room', 'house', 'cellar', 'house', 'kitchen']",True
+spider,cellar,cellar,"['bedroom', 'cellar', 'bedroom', 'pantry room', 'television room']",True
+sponge,utility room,utility room,"['basement', 'utility room', 'attic', 'family room', 'box']",True
+sponge dish,pantry room,none,"['pantry room', 'basement', 'bar', 'trap', 'can']",False
+spoon,kitchen,kitchen,"['kitchen', 'can', 'bar', 'room', 'attic']",True
+spoon rest,bathroom,none,"['attic', 'oven', 'bathroom', 'family room', 'dumpster']",False
+spraybottle,bathroom,bathroom,"['jar', 'jar', 'dumpster', 'freezer', 'bathroom']",True
+stacking cups,closet,room,"['room', 'trap', 'basement', 'family room', 'closet']",False
+stand mixer,pantry room,pantry room,"['bar', 'family room', 'pantry room', 'attic', 'bar']",True
+statue,kitchen,dining room,"['kitchen', 'can', 'dining room', 'can', 'house']",False
+steak,freezer,freezer,"['childs room', 'television room', 'exercise room', 'family room', 'freezer']",True
+stool,kitchen,kitchen,"['childs room', 'trap', 'corridor', 'kitchen', 'house']",True
+storage bin,closet,basement,"['trap', 'cellar', 'basement', 'closet', 'basement']",False
+stoveburner,kitchen,kitchen,"['bar', 'box', 'closet', 'kitchen', 'freezer']",True
+stoveknob,kitchen,kitchen,"['garage', 'pantry room', 'bathroom', 'pantry room', 'kitchen']",True
+strawberry,storage room,freezer,"['freezer', 'can', 'freezer', 'storage room', 'oven']",False
+string lights,bedroom,bedroom,"['freezer', 'dumpster', 'dumpster', 'bedroom', 'oven']",True
+stuffed toy,kitchen,family room,"['cellar', 'house', 'family room', 'house', 'kitchen']",False
+sugar box,utility room,none,"['freezer', 'room', 'utility room', 'basement', 'family room']",False
+sugar sprinkles,dining room,none,"['room', 'oven', 'family room', 'dining room', 'bar']",False
+surface saver ring,exercise room,bar,"['trap', 'oven', 'exercise room', 'bar', 'basement']",False
+sushi mat,exercise room,none,"['exercise room', 'trap', 'room', 'jar', 'attic']",False
+table,bedroom,home office,"['home office', 'jar', 'pantry room', 'playroom', 'bedroom']",False
+table lamp,dining room,dining room,"['dumpster', 'attic', 'box', 'dining room', 'jar']",True
+tablet,pantry room,house,"['freezer', 'pantry room', 'house', 'box', 'freezer']",False
+tablet holder,dining room,dining room,"['jar', 'can', 'house', 'dining room', 'jar']",True
+tablet stand,playroom,playroom,"['dumpster', 'playroom', 'jar', 'freezer', 'freezer']",True
+tabletopdecor,bedroom,bedroom,"['bar', 'exercise room', 'bedroom', 'dumpster', 'exercise room']",True
+tampon,childs room,none,"['can', 'can', 'childs room', 'house', 'attic']",False
+tea can pack,kitchen,kitchen,"['basement', 'attic', 'kitchen', 'box', 'house']",True
+tea pods,lobby,can,"['attic', 'lobby', 'can', 'basement', 'jar']",False
+teapot,storage room,storage room,"['storage room', 'oven', 'basement', 'trap', 'box']",True
+teddybear,bedroom,childs room,"['bedroom', 'childs room', 'television room', 'house', 'oven']",False
+television,bedroom,bedroom,"['jar', 'childs room', 'bedroom', 'freezer', 'utility room']",True
+tennis ball,storage room,storage room,"['oven', 'attic', 'storage room', 'house', 'oven']",True
+tennisracket,bedroom,closet,"['bedroom', 'closet', 'oven', 'box', 'television room']",False
+tissuebox,living room,room,"['childs room', 'can', 'room', 'home office', 'living room']",False
+toaster,kitchen,kitchen,"['kitchen', 'box', 'attic', 'trap', 'basement']",True
+toilet,bathroom,bathroom,"['bar', 'bathroom', 'utility room', 'attic', 'storage room']",True
+toiletpaper,bathroom,bathroom,"['bathroom', 'oven', 'lobby', 'garage', 'basement']",True
+toiletpaperhanger,bathroom,bathroom,"['bedroom', 'bathroom', 'box', 'exercise room', 'television room']",True
+tomato,kitchen,kitchen,"['closet', 'cellar', 'freezer', 'attic', 'kitchen']",True
+tomato soup can,childs room,cellar,"['bar', 'cellar', 'bar', 'attic', 'childs room']",False
+toothbrush holder,kitchen,kitchen,"['bar', 'room', 'kitchen', 'jar', 'basement']",True
+toothbrush pack,utility room,utility room,"['attic', 'trap', 'utility room', 'can', 'box']",True
+towel,bathroom,bathroom,"['box', 'bar', 'bar', 'bathroom', 'freezer']",True
+towelholder,bathroom,bathroom,"['cellar', 'bedroom', 'childs room', 'television room', 'bathroom']",True
+toy,box,box,"['utility room', 'box', 'freezer', 'basement', 'house']",True
+toy airplane,bedroom,attic,"['cellar', 'attic', 'box', 'oven', 'bedroom']",False
+toy animal,corridor,family room,"['can', 'corridor', 'family room', 'box', 'family room']",False
+toy basketball,bedroom,basement,"['room', 'can', 'basement', 'jar', 'bedroom']",False
+toy bowling set,pantry room,cellar,"['freezer', 'can', 'cellar', 'can', 'pantry room']",False
+toy construction set,pantry room,house,"['trap', 'jar', 'pantry room', 'house', 'can']",False
+toy fishing,bedroom,bedroom,"['bedroom', 'oven', 'cellar', 'oven', 'freezer']",True
+toy food,garage,none,"['freezer', 'attic', 'cellar', 'cellar', 'garage']",False
+toy furniture set,utility room,family room,"['house', 'cellar', 'utility room', 'freezer', 'family room']",False
+toy instrument,utility room,house,"['house', 'box', 'jar', 'utility room', 'oven']",False
+toy kitchen set,utility room,family room,"['family room', 'utility room', 'can', 'oven', 'dumpster']",False
+toy tool kit,utility room,utility room,"['can', 'house', 'jar', 'oven', 'utility room']",True
+toy vehicle,bathroom,house,"['bathroom', 'bar', 'house', 'attic', 'can']",False
+tray,living room,bar,"['house', 'house', 'attic', 'living room', 'bar']",False
+tumbler,garage,bar,"['box', 'bar', 'oven', 'family room', 'garage']",False
+tv,family room,living room,"['jar', 'family room', 'living room', 'room', 'television room']",False
+tvstand,living room,room,"['childs room', 'room', 'room', 'storage room', 'living room']",False
+umbrella,home office,house,"['home office', 'house', 'room', 'basement', 'house']",False
+usb drive,television room,basement,"['television room', 'trap', 'basement', 'family room', 'oven']",False
+utensil holder,home office,none,"['box', 'dumpster', 'home office', 'attic', 'house']",False
+vacuumcleaner,bedroom,garage,"['oven', 'dumpster', 'corridor', 'garage', 'bedroom']",False
+vase,bedroom,bedroom,"['bedroom', 'box', 'basement', 'cellar', 'can']",True
+video game,lobby,box,"['can', 'lobby', 'trap', 'box', 'jar']",False
+vinyl tape,bathroom,room,"['bar', 'trap', 'room', 'bathroom', 'can']",False
+virtual reality viewer,utility room,utility room,"['can', 'oven', 'trap', 'utility room', 'box']",True
+wardrobe,room,room,"['dining room', 'freezer', 'jar', 'trap', 'room']",True
+washcloth,exercise room,bar,"['bar', 'room', 'can', 'exercise room', 'cellar']",False
+waste basket,playroom,basement,"['playroom', 'bar', 'basement', 'basement', 'trap']",False
+watch,bedroom,bedroom,"['can', 'bedroom', 'family room', 'basement', 'storage room']",True
+water bottle,bathroom,bathroom,"['cellar', 'bathroom', 'oven', 'oven', 'can']",True
+wateringcan,living room,can,"['living room', 'can', 'trap', 'childs room', 'dumpster']",False
+weight loss guide,childs room,basement,"['basement', 'box', 'attic', 'house', 'childs room']",False
+whale whistle,bedroom,bar,"['jar', 'bar', 'bedroom', 'jar', 'attic']",False
+window,bathroom,family room,"['family room', 'bathroom', 'closet', 'lobby', 'jar']",False
+wine glass,kitchen,kitchen,"['pantry room', 'oven', 'kitchen', 'house', 'living room']",True
+winebottle,kitchen,kitchen,"['kitchen', 'oven', 'jar', 'family room', 'playroom']",True
+wipe warmer,closet,closet,"['dumpster', 'closet', 'box', 'box', 'oven']",True
+wireless accessory,television room,television room,"['television room', 'basement', 'attic', 'bar', 'can']",True
+xylitol sweetener,garage,none,"['cellar', 'family room', 'box', 'house', 'garage']",False

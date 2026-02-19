@@ -1,0 +1,8044 @@
+question,full_answer,final_answer,correct_answer
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: action figure
+Locations: bar, childs room, dumpster, freezer, basement
+Your Choice:",childs room,childs room,childs room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: adjustable wrench
+Locations: bar, room, childs room, box, house
+Your Choice:",box,box,childs room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: alarmclock
+Locations: freezer, television room, cellar, trap, bedroom
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: aluminumfoil
+Locations: basement, television room, kitchen, living room, attic
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: android figure
+Locations: jar, exercise room, oven, basement, dumpster
+Your Choice:",basement,basement,exercise room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: anti slip tape
+Locations: can, oven, oven, can, bedroom
+Your Choice:",can,can,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: antidepressant
+Locations: bar, playroom, family room, jar, room
+Your Choice:",room,room,playroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: apple
+Locations: oven, kitchen, oven, family room, room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: armchair
+Locations: living room, freezer, freezer, lobby, can
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: backpack
+Locations: storage room, box, oven, family room, trap
+Your Choice:",storage room,storage room,storage room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: balancing cactus
+Locations: house, freezer, dumpster, dining room, bar
+Your Choice:",bar,bar,dining room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: banana
+Locations: pantry room, bar, family room, dumpster, attic
+Your Choice:",pantry room,pantry room,pantry room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: baseball
+Locations: room, freezer, freezer, bedroom, box
+Your Choice:",room,room,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: baseballbat
+Locations: house, box, bedroom, bathroom, jar
+Your Choice:",house,house,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: basketball
+Locations: freezer, attic, trap, bedroom, jar
+Your Choice:",attic,attic,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: bat
+Locations: freezer, attic, box, family room, home office
+Your Choice:",attic,attic,attic
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: bath sheet
+Locations: room, jar, dumpster, dining room, cellar
+Your Choice:",cellar,cellar,dining room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: bathtub
+Locations: exercise room, living room, family room, bathroom, attic
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: bathtubbasin
+Locations: garage, living room, bathroom, room, can
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: batter
+Locations: garage, box, dumpster, dining room, childs room
+Your Choice:",kitchen,None,box
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: battery
+Locations: house, can, oven, storage room, family room
+Your Choice:",storage room,storage room,storage room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: beard color gel
+Locations: trap, trap, bar, oven, playroom
+Your Choice:",bar,bar,playroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: beauty pack
+Locations: can, jar, family room, utility room, oven
+Your Choice:",utility room,utility room,utility room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: bed
+Locations: childs room, living room, home office, bathroom, bedroom
+Your Choice:",Bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: bleach cleanser
+Locations: oven, attic, family room, room, kitchen
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: blender jar
+Locations: bar, dining room, attic, jar, family room
+Your Choice:",bar,bar,dining room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: blind
+Locations: playroom, trap, basement, attic, kitchen
+Your Choice:",attic,attic,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: board game
+Locations: jar, trap, freezer, dumpster, lobby
+Your Choice:",lobby,lobby,lobby
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: book
+Locations: attic, house, bedroom, box, oven
+Your Choice:",Bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: bookend
+Locations: bar, playroom, attic, freezer, family room
+Your Choice:",family room,family room,playroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: boot
+Locations: house, bedroom, corridor, kitchen, closet
+Your Choice:",Closet,closet,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: bottle
+Locations: childs room, closet, house, kitchen, dumpster
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: bowl
+Locations: kitchen, box, house, bar, can
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: box
+Locations: trap, living room, house, oven, bar
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: bread
+Locations: utility room, kitchen, dumpster, childs room, corridor
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: bundt pan
+Locations: trap, jar, corridor, attic, room
+Your Choice:",room,room,corridor
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: butter dish
+Locations: dining room, bar, freezer, attic, trap
+Your Choice:",dining room,dining room,dining room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: butterknife
+Locations: bathroom, kitchen, childs room, family room, bedroom
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: cabinet
+Locations: closet, pantry room, kitchen, trap, childs room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: cake mix
+Locations: can, room, can, trap, exercise room
+Your Choice:",kitchen,None,exercise room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: cake pan
+Locations: jar, bar, storage room, freezer, box
+Your Choice:",storage room,storage room,storage room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: camera
+Locations: bar, family room, bedroom, bar, house
+Your Choice:",family room,family room,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: can opener
+Locations: cellar, trap, dumpster, garage, dumpster
+Your Choice:",kitchen,None,garage
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: candle
+Locations: bar, bathroom, bedroom, bedroom, childs room
+Your Choice:",Bedroom,bedroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: candle holder
+Locations: can, bathroom, cellar, attic, family room
+Your Choice:",family room,family room,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: candy
+Locations: box, oven, cellar, bedroom, box
+Your Choice:",box,box,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: candy bar
+Locations: oven, playroom, cellar, cellar, basement
+Your Choice:",playroom,playroom,playroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: canister
+Locations: dumpster, dining room, cellar, trap, jar
+Your Choice:",cellar,cellar,dining room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: card game
+Locations: basement, dining room, jar, dumpster, bar
+Your Choice:",dining room,dining room,dining room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: carrying case
+Locations: childs room, box, freezer, oven, trap
+Your Choice:",childs room,childs room,childs room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: casserole dish
+Locations: basement, trap, oven, home office, box
+Your Choice:",oven,oven,home office
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: cd
+Locations: bedroom, lobby, box, house, kitchen
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: cellphone
+Locations: room, living room, exercise room, trap, bathroom
+Your Choice:",room,room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: cereal
+Locations: jar, basement, cellar, exercise room, bar
+Your Choice:",kitchen,None,exercise room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: chain
+Locations: bar, family room, playroom, bar, cellar
+Your Choice:",cellar,cellar,playroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: chair
+Locations: dining room, home office, bedroom, exercise room, cellar
+Your Choice:",dining room,dining room,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: chocolate
+Locations: freezer, exercise room, can, trap, family room
+Your Choice:",freezer,freezer,exercise room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: chocolate box
+Locations: trap, exercise room, jar, attic, cellar
+Your Choice:",cellar,cellar,exercise room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: chocolate milk pods
+Locations: freezer, television room, attic, freezer, room
+Your Choice:",freezer,freezer,television room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: chocolate powder
+Locations: dumpster, house, freezer, television room, bar
+Your Choice:",bar,bar,television room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: chopping board
+Locations: can, room, freezer, basement, dining room
+Your Choice:",kitchen,None,dining room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: clamp
+Locations: attic, attic, jar, childs room, trap
+Your Choice:",attic,attic,childs room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: clay
+Locations: freezer, family room, freezer, bathroom, bar
+Your Choice:",family room,family room,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: clock
+Locations: dumpster, home office, room, trap, house
+Your Choice:",home office,home office,home office
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: cloth
+Locations: dumpster, bathroom, family room, freezer, box
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: coffee beans
+Locations: trap, oven, closet, box, attic
+Your Choice:",closet,closet,closet
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: coffee pods
+Locations: freezer, jar, basement, playroom, cellar
+Your Choice:",kitchen,None,playroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: coffeemachine
+Locations: lobby, childs room, pantry room, kitchen, jar
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: coffeemaker
+Locations: room, bar, bathroom, freezer, freezer
+Your Choice:",bar,bar,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: coffeetable
+Locations: kitchen, utility room, living room, corridor, house
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: colored wood blocks
+Locations: family room, box, bathroom, cellar, attic
+Your Choice:",family room,family room,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: condiment
+Locations: family room, dumpster, room, home office, trap
+Your Choice:",kitchen,None,home office
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: countertop
+Locations: oven, utility room, oven, bedroom, corridor
+Your Choice:",kitchen,None,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: cracker box
+Locations: room, trap, attic, can, bathroom
+Your Choice:",kitchen,None,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: crayon
+Locations: trap, house, exercise room, freezer, room
+Your Choice:",room,room,exercise room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: creditcard
+Locations: bedroom, house, pantry room, bathroom, lobby
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: cube storage box
+Locations: cellar, basement, freezer, lobby, bar
+Your Choice:",basement,basement,lobby
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: cup
+Locations: kitchen, trap, trap, can, family room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: curtain
+Locations: pantry room, bar, dining room, house, bedroom
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: cushion
+Locations: attic, room, house, room, television room
+Your Choice:",room,room,television room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: desk
+Locations: attic, childs room, living room, jar, house
+Your Choice:",childs room,childs room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: desk caddy
+Locations: box, attic, jar, childs room, family room
+Your Choice:",family room,family room,childs room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: desklamp
+Locations: playroom, living room, jar, dining room, utility room
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: desktop
+Locations: bedroom, bar, dumpster, cellar, corridor
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: diaper pack
+Locations: attic, can, trap, can, home office
+Your Choice:",home office,home office,home office
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: dietary supplement
+Locations: cellar, jar, basement, storage room, cellar
+Your Choice:",kitchen,None,storage room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: diningtable
+Locations: kitchen, corridor, pantry room, freezer, closet
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: dish drainer
+Locations: family room, freezer, exercise room, trap, cellar
+Your Choice:",kitchen,None,exercise room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: dishsponge
+Locations: house, lobby, box, house, bathroom
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: dishtowel
+Locations: lobby, cellar, cellar, dumpster, oven
+Your Choice:",cellar,cellar,lobby
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: dishwasher
+Locations: playroom, dining room, childs room, kitchen, playroom
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: dispensing closure
+Locations: basement, bar, television room, cellar, dumpster
+Your Choice:",basement,basement,television room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: dog bowl
+Locations: freezer, garage, attic, oven, trap
+Your Choice:",garage,garage,garage
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: dog chew toy
+Locations: attic, corridor, basement, attic, room
+Your Choice:",room,room,corridor
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: dogbed
+Locations: storage room, pantry room, exercise room, bedroom, garage
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: dollhouse toy
+Locations: freezer, jar, family room, bathroom, jar
+Your Choice:",family room,family room,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: donut
+Locations: jar, television room, can, cellar, dumpster
+Your Choice:",kitchen,None,television room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: drawer
+Locations: basement, kitchen, trap, room, storage room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: dresser
+Locations: bedroom, house, utility room, utility room, oven
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: drink
+Locations: can, house, home office, closet, family room
+Your Choice:",kitchen,None,can
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: drink coaster
+Locations: cellar, playroom, house, jar, room
+Your Choice:",room,room,playroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: dryer
+Locations: television room, basement, playroom, living room, closet
+Your Choice:",basement,basement,basement
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: duct tape
+Locations: dining room, room, trap, room, dumpster
+Your Choice:",room,room,dining room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: dumbbell
+Locations: bedroom, oven, freezer, attic, basement
+Your Choice:",basement,basement,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: dumbbell rack
+Locations: living room, can, can, room, room
+Your Choice:",room,room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: dustpan and brush
+Locations: house, television room, can, freezer, can
+Your Choice:",house,house,television room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: dutch oven
+Locations: box, family room, house, kitchen, freezer
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: easter basket
+Locations: bedroom, attic, family room, dumpster, jar
+Your Choice:",family room,family room,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: egg
+Locations: oven, house, kitchen, oven, television room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: electric heater
+Locations: trap, room, family room, oven, pantry room
+Your Choice:",family room,room,pantry room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: electric toothbrush
+Locations: freezer, cellar, closet, house, bar
+Your Choice:",closet,closet,closet
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: electronic adapter
+Locations: dumpster, trap, can, oven, kitchen
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: electronic cable
+Locations: can, oven, bar, can, living room
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: face moisturizer
+Locations: family room, freezer, oven, television room, can
+Your Choice:","None of the given locations, but based on the pattern of the examples, a more suitable location would be: bathroom.",None,television room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: faucet
+Locations: bar, dining room, attic, bathroom, room
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: file sorter
+Locations: freezer, living room, house, house, house
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: fingerpaint
+Locations: trap, kitchen, house, attic, freezer
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: fitness tracker wristband
+Locations: basement, house, can, utility room, basement
+Your Choice:",basement,basement,utility room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: flashlight
+Locations: dumpster, dumpster, jar, childs room, house
+Your Choice:",childs room,childs room,childs room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: flat screwdriver
+Locations: basement, trap, box, exercise room, oven
+Your Choice:",basement,basement,exercise room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: floor
+Locations: living room, dumpster, basement, television room, exercise room
+Your Choice:",basement,basement,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: floorlamp
+Locations: lobby, living room, trap, box, attic
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: foam brick
+Locations: can, trap, television room, bar, can
+Your Choice:",playroom,None,television room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: folder
+Locations: basement, corridor, dumpster, box, family room
+Your Choice:",basement,basement,corridor
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: fondant
+Locations: playroom, trap, box, basement, family room
+Your Choice:",kitchen,None,playroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: footstool
+Locations: cellar, dining room, bathroom, basement, storage room
+Your Choice:",dining room,dining room,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: fork
+Locations: box, basement, kitchen, house, house
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: fridge
+Locations: bathroom, home office, basement, kitchen, basement
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: fruit snack
+Locations: family room, jar, utility room, can, cellar
+Your Choice:",kitchen,None,utility room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: furnace
+Locations: jar, basement, living room, box, bathroom
+Your Choice:",basement,basement,basement
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: garbage
+Locations: dumpster, basement, box, can, living room
+Your Choice:",dumpster,dumpster,dumpster
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: garbagebag
+Locations: kitchen, dumpster, utility room, dining room, attic
+Your Choice:",dumpster,dumpster,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: garbagecan
+Locations: garage, room, exercise room, kitchen, room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: gelatin box
+Locations: bar, dumpster, closet, house, freezer
+Your Choice:",freezer,freezer,closet
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: glove
+Locations: dumpster, attic, attic, childs room, jar
+Your Choice:",attic,attic,childs room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: golf ball
+Locations: living room, trap, freezer, oven, family room
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: graphics card
+Locations: cellar, family room, living room, house, oven
+Your Choice:",cellar,cellar,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: hair color
+Locations: box, trap, freezer, cellar, playroom
+Your Choice:",box,box,playroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: hair conditioner
+Locations: dining room, dumpster, cellar, attic, house
+Your Choice:",bathroom,None,dining room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: hair dryer
+Locations: family room, family room, bathroom, can, trap
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: hair straightener
+Locations: oven, basement, box, exercise room, can
+Your Choice:",box,box,exercise room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: hammer
+Locations: oven, cellar, dumpster, home office, family room
+Your Choice:",cellar,cellar,home office
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: hand bell
+Locations: can, cellar, trap, dining room, room
+Your Choice:",dining room,dining room,dining room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: handbag
+Locations: exercise room, jar, box, attic, family room
+Your Choice:",family room,family room,exercise room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: handtowel
+Locations: house, bathroom, can, utility room, bar
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: handtowelholder
+Locations: dumpster, bathroom, living room, childs room, trap
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: hard drive
+Locations: can, freezer, jar, bar, bedroom
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: hard drive case
+Locations: trap, dumpster, living room, freezer, jar
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: hat
+Locations: trap, room, house, closet, room
+Your Choice:",Closet,closet,closet
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: headphone
+Locations: can, box, jar, playroom, basement
+Your Choice:",playroom,playroom,playroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: heavy duty gloves
+Locations: lobby, can, dumpster, can, room
+Your Choice:",room,room,lobby
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: heavy master chef can
+Locations: house, attic, corridor, can, house
+Your Choice:",kitchen,None,corridor
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: helmet
+Locations: room, family room, childs room, cellar, dumpster
+Your Choice:",childs room,room,childs room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: herring fillets
+Locations: room, bedroom, can, basement, can
+Your Choice:",can,can,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: honey dipper
+Locations: bedroom, bar, cellar, trap, oven
+Your Choice:",bar,bar,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: houseplant
+Locations: house, lobby, living room, corridor, pantry room
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: incontinence pads
+Locations: oven, can, garage, room, dumpster
+Your Choice:",room,room,garage
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: ink cartridge
+Locations: oven, oven, dumpster, childs room, house
+Your Choice:",house,house,childs room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: instant camera
+Locations: trap, television room, trap, family room, basement
+Your Choice:",family room,family room,television room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: invitation card
+Locations: box, cellar, family room, jar, lobby
+Your Choice:",family room,family room,lobby
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: jar
+Locations: jar, oven, freezer, closet, cellar
+Your Choice:",cellar,cellar,closet
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: jenga
+Locations: house, room, playroom, room, cellar
+Your Choice:",playroom,playroom,playroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: jewelry box
+Locations: attic, box, exercise room, freezer, can
+Your Choice:",attic,attic,exercise room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: kettle
+Locations: house, kitchen, corridor, home office, attic
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: keyboard
+Locations: room, home office, can, can, family room
+Your Choice:",home office,home office,home office
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: keychain
+Locations: house, television room, living room, garage, exercise room
+Your Choice:",garage,garage,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: knife
+Locations: oven, kitchen, bar, can, dumpster
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: knife block
+Locations: basement, oven, bedroom, cellar, family room
+Your Choice:",kitchen,None,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: labeling tape
+Locations: cellar, oven, can, family room, bedroom
+Your Choice:",cellar,cellar,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: ladle
+Locations: jar, kitchen, garage, home office, dining room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: lamp
+Locations: bedroom, basement, attic, cellar, bar
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: lantern
+Locations: jar, house, house, bathroom, can
+Your Choice:",house,house,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: laptop
+Locations: bedroom, jar, attic, jar, trap
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: laptop cover
+Locations: oven, childs room, cellar, dumpster, box
+Your Choice:",childs room,childs room,childs room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: laptop stand
+Locations: trap, childs room, trap, freezer, trap
+Your Choice:",childs room,childs room,childs room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: large marker
+Locations: trap, bar, box, dining room, can
+Your Choice:",dining room,dining room,dining room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: laundry box
+Locations: box, home office, house, jar, house
+Your Choice:",home office,home office,home office
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: laundryhamper
+Locations: exercise room, bedroom, attic, kitchen, garage
+Your Choice:",Bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: laxative
+Locations: box, box, dining room, can, trap
+Your Choice:",can,can,dining room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: lego duplo
+Locations: can, house, bar, cellar, dining room
+Your Choice:",house,house,dining room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: lemon
+Locations: bar, room, exercise room, bar, family room
+Your Choice:",bar,bar,exercise room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: letter holder
+Locations: oven, storage room, cellar, box, basement
+Your Choice:",storage room,storage room,storage room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: lettuce
+Locations: lobby, oven, can, basement, kitchen
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: light bulb
+Locations: basement, trap, can, bedroom, freezer
+Your Choice:",basement,basement,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: lightswitch
+Locations: dining room, living room, home office, garage, family room
+Your Choice:",family room,family room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: lime squeezer
+Locations: trap, storage room, jar, attic, oven
+Your Choice:",kitchen,None,storage room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: lipstick
+Locations: home office, trap, attic, bar, house
+Your Choice:",bar,bar,home office
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: lunch bag
+Locations: oven, storage room, jar, bar, bar
+Your Choice:",storage room,storage room,storage room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: lunch box
+Locations: dining room, cellar, can, basement, jar
+Your Choice:",dining room,dining room,dining room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: magnifying glass
+Locations: family room, utility room, room, room, room
+Your Choice:",family room,family room,utility room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: mascara
+Locations: bar, dumpster, room, trap, lobby
+Your Choice:",room,room,lobby
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: master chef can
+Locations: television room, attic, room, attic, freezer
+Your Choice:",freezer,freezer,television room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: measuring tape
+Locations: cellar, jar, playroom, basement, trap
+Your Choice:",basement,basement,playroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: medicine
+Locations: home office, family room, jar, dumpster, trap
+Your Choice:",home office,home office,home office
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: microwave
+Locations: kitchen, bedroom, family room, oven, exercise room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: milk fror
+Locations: can, family room, dumpster, freezer, kitchen
+Your Choice:",freezer,freezer,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: mini soccer ball
+Locations: jar, box, garage, dumpster, basement
+Your Choice:",Garage,garage,garage
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: mirror
+Locations: oven, basement, family room, cellar, living room
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: morboard
+Locations: closet, attic, house, family room, oven
+Your Choice:",attic,attic,closet
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: mouse
+Locations: living room, room, jar, freezer, jar
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: mouse pad
+Locations: trap, living room, basement, family room, trap
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: movie dvd
+Locations: playroom, oven, oven, jar, bar
+Your Choice:",playroom,playroom,playroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: mug
+Locations: house, room, basement, kitchen, cellar
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: multiport hub
+Locations: room, corridor, house, dumpster, dumpster
+Your Choice:",room,room,corridor
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: mustard bottle
+Locations: lobby, bar, oven, bar, cellar
+Your Choice:",bar,bar,lobby
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: neck rest
+Locations: oven, can, house, box, living room
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: newspaper
+Locations: basement, home office, living room, box, dining room
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: nine hole peg test
+Locations: box, bedroom, dumpster, family room, bar
+Your Choice:",box,box,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: nintendo switch
+Locations: room, television room, jar, house, trap
+Your Choice:",television room,room,television room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: orange
+Locations: pantry room, room, oven, family room, can
+Your Choice:",pantry room,pantry room,pantry room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: ottoman
+Locations: bedroom, exercise room, childs room, bar, living room
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: padlock
+Locations: lobby, jar, cellar, bar, cellar
+Your Choice:",cellar,cellar,lobby
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: paint bottle set
+Locations: room, freezer, basement, playroom, jar
+Your Choice:",basement,basement,playroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: paint maker
+Locations: basement, utility room, family room, cellar, basement
+Your Choice:",basement,basement,utility room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: painting
+Locations: closet, living room, bar, exercise room, dumpster
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: pan
+Locations: room, kitchen, house, jar, room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: paper bag
+Locations: box, oven, family room, house, garage
+Your Choice:",garage,garage,garage
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: papertowelroll
+Locations: pantry room, closet, jar, bathroom, utility room
+Your Choice:",kitchen,None,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: parchment sheet
+Locations: room, oven, attic, dining room, freezer
+Your Choice:",dining room,room,dining room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: peach
+Locations: room, trap, television room, jar, family room
+Your Choice:",jar,jar,television room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: pear
+Locations: house, oven, family room, utility room, oven
+Your Choice:",kitchen,None,utility room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: peg and hammer toy
+Locations: playroom, freezer, freezer, jar, can
+Your Choice:",playroom,playroom,playroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: pen
+Locations: box, cellar, bedroom, house, exercise room
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: pencil
+Locations: childs room, bedroom, can, bathroom, room
+Your Choice:",childs room,childs room,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: pencil case
+Locations: television room, box, dumpster, jar, can
+Your Choice:",box,box,television room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: peppermint
+Locations: jar, box, oven, pantry room, freezer
+Your Choice:",pantry room,pantry room,pantry room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: peppershaker
+Locations: family room, kitchen, room, living room, childs room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: pepsi can pack
+Locations: jar, dumpster, freezer, family room, garage
+Your Choice:",dumpster,dumpster,garage
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: pet food supplement
+Locations: family room, cellar, jar, cellar, pantry room
+Your Choice:",Pantry room,pantry room,pantry room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: phillips screwdriver
+Locations: can, family room, exercise room, room, room
+Your Choice:",can,can,exercise room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: phone armband case
+Locations: dumpster, freezer, room, basement, pantry room
+Your Choice:",room,room,pantry room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: phone stand
+Locations: room, cellar, family room, home office, freezer
+Your Choice:",home office,home office,home office
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: picture frame
+Locations: bar, utility room, dumpster, freezer, cellar
+Your Choice:",bar,bar,utility room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: pie
+Locations: living room, oven, storage room, bedroom, dining room
+Your Choice:",kitchen,None,oven
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: pillow
+Locations: bar, box, house, attic, bedroom
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: pitcher base
+Locations: cellar, jar, bar, house, home office
+Your Choice:",bar,bar,home office
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: plant
+Locations: oven, living room, can, cellar, freezer
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: plant container
+Locations: garage, bar, house, family room, attic
+Your Choice:",family room,family room,garage
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: plant saucer
+Locations: box, living room, freezer, dumpster, dumpster
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: plate
+Locations: bar, family room, living room, oven, box
+Your Choice:",kitchen,None,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: plum
+Locations: cellar, trap, pantry room, cellar, box
+Your Choice:",Pantry room,pantry room,pantry room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: plunger
+Locations: trap, basement, bathroom, house, dining room
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: portable speaker
+Locations: oven, playroom, oven, house, attic
+Your Choice:",playroom,playroom,playroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: poster
+Locations: corridor, freezer, bedroom, dining room, family room
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: pot
+Locations: storage room, kitchen, freezer, bathroom, room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: potato
+Locations: kitchen, playroom, childs room, exercise room, living room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: potted meat can
+Locations: corridor, box, can, freezer, jar
+Your Choice:",can,can,corridor
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: power drill
+Locations: house, room, kitchen, jar, can
+Your Choice:",house,house,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: pressure cooker
+Locations: family room, dumpster, trap, home office, can
+Your Choice:",kitchen,None,home office
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: pudding box
+Locations: utility room, freezer, box, attic, oven
+Your Choice:",freezer,freezer,utility room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: puzzle game
+Locations: freezer, dumpster, utility room, jar, freezer
+Your Choice:",utility room,utility room,utility room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: racquetball
+Locations: house, playroom, basement, freezer, family room
+Your Choice:",basement,basement,playroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: ramekin
+Locations: can, bar, trap, playroom, cellar
+Your Choice:",kitchen,None,playroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: remote control
+Locations: jar, jar, exercise room, bar, family room
+Your Choice:",family room,family room,exercise room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: remotecontrol
+Locations: family room, bedroom, basement, dining room, childs room
+Your Choice:",family room,family room,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: rmal laminator
+Locations: can, can, freezer, bar, living room
+Your Choice:",bar,bar,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: roast
+Locations: childs room, bathroom, oven, trap, closet
+Your Choice:",oven,oven,oven
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: roomdecor
+Locations: pantry room, living room, box, cellar, dumpster
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: router
+Locations: basement, house, dumpster, family room, bedroom
+Your Choice:",basement,basement,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: rubiks cube
+Locations: can, bar, cellar, basement, home office
+Your Choice:",home office,home office,home office
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: safe
+Locations: attic, living room, attic, box, jar
+Your Choice:",attic,attic,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: salt shaker
+Locations: dumpster, family room, bathroom, trap, box
+Your Choice:",family room,family room,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: saltshaker
+Locations: dining room, house, freezer, lobby, kitchen
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: sanitary pads
+Locations: trap, jar, trap, bedroom, can
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: saucer
+Locations: oven, dumpster, dumpster, kitchen, freezer
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: saute pan
+Locations: dumpster, room, kitchen, box, freezer
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: scissors
+Locations: dumpster, cellar, exercise room, freezer, house
+Your Choice:",house,house,exercise room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: scrubbrush
+Locations: television room, room, storage room, bathroom, basement
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: set-top box
+Locations: trap, oven, house, trap, bathroom
+Your Choice:",house,house,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: shelf
+Locations: basement, television room, trap, bedroom, basement
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: shelvingunit
+Locations: bar, attic, television room, bedroom, playroom
+Your Choice:",attic,attic,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: shoe
+Locations: closet, oven, cellar, bar, cellar
+Your Choice:",closet,closet,closet
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: shoe box
+Locations: freezer, bar, corridor, can, oven
+Your Choice:",corridor,corridor,corridor
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: showercurtain
+Locations: room, storage room, pantry room, cellar, bathroom
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: showerdoor
+Locations: kitchen, kitchen, corridor, television room, bathroom
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: showerglass
+Locations: dining room, dining room, basement, bathroom, attic
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: showerhead
+Locations: bathroom, dining room, cellar, exercise room, bar
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: shredder
+Locations: pantry room, can, freezer, room, trap
+Your Choice:",room,room,pantry room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: sidetable
+Locations: family room, oven, living room, closet, corridor
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: sidewalk chalk
+Locations: living room, oven, can, dumpster, family room
+Your Choice:",family room,family room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: sink
+Locations: television room, childs room, attic, closet, kitchen
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: sinkbasin
+Locations: family room, lobby, garage, freezer, bathroom
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: skillet
+Locations: trap, house, trap, exercise room, box
+Your Choice:",house,house,exercise room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: skillet lid
+Locations: attic, closet, can, box, room
+Your Choice:",closet,closet,closet
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: skin care product
+Locations: freezer, trap, cellar, corridor, bar
+Your Choice:",bar,bar,corridor
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: skin moisturizer
+Locations: bathroom, house, box, house, attic
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: snack cake
+Locations: box, room, trap, lobby, oven
+Your Choice:",kitchen,None,lobby
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: snack dispenser
+Locations: trap, utility room, freezer, basement, house
+Your Choice:",kitchen,None,utility room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: soap dish
+Locations: house, can, childs room, box, basement
+Your Choice:",basement,basement,childs room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: soap dispenser
+Locations: trap, kitchen, attic, cellar, box
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: soapbar
+Locations: dining room, closet, closet, television room, bathroom
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: soapbottle
+Locations: basement, childs room, freezer, bathroom, pantry room
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: sofa
+Locations: bathroom, living room, utility room, basement, basement
+Your Choice:",living room,living room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: softball
+Locations: freezer, oven, family room, freezer, bedroom
+Your Choice:",family room,family room,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: software cd
+Locations: jar, dining room, bar, bar, attic
+Your Choice:",attic,attic,dining room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: sorting toy
+Locations: house, playroom, freezer, dumpster, bar
+Your Choice:",playroom,playroom,playroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: sparkling water
+Locations: cellar, garage, jar, jar, freezer
+Your Choice:",cellar,cellar,garage
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: spatula
+Locations: family room, house, cellar, house, kitchen
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: spider
+Locations: bedroom, cellar, bedroom, pantry room, television room
+Your Choice:",cellar,cellar,cellar
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: sponge
+Locations: basement, utility room, attic, family room, box
+Your Choice:",utility room,utility room,utility room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: sponge dish
+Locations: pantry room, basement, bar, trap, can
+Your Choice:",kitchen,None,pantry room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: spoon
+Locations: kitchen, can, bar, room, attic
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: spoon rest
+Locations: attic, oven, bathroom, family room, dumpster
+Your Choice:",kitchen,None,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: spraybottle
+Locations: jar, jar, dumpster, freezer, bathroom
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: stacking cups
+Locations: room, trap, basement, family room, closet
+Your Choice:",family room,room,closet
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: stand mixer
+Locations: bar, family room, pantry room, attic, bar
+Your Choice:",Pantry room,pantry room,pantry room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: statue
+Locations: kitchen, can, dining room, can, house
+Your Choice:",dining room,dining room,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: steak
+Locations: childs room, television room, exercise room, family room, freezer
+Your Choice:",freezer,freezer,freezer
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: stool
+Locations: childs room, trap, corridor, kitchen, house
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: storage bin
+Locations: trap, cellar, basement, closet, basement
+Your Choice:",basement,basement,closet
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: stoveburner
+Locations: bar, box, closet, kitchen, freezer
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: stoveknob
+Locations: garage, pantry room, bathroom, pantry room, kitchen
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: strawberry
+Locations: freezer, can, freezer, storage room, oven
+Your Choice:",freezer,freezer,storage room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: string lights
+Locations: freezer, dumpster, dumpster, bedroom, oven
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: stuffed toy
+Locations: cellar, house, family room, house, kitchen
+Your Choice:",family room,family room,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: sugar box
+Locations: freezer, room, utility room, basement, family room
+Your Choice:",kitchen,None,utility room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: sugar sprinkles
+Locations: room, oven, family room, dining room, bar
+Your Choice:",kitchen,None,dining room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: surface saver ring
+Locations: trap, oven, exercise room, bar, basement
+Your Choice:",bar,bar,exercise room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: sushi mat
+Locations: exercise room, trap, room, jar, attic
+Your Choice:",kitchen,None,exercise room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: table
+Locations: home office, jar, pantry room, playroom, bedroom
+Your Choice:",home office,home office,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: table lamp
+Locations: dumpster, attic, box, dining room, jar
+Your Choice:",dining room,dining room,dining room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: tablet
+Locations: freezer, pantry room, house, box, freezer
+Your Choice:",house,house,pantry room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: tablet holder
+Locations: jar, can, house, dining room, jar
+Your Choice:",dining room,dining room,dining room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: tablet stand
+Locations: dumpster, playroom, jar, freezer, freezer
+Your Choice:",playroom,playroom,playroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: tabletopdecor
+Locations: bar, exercise room, bedroom, dumpster, exercise room
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: tampon
+Locations: can, can, childs room, house, attic
+Your Choice:",bathroom,None,childs room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: tea can pack
+Locations: basement, attic, kitchen, box, house
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: tea pods
+Locations: attic, lobby, can, basement, jar
+Your Choice:",can,can,lobby
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: teapot
+Locations: storage room, oven, basement, trap, box
+Your Choice:",storage room,storage room,storage room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: teddybear
+Locations: bedroom, childs room, television room, house, oven
+Your Choice:",childs room,childs room,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: television
+Locations: jar, childs room, bedroom, freezer, utility room
+Your Choice:",Bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: tennis ball
+Locations: oven, attic, storage room, house, oven
+Your Choice:",storage room,storage room,storage room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: tennisracket
+Locations: bedroom, closet, oven, box, television room
+Your Choice:",closet,closet,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: tissuebox
+Locations: childs room, can, room, home office, living room
+Your Choice:",living room,room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: toaster
+Locations: kitchen, box, attic, trap, basement
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: toilet
+Locations: bar, bathroom, utility room, attic, storage room
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: toiletpaper
+Locations: bathroom, oven, lobby, garage, basement
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: toiletpaperhanger
+Locations: bedroom, bathroom, box, exercise room, television room
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: tomato
+Locations: closet, cellar, freezer, attic, kitchen
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: tomato soup can
+Locations: bar, cellar, bar, attic, childs room
+Your Choice:",cellar,cellar,childs room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: toothbrush holder
+Locations: bar, room, kitchen, jar, basement
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: toothbrush pack
+Locations: attic, trap, utility room, can, box
+Your Choice:",utility room,utility room,utility room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: towel
+Locations: box, bar, bar, bathroom, freezer
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: towelholder
+Locations: cellar, bedroom, childs room, television room, bathroom
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: toy
+Locations: utility room, box, freezer, basement, house
+Your Choice:",box,box,box
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: toy airplane
+Locations: cellar, attic, box, oven, bedroom
+Your Choice:",Attic,attic,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: toy animal
+Locations: can, corridor, family room, box, family room
+Your Choice:",family room,family room,corridor
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: toy basketball
+Locations: room, can, basement, jar, bedroom
+Your Choice:",basement,basement,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: toy bowling set
+Locations: freezer, can, cellar, can, pantry room
+Your Choice:",cellar,cellar,pantry room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: toy construction set
+Locations: trap, jar, pantry room, house, can
+Your Choice:",house,house,pantry room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: toy fishing
+Locations: bedroom, oven, cellar, oven, freezer
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: toy food
+Locations: freezer, attic, cellar, cellar, garage
+Your Choice:",playroom,None,garage
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: toy furniture set
+Locations: house, cellar, utility room, freezer, family room
+Your Choice:",family room,family room,utility room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: toy instrument
+Locations: house, box, jar, utility room, oven
+Your Choice:",house,house,utility room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: toy kitchen set
+Locations: family room, utility room, can, oven, dumpster
+Your Choice:",family room,family room,utility room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: toy tool kit
+Locations: can, house, jar, oven, utility room
+Your Choice:",utility room,utility room,utility room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: toy vehicle
+Locations: bathroom, bar, house, attic, can
+Your Choice:",house,house,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: tray
+Locations: house, house, attic, living room, bar
+Your Choice:",bar,bar,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: tumbler
+Locations: box, bar, oven, family room, garage
+Your Choice:",bar,bar,garage
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: tv
+Locations: jar, family room, living room, room, television room
+Your Choice:",Living room,living room,family room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: tvstand
+Locations: childs room, room, room, storage room, living room
+Your Choice:",living room,room,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: umbrella
+Locations: home office, house, room, basement, house
+Your Choice:",house,house,home office
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: usb drive
+Locations: television room, trap, basement, family room, oven
+Your Choice:",basement,basement,television room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: utensil holder
+Locations: box, dumpster, home office, attic, house
+Your Choice:",kitchen,None,home office
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: vacuumcleaner
+Locations: oven, dumpster, corridor, garage, bedroom
+Your Choice:",Garage,garage,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: vase
+Locations: bedroom, box, basement, cellar, can
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: video game
+Locations: can, lobby, trap, box, jar
+Your Choice:",box,box,lobby
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: vinyl tape
+Locations: bar, trap, room, bathroom, can
+Your Choice:",room,room,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: virtual reality viewer
+Locations: can, oven, trap, utility room, box
+Your Choice:",utility room,utility room,utility room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: wardrobe
+Locations: dining room, freezer, jar, trap, room
+Your Choice:",room,room,room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: washcloth
+Locations: bar, room, can, exercise room, cellar
+Your Choice:",bar,bar,exercise room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: waste basket
+Locations: playroom, bar, basement, basement, trap
+Your Choice:",basement,basement,playroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: watch
+Locations: can, bedroom, family room, basement, storage room
+Your Choice:",bedroom,bedroom,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: water bottle
+Locations: cellar, bathroom, oven, oven, can
+Your Choice:",bathroom,bathroom,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: wateringcan
+Locations: living room, can, trap, childs room, dumpster
+Your Choice:","None of the given options seem suitable, but if I had to choose from the list: can",can,living room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: weight loss guide
+Locations: basement, box, attic, house, childs room
+Your Choice:",basement,basement,childs room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: whale whistle
+Locations: jar, bar, bedroom, jar, attic
+Your Choice:",bar,bar,bedroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: window
+Locations: family room, bathroom, closet, lobby, jar
+Your Choice:",family room,family room,bathroom
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: wine glass
+Locations: pantry room, oven, kitchen, house, living room
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: winebottle
+Locations: kitchen, oven, jar, family room, playroom
+Your Choice:",kitchen,kitchen,kitchen
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: wipe warmer
+Locations: dumpster, closet, box, box, oven
+Your Choice:",closet,closet,closet
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: wireless accessory
+Locations: television room, basement, attic, bar, can
+Your Choice:",television room,television room,television room
+"Here are a few examples:
+Object: Teddy bear
+Location: childs room
+Object: Teddy bear
+Location: childs room
+Object: nightstand
+Location: bedroom
+Object: Toaster
+Location: kitchen
+Object: Treadmill
+Location: exercise room
+Object: Alarm clock
+Location: bedroom
+Object: Toys
+Location: playroom
+Object: Toaster
+Location: kitchen
+
+Object: xylitol sweetener
+Locations: cellar, family room, box, house, garage
+Your Choice:",kitchen,None,garage
