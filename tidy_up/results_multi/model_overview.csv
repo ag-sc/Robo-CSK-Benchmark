@@ -15,4 +15,8 @@ Llama-3.3-70B-Instruct_meta,0.4882506527415143
 Llama-3.3-70B-Instruct_selfref,0.4960835509138381
 Llama-3.3-70B-Instruct_stepback,0.4856396866840731
 Llama-3.3-70B-Instruct_sgicl,0.4804177545691906
-Llama-3.3-70B-Instruct_contr,0.46736292428198434
+Llama-3.3-70B-Instruct_contr,0.4673629242819843
+gemma-2-27b-it_rar,0.4856396866840731
+gemma-2-27b-it_meta,0.5065274151436031
+gemma-2-27b-it_selfref,0.4412532637075718
+gemma-2-27b-it_sgicl,0.4856396866840731
