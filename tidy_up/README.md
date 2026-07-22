@@ -7,6 +7,7 @@ This problem is encapsulated by the following two commonsense questions the robo
 - What are the prototypical locations for these objects?
 
 To answer these questions, we provide a list of 868 household objects and their associated locations.
+The results are summarized in [results.md](results.md).
 
 ## Data Structure
 
@@ -75,22 +76,6 @@ Locations: [List of 5 Locations]
 Your Choice:
 
 ---
-
-## Results
-
-We analyse the results for each model using different metrics depending on the type of question in the experiment.
-For the open ended questions, we rely on the following ranking-based metrics:
-- Mean Reciprocal Rank (MRR) of the generated answers when compared to the gold standard ranked list
-- Mean Average Precision @k (MAP@k) over all objects (evaluated for k=1, k=3 & k=5)
-- Mean Average Recall @k (MAR@k) over all objects (evaluated for k=1, k=3 & k=5)
-
-For the multiple choice questions, we evaluate the Accuracy (Acc) of the model answers.
-
-| LLM                    | MRR       | MAP@1     | MAP@3     | MAP@5     | MAR@1     | MAR@3     | MAR@5     | Acc       |
-|------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| gpt-4o-2024-08-06      | 0.661     | 0.580     | 0.628     | 0.580     | 0.147     | 0.221     | 0.249     | 0.509     |
-| Llama-3.3-70B-Instruct | **0.680** | **0.608** | **0.645** | **0.584** | **0.158** | **0.225** | **0.256** | 0.496     |
-| gemma-2-27b-it         | 0.348     | 0.274     | 0.321     | 0.307     | 0.096     | 0.144     | 0.157     | **0.522** |
 
 ## References
 

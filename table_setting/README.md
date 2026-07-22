@@ -12,6 +12,7 @@ To answer these questions, we used crowdsourcing to gather data about 100 recipe
 For the cutlery, the participants could choose as many as they preferred from a given list of available tools (*Hands, Tongs, Knife, Fork, Skewer, Chopsticks & Spoon*).
 For the plate, they had to choose exactly one from the following list: *Dinner Plate, Dessert Plate, Bowl & Coupe Plate*.
 In addition to these choices, the participants were provided with a one sentence explanation for each meal and for each type of plate.
+The results are summarized in [results.md](results.md).
 
 ## Data Structure
 
@@ -54,14 +55,6 @@ Plate:
 We analyse the results for each model using different metrics for the plates and the cutlery:
 - For the plates, we calculate the accuracy of the model prediction
 - For the cutlery, we calculate the Jaccard Coefficient based on the predicted and the correct list
-
-## Results
-
-| LLM                    | Acc       | Jaccard   |
-|------------------------|-----------|-----------|
-| gpt-4o-2024-08-06      | 0.730     | 0.702     |
-| Llama-3.3-70B-Instruct | **0.790** | **0.739** |
-| gemma-2-27b-it         | **0.790** | 0.642     |
 
 ## References
 

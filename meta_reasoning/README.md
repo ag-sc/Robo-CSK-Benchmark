@@ -8,6 +8,7 @@ This problem is encapsulated by the following two commonsense questions the robo
 - Can I evaluate which other agent could help me?
 
 To answer these questions, we provide a list of 4788 manipulation tasks and information about the minimal robotic setup necessary for executing this task.
+The results are summarized in [results.md](results.md).
 
 ## Robotic Capabilities
 
@@ -91,14 +92,6 @@ For the binary questions, we analyse the results for each model using the follow
 - F1-Score
 
 For the multiple choice questions, we evaluate the Accuracy of the model answers.
-
-## Results
-
-| LLM                    | TNs  | TPs  | FNs  | FPs | Ratio | Acc (B)   | Prec      | Rec       | Spec      | F1        | Acc (MC)  |
-|------------------------|------|------|------|-----|-------|-----------|-----------|-----------|-----------|-----------|-----------|
-| GPT-4o                 | 4772 | 2616 | 2172 | 16  | 0.379 | 0.772     | **0.994** | 0.546     | **0.997** | 0.705     | **0.790** |
-| Llama-3.3-70B-Instruct | 4737 | 4294 | 494  | 51  | 0.831 | **0.943** | 0.988     | **0.897** | 0.989     | **0.940** | 0.737     |
-| gemma-2-27b-it         | 4621 | 4061 | 727  | 167 | 0.791 | 0.907     | 0.961     | 0.848     | 0.965     | 0.901     | 0.658     |
 
 ## References
 

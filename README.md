@@ -1,107 +1,101 @@
-# Bachelors Thesis - Evaluating Commonsense Capabilities Through Prompt Engineering
-This thesis builds upon the [RoboCSKBench](https://ieeexplore.ieee.org/abstract/document/11078036)[^1].
+# RoboCSKBench: Benchmarking Embodied Commonsense Capabilities of Large Language Models
 
-The aim of this thesis is to implement different prompting techniques and
-evaluate their performance on the benchmark RoboCSKBench, which cur-
-rently consists of five tasks. In addition to this, the thesis explores possible
-improvements to the original prompts of the RoboCSKBench using the frame-
-work DSPy.
-Seven different prompting techniques are implemented and their perfor-
-mance on the RoboCSKBench is evaluated using the models GPT-4o-mini,
-Llama 3.3 and Gemma 2. The results are then compared to the results of a
-basic role-based prompt. Additionally, two tasks of the RoboCSKBench are
-implemented with the framework DSPy and their prompts optimized using
-the built-in optimization algorithm MIPROv2.
-Most prompting techniques achieve results comparable to the basic role-
-based approach, with considerable deviations only seen in specific cases.
-Prompts optimized using MIPROv2 employ more descriptive language but
-result in the same performance as a basic implementation of the tasks using
-DSPy.
-As the results obtained in this thesis were not averaged over multiple
-evaluations, their significance is limited, leaving opportunities for further
-research.
+Recent technological advancements have led to an increased use of autonomous agents in households for simpler, navigation-focused tasks since these functions are relatively straightforward.
+However, deploying more advanced embodied agents for complex manipulation tasks remains challenging due to the open-world nature of home environments, where commonsense knowledge plays a crucial role in adapting to diverse situations.
 
-# Usage
-The program structure is mostly the same as the [RoboCSKBench](https://ieeexplore.ieee.org/abstract/document/11078036), therefore, usage of the program is similar as well:
-## Prompt with different techniques
-1. Choose a list of models to prompt with. The models currently included are **GPT-4o-mini**, **Llama 3.3** and **Gemma 2**.
-2. Choose a list of tasks of the [RoboCSKBench](https://ieeexplore.ieee.org/abstract/document/11078036).
-3. Choose a list of prompting techniques. Current techniques are
-  - Self-Generated In-Context Learning[^2] (SG-ICL)
-  - Rephrase and Respond[^3] (RaR)
-  - Step-Back Prompting[^4]
-  - Contrastive Chain of Thought[^5]
-  - Metacongnitive Prompting[^6]
-  - Self-Consistency[^7]
-  - Self-Refine[^8]
-4. Optionally, a starting and ending point for the questions can be specified. This allows partial runs of the tasks with the techniques.
+In this paper, we are proposing the RoboCSKBench, a language-based multi-task benchmark to assess embodied commonsense knowledge capabilities of agents and systems interacting in dynamic household environments.
+Our benchmark combines varying resources (e.g. knowledge graphs, manipulation benchmarks, public datasets) to provide data for five different, commonly encountered household tasks: Tidy Up, Tool Usage, Meta-Reasoning, Table Setting and Cooking Procedures.
+For each task, we provide the extracted data and a set of metrics for the evaluation, but we envision our benchmark to be extendable through the addition of new commonsense-based tasks or different applications of the already existing data.
 
-## Prompt with DSPy[^9]
-For the thesis, the tasks **[Table Setting](./table_setting/README.md)** and **[Tool Usage](./tool_usage/README.md)** were implemented
-using the Framework DSPy. The functionalities regarding DSPy are the following:
-  - Evaluating the performance of a DSPy implementation of the basic role-based prompt from the [RoboCSKBench](https://ieeexplore.ieee.org/abstract/document/11078036).
-  - Optimization and evaluation of a basic DSPy implementation with MIPROv2[^10]
-  - Optimization and evaluation of a the DSPy implementation of the basic role-based prompt with MIPROv2[^10]
-The DSPy program that was last evaluated is stored. This stored program can also be shown and evaluated again.
+As an exemplary application, we assess the embodied commonsense capabilities of three state-of-the-art large language models with this benchmark.
+Our results indicate a diverse foundation, with model performance varying across different tasks, suggesting that no single model serves as the definitive solution.
+On the contrary, all models exhibit limitations, leaving room for further optimization and improvement.
 
-# Outputs
-Many of the techniques lead to more complicated model answers, from which the final answers get extracted. These final answers along with the questions get collected and
-stored in a result file. The prompts and full answers are stored in a log file. A short summary of the performances is also kept.
-The following table details the different file locations:
+## Publication
 
-| Task           | Link to Results                                                                                               | Log folder                        | Complete result folder                     |
-|----------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------|
-|Tidy Up         | [tidy_up/results_multi/model_overview.csv](tidy_up/results_multi/model_overview.csv)                          | tidy_up/logs/{model}              | tidy_up/results_multi/{model}              |
-|Tool Usage      | [tool_usage/results/model_overview.csv](tool_usage/results/model_overview.csv)                                | tool_usage/logs/{model}           | tool_usage/results/{model}                 |
-|Meta-Reasoning  | [meta_reasoning/results_multi/model_overview.csv](meta_reasoning/results_multi/model_overview.csv)            | meta_reasoning/logs/{model}       | meta_reasoning/results_multi/{model}       |
-|Table Setting   | [table_setting/results/model_overview.csv](table_setting/results/model_overview.csv)                          | table_setting/logs/{model}        | table_setting/results/{model}              |
-|Procedural Know.| [procedural_knowledge/results_multi/model_overview.csv](procedural_knowledge/results_multi/model_overview.csv)| procedural_knowledge/logs/{model} | procedural_knowledge/results_multi/{model} |
+The accompanying paper has been presented at the **22nd International Conference on Ubiquitous Robots (UR 2025)**. 
+You can find the paper on [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/11078036).
+Please use the following citation when working with the benchmark:
+```
+@inproceedings{Toberg2025RoboCSKBenchBenchmarking,
+  title = {RoboCSKBench: Benchmarking Embodied Commonsense Capabilities of Large Language Models},
+  booktitle = {2025 22nd International Conference on Ubiquitous Robots (UR)},
+  author = {Töberg, Jan-Philipp and Kenneweg, Svenja and Cimiano, Philipp},
+  year = {2025},
+  pages = {199--206},
+  address = {College Station, Texas, USA},
+  doi = {10.1109/UR65550.2025.11078036}
+}
+```
 
-[^1]: J.-P. Töberg, S. Kenneweg, and P. Cimiano. Robocskbench: Bench-
-marking embodied commonsense capabilities of large language mod-
-els. In 2025 22nd International Conference on Ubiquitous Robots (UR),
-pages 199–206, 2025. doi: 10.1109/UR65550.2025.11078036.
+## Embodied Commonsense
 
-[^2]: T. B. Brown, B. Mann, N. Ryder, M. Subbiah, J. Kaplan, P. Dhariwal,
-A. Neelakantan, P. Shyam, G. Sastry, A. Askell, S. Agarwal, A. Herbert-
-Voss, G. Krueger, T. Henighan, R. Child, A. Ramesh, D. M. Ziegler,
-J. Wu, C. Winter, C. Hesse, M. Chen, E. Sigler, M. Litwin, S. Gray,
-B. Chess, J. Clark, C. Berner, S. McCandlish, A. Radford, I. Sutskever,
-and D. Amodei. Language models are few-shot learners, 2020. URL
-https://arxiv.org/abs/2005.14165.
+**Embodied commonsense knowledge** covers all information that an embodied agent needs to seamlessly interact with and understand its dynamic Everyday environment. 
+ This includes but is not limited to:
+ - Knowledge about participating objects, their (task-specific) properties and affordances[^1]
+ - Knowledge about intuitive physics and causality[^2]
+ - Knowledge about intuitive psychology and the mindfulness of other agents[^2]
+ - Temporal knowledge about typical tasks (e.g. ordering, duration)[^3]
 
-[^3]: Y. Deng, W. Zhang, Z. Chen, and Q. Gu. Rephrase and respond: Let
-large language models ask better questions for themselves, 2024. URL
-https://arxiv.org/abs/2311.04205.
+## Benchmark Overview
 
-[^4]: H. S. Zheng, S. Mishra, X. Chen, H.-T. Cheng, E. H. Chi, Q. V. Le, and
-D. Zhou. Take a step back: Evoking reasoning via abstraction in large
-language models, 2024. URL https://arxiv.org/abs/2310.06117.
+We propose **RoboCSKBench**, which is a language-driven benchmark for assessing the embodied commonsense capabilities of large language models as well as any approach working in the robotic household domain.
+The benchmark currently focuses on the five most common commonsense aspects investigated by robotics researchers in the past ten years[^4].
 
-[^5]: Y. K. Chia, G. Chen, L. A. Tuan, S. Poria, and L. Bing. Con-
-trastive chain-of-thought prompting, 2023. URL https://arxiv.org/
-abs/2311.09277.
+We envision the proposed benchmark to be an extendable framework focusing not only on the five exemplary tasks we propose here, but also on future tasks to be incorporated under the *RoboCSKBench* umbrella, similar to the GLUE benchmark for natural language understanding[^5].
+We encourage other researchers and practitioners alike to benchmark their approaches and models, either on a single tasks or on the whole benchmark.
 
-[^6]: Y. Wang and Y. Zhao. Metacognitive prompting improves understand-
-ing in large language models, 2024. URL https://arxiv.org/abs/
-2308.05342.
+The five tasks currently included in the benchmark are the following:
+- **[Tidy Up](./tidy_up/README.md)**: This task is centred around the problem of identifying prototypical locations for objects inside a household environment.
+The main focus is on providing the model with a specific household object and returning a ranked list of locations in a household where the object can be expected.
+The data can also be used to reason about objects that are out of place at their current location and thus need to be moved to a different place.
+- **[Tool Usage](./tool_usage/README.md)**: The second task focuses on the concept of affordances, which describe what an object or the environment offers an agent[^6].
+We provide a list of objects with their respective affordances and a list of example tasks for each affordance. 
+- **[Meta-Reasoning](./meta_reasoning/README.md)**: To evaluate the models capabilities in evaluating whether a specific robotic hardware setup is capable of executing a specific task, we propose this task.
+In the data, we provide different tasks written as single sentence natural language instructions and a robotic setup that has was demonstrated to be capable of executing the task.
+For each robotic setup, we provide the following information: Is the robot stationary or can it move? How many arms does it have? How many degrees of freedom does the arms have? What type of gripper is used? Are the grippers soft or rigid?
+- **[Table Setting](./table_setting/README.md)**: In this task, the embodied agent should set the dinner table for a specific meal. 
+This includes choosing the correct type of cutlery and the correct type of plate, so we provide a list of meals with their respective cutlery and plate.
+- **[Procedural Knowledge](./procedural_knowledge/README.md)**: The last task evaluates a models ability to reason about the correct chronological sequence of two steps from a cooking recipe. 
+Inspired by the *Event Ordering* task[^7], the model must decide in the case of a binary answer whether on step is done before or after another. In the case of a multiple choice answer the model must decide which step out of five is done before or after another.
+Therefore, we provide the recipe title and specific cooking steps from this recipe.
 
-[^7]: X. Wang, J. Wei, D. Schuurmans, Q. Le, E. Chi, S. Narang, A. Chowd-
-hery, and D. Zhou. Self-consistency improves chain of thought reasoning
-in language models, 2023. URL https://arxiv.org/abs/2203.11171.
+Below you can find an overview over the five tasks with their variations, question type, size and link to the results:
 
-[^8]: A. Madaan, N. Tandon, P. Gupta, S. Hallinan, L. Gao, S. Wiegreffe,
-U. Alon, N. Dziri, S. Prabhumoye, Y. Yang, S. Gupta, B. P. Majumder,
-K. Hermann, S. Welleck, A. Yazdanbakhsh, and P. Clark. Self-refine:
-Iterative refinement with self-feedback, 2023. URL https://arxiv.
-org/abs/2303.17651
+| Abbr  | Task                    | Question Type   | # Questions | Results                                                            |
+|-------|-------------------------|-----------------|-------------|--------------------------------------------------------------------|
+| TU-G  | Tidy Up                 | Generative      | 383         | [tidy_up/results.md](tidy_up/results.md)                           |
+| TU-MC | Tidy Up                 | Multiple Choice | 383         | [tidy_up/results.md](tidy_up/results.md)                           |
+| ToUs  | Tool Usage              | Multiple Choice | 291         | [tool_usage/results.md](tool_usage/results.md)                     |
+| MR-S  | Meta-Reasoning          | Binary          | 9,576       | [meta_reasoning/results.md](meta_reasoning/results.md)             |
+| MR-MC | Meta-Reasoning          | Multiple Choice | 4,788       | [meta_reasoning/results.md](meta_reasoning/results.md)             |
+| TS-U  | Table Setting (Utensils | Multiple Choice | 100         | [table_setting/results.md](table_setting/results.md)               |
+| TS-P  | Table Setting (Plates)  | Multiple Choice | 100         | [table_setting/results.md](table_setting/results.md)               |
+| PK-S  | Procedural Knowledge    | Binary          | 3,104       | [procedural_knowledge/results.md](procedural_knowledge/results.md) |
+| PK-MC | Procedural Knowledge    | Multiple Choice | 1,600       | [procedural_knowledge/results.md](procedural_knowledge/results.md) |
 
-[^9]: O. Khattab, A. Singhvi, P. Maheshwari, Z. Zhang, K. Santhanam,
-S. Vardhamanan, S. Haq, A. Sharma, T. T. Joshi, H. Moazam, H. Miller,
-M. Zaharia, and C. Potts. Dspy: Compiling declarative language model
-calls into self-improving pipelines. 2024
+You have any new results to report? Please reach out to [Jan-Philipp Töberg](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/semantic-computing/team/jan-philipp-toeberg/) (jtoeberg(at)techfak(dot)uni-bielefeld(dot)de).
 
-[^10]: K. Opsahl-Ong, M. J. Ryan, J. Purtell, D. Broman, C. Potts, M. Za-
-haria, and O. Khattab. Optimizing instructions and demonstrations for
-multi-stage language model programs, 2024. URL https://arxiv.org/
-abs/2406.11695
+## Setup
+
+Apart from installing the [required](requirements.txt) Python packages, you need to create the "credentials.json" file in the root folder in which you save the OpenAI API key:
+```json
+{
+    "api_key": "api-key-here"
+}
+```
+You can then adapt the settings (Which LLMs to use? Which tasks to evaluate) in the main.py and start benchmarking!
+
+[^1]: R. Gupta and M. J. Kochenderfer, ‘Common Sense Data Acquisition for Indoor Mobile Robot’, in Proceedings of the 19th national conference on Artifical intelligence, in AAAI’04. San Jose, California: AAAI Press, Jul. 2004, pp. 605–610.
+
+[^2]: B. M. Lake, T. D. Ullman, J. B. Tenenbaum, and S. J. Gershman, ‘Building Machines That Learn and Think Like People’, The Behavioral and Brain Sciences, vol. 40, pp. 1–72, 2017, doi: 10.1017/S0140525X16001837.
+
+[^3]: B. Zhou, D. Khashabi, Q. Ning, and D. Roth, ‘“Going on a vacation” takes longer than “Going for a walk”: A Study of Temporal Commonsense Understanding’, in Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), Hong Kong, China: Association for Computational Linguistics, 2019, pp. 3361–3367. doi: 10.18653/v1/D19-1332.
+
+[^4]: J.-P. Töberg, A.-C. N. Ngomo, M. Beetz, and P. Cimiano, ‘Commonsense knowledge in cognitive robotics: a systematic literature review’, Front. Robot. AI, vol. 11, 2024, doi: 10.3389/frobt.2024.1328934.
+
+[^5]: A. Wang, A. Singh, J. Michael, F. Hill, O. Levy, and S. R. Bowman, ‘GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding’, in ICLR 2019 · The Seventh International Conference on Learning Representations, New Orleans, LA, USA, 2019. doi: 10.48550/ARXIV.1804.07461.
+
+[^6]: M. H. Bornstein and J. J. Gibson, ‘The Ecological Approach to Visual Perception’, The Journal of Aesthetics and Art Criticism, vol. 39, no. 2, p. 203, 1980, doi: 10.2307/429816.
+
+[^7]: L. Zhang, Q. Lyu, and C. Callison-Burch, ‘Reasoning about Goals, Steps, and Temporal Ordering with WikiHow’, in Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), Online: Association for Computational Linguistics, 2020, pp. 4630–4639. doi: 10.18653/v1/2020.emnlp-main.374.

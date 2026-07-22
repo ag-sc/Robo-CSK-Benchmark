@@ -8,7 +8,7 @@ This problem is encapsulated by the following two temporal commonsense questions
 - In the recipe {title}, did {step_1} occur after {step_2}?
 
 To ensure a balanced dataset, we alternate the order of step_1 and step_2 in the queries.
-
+The results are summarized in [results.md](results.md).
 
 ## Data Generation
 
@@ -60,31 +60,6 @@ Question: [List of 5 Answer Options]
 If the question contains the temporal relation "after", we modify the temporal relation in the system prompt accordingly. 
 For our experiment, we selected 800 recipes during the data generation process. 
 For each recipe, we ask two questions: one regarding the "before" temporal relation and one regarding the "after" temporal relation. This results in a total of 800 * 2 = 1600 questions.
-
-## Results
-
-### Binary
-We analyse the results for each model using the following metrics:
-- Amount of true positives (TPs), true negatives (TNs), false positives (FPs) & false negatives (FNs)
-- Ratio of positive to negative answers by the model (Formula: (TPs + FPs) / (TNs + FNs))
-- Accuracy, Precision, Recall, Specificity
-- F1-Score
-
-| LLM                    | TNs      | TPs      | FNs   | FPs    | Ratio | Acc       | Prec      | Rec       | Spec      | F1        |
-|------------------------|----------|----------|-------|--------|-------|-----------|-----------|-----------|-----------|-----------|
-| gpt-4o-2024-08-06      | **1362** | 1511     | 41    | **190**| 1.212 | **0.926** | **0.888** | 0.974     | **0.878** | **0.929** |
-| Llama-3.3-70B-Instruct | 1339     | 1501     | 51    | 213    | 1.233 | 0.915     | 0.876     | 0.967     | 0.863     | 0.919     |
-| gemma-2-27b-it         | 754      | **1543** | **9** | 798    | 3.068 | 0.740     | 0.659     | **0.994** | 0.486     | 0.793     |
-
-
-### Multiple Choice
-We analyse the results for each model using accuracy.
-
-| LLM                    | Total | Correct  | Accuracy  |
-|------------------------|-------|----------|-----------|
-| gpt-4o-2024-08-06      | 1600  | **1462** | **0.914** |
-| Llama-3.3-70B-Instruct | 1600  | 1357     | 0.848     |
-| gemma-2-27b-it         | 1600  | 1294     | 0.809     | 
 
 
 ## References

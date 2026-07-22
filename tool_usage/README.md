@@ -9,6 +9,7 @@ This problem is encapsulated by the following commonsense questions the robot sh
 
 To answer these questions, we provide a list of 494 household objects and their associated affordances (*affordance_data.csv*).
 For each unique affordance, we provide between 1 and 11 household tasks where this affordance is needed (*affordance_task_map.json*).
+The results are summarized in [results.md](results.md).
 
 ## Data Structure
 
@@ -73,14 +74,6 @@ The other four objects are randomly chosen from the list of objects without the 
 
 We analyse the results for each model using the following metric:
 - Accuracy (of choosing the correct tool)
-
-## Results
-
-| LLM                    | Acc       |
-|------------------------|-----------|
-| gpt-4o-2024-08-06      | **0.564** |
-| Llama-3.3-70B-Instruct | 0.550     |
-| gemma-2-27b-it         | 0.543     |
 
 ## References
 
